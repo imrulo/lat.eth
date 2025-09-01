@@ -1,130 +1,130 @@
-# 🎨 Visualizaciones del Proyecto Livadance ENS Grant
+# 🎨 Livadance ENS Grant Project Visualizations
 
-Este directorio contiene visualizaciones interactivas y profesionales para la propuesta de grant de ENS DAO.
+This directory contains interactive and professional visualizations for the ENS DAO grant proposal.
 
-## 📁 Archivos Disponibles
+## 📊 Available Visualizations
 
-### 1. **budget-breakdown.html** - Desglose del Presupuesto
-- **Descripción**: Visualización interactiva del presupuesto de 15,000 USDC
-- **Características**: 
-  - Distribución porcentual del presupuesto
-  - Estructura de financiamiento progresivo
-  - Justificación cultural de cada categoría
-  - Diseño responsivo y moderno
+### 1. **budget-breakdown.html** - Budget Breakdown
+- **Description**: Interactive visualization of the 15,000 USDC budget
+- **Features**: 
+  - Percentage distribution of budget
+  - Progressive funding structure
+  - Cultural justification for each category
+  - Responsive and modern design
 
-### 2. **project-timeline.html** - Timeline del Proyecto
-- **Descripción**: Cronograma visual de 5 meses con 20 eventos
-- **Características**:
-  - Timeline interactivo con 5 fases mensuales
-  - KPIs y metas culturales por mes
-  - Hitos de progreso y logros
-  - Resumen del impacto cultural final
+### 2. **project-timeline.html** - Project Timeline
+- **Description**: Visual timeline of 5 months with 20 events
+- **Features**:
+  - Interactive timeline with 5 monthly phases
+  - Cultural KPIs and goals per month
+  - Progress milestones and achievements
+  - Final cultural impact summary
 
-### 3. **ens-onboarding-flow.html** - Flujo de Onboarding ENS
-- **Descripción**: Proceso paso a paso del onboarding cultural
-- **Características**:
-  - 3 fases del proceso de onboarding
-  - Explicación de la importancia de LAT.ETH
-  - Resultados finales para cada participante
-  - Enfoque en la defensa cultural latina
+### 3. **ens-onboarding-flow.html** - ENS Onboarding Flow
+- **Description**: Step-by-step cultural onboarding process
+- **Features**:
+  - 3 phases of the onboarding process
+  - Explanation of LAT.ETH importance
+  - Final results for each participant
+  - Focus on Latino cultural defense
 
-### 4. **risk-matrix.html** - Matriz de Riesgos
-- **Descripción**: Análisis completo de riesgos del proyecto
-- **Características**:
-  - Matriz de probabilidad vs impacto
-  - Categorías de riesgos (operacionales, tecnológicos, financieros)
-  - Riesgos culturales específicos
-  - Estrategias de mitigación
+### 4. **risk-matrix.html** - Risk Matrix
+- **Description**: Complete project risk analysis
+- **Features**:
+  - Probability vs impact matrix
+  - Risk categories (operational, technological, financial)
+  - Specific cultural risks
+  - Mitigation strategies
 
-## 🚀 Cómo Usar las Visualizaciones
+## 🚀 How to Use the Visualizations
 
-### **Opción 1: Visualización Local**
-1. Descarga cualquier archivo `.html`
-2. Ábrelo en tu navegador web preferido
-3. Las visualizaciones son completamente interactivas y responsivas
+### **Option 1: Local Visualization**
+1. Download any `.html` file
+2. Open it in your preferred web browser
+3. Visualizations are completely interactive and responsive
 
-### **Opción 2: Integración en GitHub**
-1. Sube los archivos HTML a tu repositorio
-2. GitHub renderiza automáticamente el HTML
-3. Los enlaces funcionan perfectamente en GitHub
+### **Option 2: GitHub Integration**
+1. Upload HTML files to your repository
+2. GitHub automatically renders HTML
+3. Links work perfectly on GitHub
 
-### **Opción 3: Presentación en ENS DAO**
-1. Usa las visualizaciones en tu propuesta
-2. Incluye enlaces directos a los archivos
-3. Perfecto para presentaciones y demostraciones
+### **Option 3: ENS DAO Presentation**
+1. Use visualizations in your proposal
+2. Include direct links to files
+3. Perfect for presentations and demonstrations
 
-## 🎯 Ventajas de Estas Visualizaciones
+## ✨ Features
 
-### **✅ Profesionales**
-- Diseño moderno y atractivo
-- Colores y tipografías consistentes
-- Animaciones y efectos visuales
+### **✅ Professional**
+- Modern and attractive design
+- Consistent colors and typography
+- Visual animations and effects
 
-### **✅ Interactivas**
-- Elementos hover y transiciones
-- Información detallada en cada sección
-- Navegación intuitiva
+### **✅ Interactive**
+- Hover elements and transitions
+- Detailed information in each section
+- Intuitive navigation
 
-### **✅ Culturales**
-- Enfoque en la defensa de la identidad latina
-- Explicación del significado de LAT.ETH
-- Contexto cultural en cada visualización
+### **✅ Cultural**
+- Focus on Latino identity defense
+- Explanation of LAT.ETH significance
+- Cultural context in each visualization
 
-### **✅ Técnicas**
-- Sin dependencias externas
-- Compatibles con todos los navegadores
-- Código HTML/CSS limpio y optimizado
+### **✅ Technical**
+- No external dependencies
+- Compatible with all browsers
+- Clean and optimized HTML/CSS code
 
-## 🌍 Contexto Cultural
+## 🌍 Cultural Mission
 
-Todas las visualizaciones están diseñadas para **defender y preservar la identidad latina** a través de:
+All visualizations are designed to **defend and preserve Latino identity** through:
 
-- **LAT.ETH**: Dominio cultural, histórico e identitario
-- **Baile Latino**: Salsa, reggaetón, bachata, merengue
-- **Idioma Español**: Preservación en el mundo digital
-- **Comunidad Latino**: Conexión y fortalecimiento cultural
+- **LAT.ETH**: Cultural, historical and identity domain
+- **Latin Dance**: Salsa, reggaeton, bachata, merengue
+- **Spanish Language**: Preservation in the digital world
+- **Latino Community**: Cultural connection and strengthening
 
-## 📱 Responsividad
+## 📱 Responsive Design
 
-Las visualizaciones se adaptan automáticamente a:
-- **Desktop**: Pantallas grandes con layout completo
-- **Tablet**: Diseño adaptado para pantallas medianas
-- **Mobile**: Optimizado para dispositivos móviles
+Visualizations automatically adapt to:
+- **Desktop**: Large screens with complete layout
+- **Tablet**: Design adapted for medium screens
+- **Mobile**: Optimized for mobile devices
 
-## 🔧 Personalización
+## 🔧 Customization
 
-Si necesitas modificar las visualizaciones:
-- **Colores**: Edita las variables CSS en cada archivo
-- **Contenido**: Modifica el HTML según tus necesidades
-- **Estilos**: Ajusta el CSS para tu marca
+If you need to modify the visualizations:
+- **Colors**: Edit CSS variables in each file
+- **Content**: Modify HTML according to your needs
+- **Styles**: Adjust CSS for your brand
 
-## 📊 Uso en ENS DAO
+## 📋 Usage Recommendations
 
 ### **Temperature Check**
-- Incluye enlaces a las visualizaciones
-- Demuestra la profesionalidad del proyecto
-- Facilita la comprensión de la propuesta
+- Include links to visualizations
+- Demonstrate project professionalism
+- Facilitate proposal understanding
 
 ### **Formal Proposal**
-- Integra las visualizaciones en la propuesta
-- Usa como material de apoyo
-- Destaca el enfoque cultural del proyecto
+- Integrate visualizations into proposal
+- Use as supporting material
+- Highlight project's cultural approach
 
-## 🎉 Impacto Esperado
+## 🎯 Benefits
 
-Estas visualizaciones ayudarán a:
-1. **Comunicar claramente** el proyecto a ENS DAO
-2. **Demostrar profesionalismo** y preparación
-3. **Facilitar la comprensión** del impacto cultural
-4. **Aumentar las probabilidades** de aprobación
+These visualizations will help:
+1. **Clearly communicate** the project to ENS DAO
+2. **Demonstrate professionalism** and preparation
+3. **Facilitate understanding** of cultural impact
+4. **Increase chances** of approval
 
-## 📞 Soporte
+## ❓ Support
 
-Si tienes preguntas sobre las visualizaciones:
-- Revisa el código HTML/CSS
-- Consulta la documentación del proyecto
-- Contacta al equipo de desarrollo
+If you have questions about the visualizations:
+- Review HTML/CSS code
+- Consult project documentation
+- Contact development team
 
----
+## 🌟 Final Note
 
-**🌍 ¡Defendamos juntos la identidad latina a través de la tecnología blockchain! 🌍**
+**🌍 Let's defend Latino identity together through blockchain technology! 🌍**

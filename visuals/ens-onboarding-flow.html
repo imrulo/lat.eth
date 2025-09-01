@@ -49,61 +49,39 @@
         .flow-step:nth-child(even) {
             flex-direction: row-reverse;
         }
-        .step-number {
-            background: linear-gradient(135deg, #e84393, #fd79a8);
-            color: white;
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 2em;
-            font-weight: bold;
-            box-shadow: 0 10px 25px rgba(232, 67, 147, 0.3);
-            z-index: 2;
-            position: relative;
-        }
         .step-content {
-            background: #f8f9fa;
-            border-radius: 20px;
-            padding: 30px;
-            margin: 0 30px;
             flex: 1;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            border-left: 5px solid #e84393;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            margin: 0 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
-        .flow-step:nth-child(even) .step-content {
-            border-left: none;
-            border-right: 5px solid #e84393;
-        }
-        .step-content:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-        }
-        .step-title {
-            font-size: 1.8em;
-            color: #2c3e50;
-            margin: 0 0 15px 0;
+        .step-header {
             display: flex;
             align-items: center;
-            gap: 15px;
+            margin-bottom: 20px;
         }
         .step-icon {
+            font-size: 2em;
+            margin-right: 15px;
+        }
+        .step-title {
             font-size: 1.5em;
+            font-weight: bold;
+            color: #2c3e50;
         }
         .step-description {
-            color: #7f8c8d;
-            line-height: 1.8;
             font-size: 1.1em;
+            line-height: 1.6;
+            color: #34495e;
             margin-bottom: 20px;
         }
         .step-features {
             background: white;
-            border-radius: 15px;
             padding: 20px;
-            margin-top: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
         }
         .step-features h4 {
             margin: 0 0 15px 0;
@@ -117,93 +95,54 @@
         }
         .feature-list li {
             padding: 8px 0;
-            color: #2c3e50;
+            border-bottom: 1px solid #ecf0f1;
             position: relative;
             padding-left: 25px;
         }
-        .feature-list li::before {
-            content: '✓';
+        .feature-list li:before {
+            content: "✓";
             position: absolute;
             left: 0;
-            color: #00b894;
+            color: #27ae60;
             font-weight: bold;
-            font-size: 1.2em;
+        }
+        .feature-list li:last-child {
+            border-bottom: none;
         }
         .cultural-note {
-            background: linear-gradient(135deg, #fd79a8, #e84393);
+            background: linear-gradient(135deg, #e84393, #fd79a8);
             color: white;
-            border-radius: 15px;
             padding: 20px;
-            margin: 20px 0;
-            text-align: center;
+            border-radius: 10px;
+            margin-top: 20px;
         }
         .cultural-note h4 {
-            margin: 0 0 15px 0;
-            font-size: 1.3em;
+            margin: 0 0 10px 0;
+            font-size: 1.2em;
+        }
+        .cultural-note p {
+            margin: 0;
+            line-height: 1.5;
         }
         .flow-arrow {
             position: absolute;
-            left: 50%;
+            right: -15px;
             top: 50%;
-            transform: translate(-50%, -50%);
-            width: 4px;
-            height: 40px;
-            background: linear-gradient(to bottom, #e84393, #fd79a8);
-            z-index: 1;
+            transform: translateY(-50%);
+            font-size: 2em;
+            color: #e84393;
+            z-index: 10;
         }
-        .flow-step:not(:last-child)::after {
-            content: '';
-            position: absolute;
-            left: 50%;
-            top: 100%;
-            width: 4px;
-            height: 40px;
-            background: linear-gradient(to bottom, #e84393, #fd79a8);
-            transform: translateX(-50%);
-        }
-        .final-result {
-            background: linear-gradient(135deg, #00b894, #00cec9);
-            color: white;
-            border-radius: 20px;
-            padding: 40px;
-            text-align: center;
-            margin-top: 40px;
-        }
-        .final-result h2 {
-            margin: 0 0 20px 0;
-            font-size: 2.5em;
-        }
-        .result-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
-        .result-item {
-            background: rgba(255,255,255,0.1);
-            border-radius: 15px;
-            padding: 25px;
-            backdrop-filter: blur(10px);
-        }
-        .result-icon {
-            font-size: 3em;
-            margin-bottom: 15px;
-        }
-        .result-title {
-            font-size: 1.3em;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        .result-description {
-            opacity: 0.9;
-            line-height: 1.6;
+        .flow-step:nth-child(even) .flow-arrow {
+            left: -15px;
+            right: auto;
         }
         .lat-eth-explanation {
-            background: linear-gradient(135deg, #6c5ce7, #a29bfe);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
+            padding: 40px;
             border-radius: 20px;
-            padding: 30px;
-            margin: 30px 0;
+            margin: 40px 0;
             text-align: center;
         }
         .lat-eth-explanation h3 {
@@ -214,170 +153,223 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 20px;
-            margin-top: 20px;
+            margin-top: 30px;
         }
         .lat-eth-item {
             background: rgba(255,255,255,0.1);
-            border-radius: 15px;
             padding: 20px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
         }
         .lat-eth-item h4 {
             margin: 0 0 10px 0;
-            font-size: 1.2em;
+            font-size: 1.3em;
         }
         .lat-eth-item p {
             margin: 0;
             opacity: 0.9;
-            font-size: 0.9em;
+        }
+        .final-result {
+            background: linear-gradient(135deg, #00b894, #00a085);
+            color: white;
+            padding: 40px;
+            border-radius: 20px;
+            margin: 40px 0;
+            text-align: center;
+        }
+        .final-result h2 {
+            margin: 0 0 20px 0;
+            font-size: 2em;
+        }
+        .result-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .result-item {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+        .result-title {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        .result-description {
+            opacity: 0.9;
+            line-height: 1.4;
+        }
+        @media (max-width: 768px) {
+            .flow-step {
+                flex-direction: column !important;
+            }
+            .flow-step:nth-child(even) {
+                flex-direction: column !important;
+            }
+            .step-content {
+                margin: 10px 0;
+            }
+            .flow-arrow {
+                position: static;
+                transform: none;
+                text-align: center;
+                margin: 20px 0;
+            }
+            .flow-step:nth-child(even) .flow-arrow {
+                left: auto;
+                right: auto;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
-            <h1>🌐 Flujo de Onboarding ENS</h1>
-            <p>De Baile Latino a Identidad Digital Permanente en LAT.ETH</p>
+            <h1>🌐 ENS Onboarding Flow</h1>
+            <p>From Latin Dance to Permanent Digital Identity on LAT.ETH</p>
         </div>
         
         <div class="flow-container">
             <div class="flow-step">
-                <div class="step-number">1</div>
                 <div class="step-content">
-                    <div class="step-title">
+                    <div class="step-header">
                         <span class="step-icon">💃</span>
-                        <span>Fase 1: Baile & Cultura Latino</span>
+                        <span class="step-title">Phase 1: Cultural Connection Through Latin Dance</span>
                     </div>
                     <div class="step-description">
-                        Los participantes llegan atraídos por la música y baile latino (salsa, reggaetón, bachata, merengue). 
-                        Esta es la puerta de entrada que conecta con su herencia cultural y pasión por la música latina.
+                        Participants arrive attracted by Latin music and dance (salsa, reggaeton, bachata, merengue). 
+                        This is the gateway that connects with their cultural heritage and passion for Latin music.
                     </div>
                     <div class="step-features">
-                        <h4>🎯 Actividades Culturales:</h4>
+                        <h4>🎯 Cultural Activities:</h4>
                         <ul class="feature-list">
-                            <li>Clases de baile latino con instructores profesionales</li>
-                            <li>Música en vivo de artistas latinos</li>
-                            <li>Ambiente cultural auténtico y acogedor</li>
-                            <li>Integración de elementos culturales latinos</li>
+                            <li>Latin dance classes with professional instructors</li>
+                            <li>Live music from Latin artists</li>
+                            <li>Authentic and welcoming cultural environment</li>
+                            <li>Integration of Latin cultural elements</li>
                         </ul>
                     </div>
                     <div class="cultural-note">
-                        <h4>🌍 ¿Por Qué el Baile Latino?</h4>
-                        <p>El baile latino es la expresión más auténtica de la cultura latina. Es la forma de conectar con las raíces, 
-                        la música y la identidad que queremos preservar en el blockchain.</p>
+                        <h4>🌍 Why Latin Dance?</h4>
+                        <p>Latin dance is the most authentic expression of Latin culture. It's the way to connect with roots, 
+                        music and identity that we want to preserve on the blockchain.</p>
                     </div>
                 </div>
+                <div class="flow-arrow">→</div>
             </div>
             
             <div class="flow-step">
-                <div class="step-number">2</div>
                 <div class="step-content">
-                    <div class="step-title">
+                    <div class="step-header">
                         <span class="step-icon">🌐</span>
-                        <span>Fase 2: Introducción al Ecosistema ENS</span>
+                        <span class="step-title">Phase 2: Introduction to ENS Ecosystem</span>
                     </div>
                     <div class="step-description">
-                        Después de conectar emocionalmente con su cultura, los participantes aprenden sobre ENS y cómo la tecnología 
-                        blockchain puede preservar su identidad latina de forma permanente.
+                        After emotionally connecting with their culture, participants learn about ENS and how blockchain 
+                        technology can preserve their Latino identity permanently.
                     </div>
                     <div class="step-features">
-                        <h4>📚 Educación Blockchain:</h4>
+                        <h4>📚 Blockchain Education:</h4>
                         <ul class="feature-list">
-                            <li>Conceptos básicos de blockchain y web3</li>
-                            <li>¿Qué es ENS y por qué es importante?</li>
-                            <li>El poder de la identidad digital descentralizada</li>
-                            <li>Cómo ENS preserva la cultura latina</li>
+                            <li>Basic concepts of blockchain and web3</li>
+                            <li>What is ENS and why is it important?</li>
+                            <li>The power of decentralized digital identity</li>
+                            <li>How ENS preserves Latin culture</li>
                         </ul>
                     </div>
                     <div class="cultural-note">
-                        <h4>🌍 Conexión Cultural-Tecnológica</h4>
-                        <p>Explicamos cómo la tecnología blockchain no es solo técnica, sino una herramienta para defender 
-                        y preservar la identidad cultural latina en el mundo digital.</p>
+                        <h4>🌍 Cultural-Technological Connection</h4>
+                        <p>We explain how blockchain technology is not just technical, but a tool to defend 
+                        and preserve Latino cultural identity in the digital world.</p>
                     </div>
                 </div>
+                <div class="flow-arrow">→</div>
             </div>
             
             <div class="flow-step">
-                <div class="step-number">3</div>
                 <div class="step-content">
-                    <div class="step-title">
+                    <div class="step-header">
                         <span class="step-icon">🔐</span>
-                        <span>Fase 3: Onboarding Práctico de ENS</span>
+                        <span class="step-title">Phase 3: Practical ENS Onboarding</span>
                     </div>
                     <div class="step-description">
-                        Los participantes reciben ayuda práctica para crear sus wallets, entender gas fees, y finalmente 
-                        reclamar su subdominio personal en LAT.ETH, creando su identidad digital latina permanente.
+                        Participants receive practical help to create their wallets, understand gas fees, and finally 
+                        claim their personal subdomain on LAT.ETH, creating their permanent Latino digital identity.
                     </div>
                     <div class="step-features">
-                        <h4>🛠️ Implementación Técnica:</h4>
+                        <h4>🛠️ Technical Implementation:</h4>
                         <ul class="feature-list">
-                            <li>Configuración de MetaMask o wallet similar</li>
-                            <li>Compra de ETH para gas fees</li>
-                            <li>Reclamación de subdominio personal (ej: maria.lat.eth)</li>
-                            <li>Configuración de resolución ENS</li>
-                            <li>Verificación de propiedad del subdominio</li>
+                            <li>MetaMask or similar wallet setup</li>
+                            <li>ETH purchase for gas fees</li>
+                            <li>Personal subdomain claiming (e.g., maria.lat.eth)</li>
+                            <li>ENS resolution configuration</li>
+                            <li>Subdomain ownership verification</li>
                         </ul>
                     </div>
                     <div class="cultural-note">
-                        <h4>🌍 Identidad Digital Latino Permanente</h4>
-                        <p>Cada subdominio LAT.ETH es más que una dirección web: es una declaración de identidad cultural 
-                        latina en el blockchain, sin fecha de expiración.</p>
+                        <h4>🌍 Permanent Latino Digital Identity</h4>
+                        <p>Each LAT.ETH subdomain is more than a web address: it's a declaration of Latino cultural 
+                        identity on the blockchain, with no expiration date.</p>
                     </div>
                 </div>
             </div>
             
             <div class="lat-eth-explanation">
-                <h3>🌍 ¿Por Qué LAT.ETH es Especial?</h3>
-                <p>LAT.ETH no es solo un dominio ENS. Es un <strong>dominio de identidad cultural latina</strong> que representa:</p>
+                <h3>🌍 Why is LAT.ETH Special?</h3>
+                <p>LAT.ETH is not just an ENS domain. It's a <strong>Latino cultural identity domain</strong> that represents:</p>
                 <div class="lat-eth-grid">
                     <div class="lat-eth-item">
                         <h4>🇪🇸 LATino</h4>
-                        <p>Identidad individual latina</p>
+                        <p>Individual Latino identity</p>
                     </div>
                     <div class="lat-eth-item">
                         <h4>🌎 LATinoamérica</h4>
-                        <p>Herencia latinoamericana</p>
+                        <p>Latin American heritage</p>
                     </div>
                     <div class="lat-eth-item">
                         <h4>👩 LATina</h4>
-                        <p>Identidad femenina latina</p>
+                        <p>Latina feminine identity</p>
                     </div>
                     <div class="lat-eth-item">
                         <h4>👨 LATinos</h4>
-                        <p>Identidad masculina latina</p>
+                        <p>Latino masculine identity</p>
+                    </div>
+                    <div class="lat-eth-item">
+                        <h4>👥 LATinas</h4>
+                        <p>Latina feminine plural identity</p>
                     </div>
                 </div>
             </div>
             
             <div class="final-result">
-                <h2>🎉 Resultado Final: Identidad Cultural Latino Preservada</h2>
-                <p>Al final del proceso, cada participante tiene:</p>
+                <h2>🎉 Final Result: Preserved Latino Cultural Identity</h2>
+                <p>At the end of the process, each participant has:</p>
                 <div class="result-grid">
                     <div class="result-item">
-                        <div class="result-icon">💃</div>
-                        <div class="result-title">Experiencia Cultural</div>
-                        <div class="result-description">Conectó con su herencia latina a través del baile y la música</div>
+                        <div class="result-title">Cultural Experience</div>
+                        <div class="result-description">Connected with their Latino heritage through dance and music</div>
                     </div>
                     <div class="result-item">
-                        <div class="result-icon">🌐</div>
-                        <div class="result-title">Identidad Digital</div>
-                        <div class="result-description">Subdominio personal en LAT.ETH (ej: maria.lat.eth)</div>
+                        <div class="result-title">Digital Identity</div>
+                        <div class="result-description">Personal subdomain on LAT.ETH (e.g., maria.lat.eth)</div>
                     </div>
                     <div class="result-item">
-                        <div class="result-icon">🔐</div>
-                        <div class="result-title">Propiedad Permanente</div>
-                        <div class="result-description">Sin fecha de expiración, su identidad cultural es para siempre</div>
+                        <div class="result-title">Permanent Ownership</div>
+                        <div class="result-description">No expiration date, their cultural identity is forever</div>
                     </div>
                     <div class="result-item">
-                        <div class="result-icon">🏆</div>
-                        <div class="result-title">POAP de Reconocimiento</div>
-                        <div class="result-description">Prueba de participación en la defensa cultural latina</div>
+                        <div class="result-title">Recognition POAP</div>
+                        <div class="result-description">Proof of participation in Latino cultural defense</div>
                     </div>
                 </div>
                 <div style="margin-top: 30px; padding: 20px; background: rgba(255,255,255,0.1); border-radius: 15px;">
-                    <h3>🌍 Impacto Cultural Final</h3>
-                    <p><strong>1000 latinos</strong> ahora tienen identidades digitales permanentes que preservan su cultura, 
-                    su idioma y su herencia en el blockchain. Esto no es solo onboarding técnico: es <strong>defensa cultural 
-                    a través de la tecnología</strong>.</p>
+                    <h3>🌍 Final Cultural Impact</h3>
+                    <p><strong>1000 Latinos</strong> now have permanent digital identities that preserve their culture, 
+                    their language and their heritage on the blockchain. This is not just technical onboarding: it's <strong>cultural 
+                    defense through technology</strong>.</p>
                 </div>
             </div>
         </div>
