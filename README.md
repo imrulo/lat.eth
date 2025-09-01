@@ -1,7 +1,7 @@
-# Livadance ENS Grant Proposal
+# LAT.ETH Cultural Defense Initiative - ENS Grant Proposal
 
 ## Project Overview
-**Livadance DOO** is seeking funding from the ENS DAO to organize **20 interactive Latin dance workshops** in Serbia over 5 months, with integrated ENS ecosystem onboarding specifically designed to **defend and promote Spanish language and Latino identity** through blockchain technology.
+**LAT.ETH Cultural Defense Initiative** (led by imrulo.eth) is seeking funding from the ENS DAO to organize **20 interactive Latin dance workshops** in Serbia over 5 months, with integrated ENS ecosystem onboarding specifically designed to **defend and promote Spanish language and Latino identity** through blockchain technology.
 
 ## Cultural Mission
 This is not just another ENS onboarding project. This is a **cultural defense initiative** that uses blockchain technology to:
@@ -85,7 +85,7 @@ This project aligns with ENS DAO's Public Goods Working Group goals while **defe
 - **Verifiable Participation**: Blockchain-based proof of cultural participation
 
 ## Contact & Support
-For questions about this **cultural defense initiative**, contact the Livadance DOO team or refer to the detailed documentation in the `/docs` folder.
+For questions about this **cultural defense initiative**, contact imrulo.eth (Rulán Ferrales) or refer to the detailed documentation in the `/docs` folder.
 
 ---
 **Cultural Mission: Defending Spanish Language and Latino Identity Through Blockchain Technology**

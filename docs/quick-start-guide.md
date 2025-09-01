@@ -1,5 +1,5 @@
 # Quick Start Guide
-## Livadance ENS Grant Proposal - Cultural Defense Initiative
+## LAT.ETH Cultural Defense Initiative - ENS Grant Proposal
 
 **Need to submit quickly? Start here!**
 
@@ -10,7 +10,7 @@
 ### 1. Review the Main Proposal
 - **File**: `/docs/main-proposal.md`
 - **Time**: 10-15 minutes
-- **Contains**: Complete cultural defense grant proposal ready for submission
+- **Contains**: Complete LAT.ETH cultural defense grant proposal ready for submission
 
 ### 2. Check the Budget
 - **File**: `/budgets/detailed-budget.md`
@@ -50,7 +50,7 @@
 - **Massive Impact**: 1000 new ENS users preserving Latino heritage
 - **Progressive Funding**: Cultural milestone-based unlock system
 - **POAP Integration**: Cultural recognition tokens for participation
-- **LAT.ETH Identity**: Cultural, historical, and identity domain
+- **LAT.ETH Identity**: Cultural, historical, and identity domain for Latino community
 
 ### Cultural Mission
 This is not just another ENS onboarding project. This is a **cultural defense initiative** that uses blockchain technology to:
@@ -157,7 +157,7 @@ This is not just another ENS onboarding project. This is a **cultural defense in
 ## 🛠️ Customization Needed
 
 ### Update These Fields
-- **Organization Details**: Contact information, team members
+- **Organization Details**: LAT.ETH cultural defense initiative, imrulo.eth contact
 - **Serbia-Specific Information**: Local Latino partnerships, cultural venues
 - **Timeline**: Start dates, cultural event scheduling
 - **Budget**: Any local cultural cost adjustments needed
@@ -178,7 +178,7 @@ This is not just another ENS onboarding project. This is a **cultural defense in
 
 ### This Week
 1. Customize cultural proposal details
-2. Prepare team information with Latino cultural expertise
+2. Prepare LAT.ETH initiative information with Latino cultural expertise
 3. Research local Latino partnerships in Serbia
 
 ### Next Week

@@ -1,4 +1,4 @@
-# Livadance ENS Grant Proposal
+# LAT.ETH Cultural Defense Initiative - ENS Grant Proposal
 ## Defending Spanish Language & Latino Identity Through Blockchain Technology
 
 **Submitted by:** Livadance DOO, Serbia  
