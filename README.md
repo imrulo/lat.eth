@@ -1,5 +1,21 @@
 # LAT.ETH Cultural Defense Initiative - ENS Grant Proposal
 
+[![ENS DAO](https://img.shields.io/badge/ENS-DAO-blue?style=for-the-badge&logo=ethereum)](https://ens.domains/)
+[![Cultural Defense](https://img.shields.io/badge/Cultural-Defense-red?style=for-the-badge)](https://github.com/imrulo/lat.eth)
+[![Latin Dance](https://img.shields.io/badge/Latin-Dance-orange?style=for-the-badge)](https://github.com/imrulo/lat.eth)
+[![Balkans](https://img.shields.io/badge/Balkans-Green?style=for-the-badge)](https://github.com/imrulo/lat.eth)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+**🌍 Evangelizing ENS to Latinos across the Balkans through Latin dance, preserving Spanish language and Latino identity through blockchain technology.**
+
+## 🚀 **Quick Links**
+
+- **[Temperature Check Post](temperature-check-post.md)** - Ready for ENS DAO forum
+- **[Main Proposal](docs/main-proposal.md)** - Complete grant application
+- **[Budget Details](budgets/detailed-budget.md)** - 15,000 USDC breakdown
+- **[LAT.ETH Landing Page](index.html)** - Interactive web page
+- **[Interactive Visuals](visuals/)** - Charts and flowcharts
+
 ## Project Overview
 **LAT.ETH Cultural Defense Initiative** (led by imrulo.eth) is seeking funding from the ENS DAO to organize **20 interactive Latin dance workshops** in Serbia over 5 months, with integrated ENS ecosystem onboarding specifically designed to **evangelize ENS to Latinos across the Balkans**. This pilot project in Serbia will establish a scalable model for expansion to Croatia, Bosnia, Montenegro, Albania, Macedonia, and Kosovo.
 
