@@ -3,24 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LAT.ETH - El Potencial Blockchain de Latinoamérica</title>
-    <meta name="description" content="Descubre el potencial de LAT.ETH como dominio blockchain para Latinoamérica. Identidad digital, pagos descentralizados, NFTs y más.">
-    <meta name="keywords" content="LAT.ETH, ENS, blockchain, Latinoamérica, identidad digital, web3, Ethereum">
+    <title>LAT.ETH - El Potencial ENS de Latinoamérica</title>
+    <meta name="description" content="Descubre cómo cada país de Latinoamérica representa un potencial único de ENS (.eth)">
     
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://lat.eth/">
-    <meta property="og:title" content="LAT.ETH - El Potencial Blockchain de Latinoamérica">
-    <meta property="og:description" content="Descubre el potencial de LAT.ETH como dominio blockchain para Latinoamérica">
-    <meta property="og:image" content="https://lat.eth/og-image.jpg">
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://lat.eth/">
-    <meta property="twitter:title" content="LAT.ETH - El Potencial Blockchain de Latinoamérica">
-    <meta property="twitter:description" content="Descubre el potencial de LAT.ETH como dominio blockchain para Latinoamérica">
-    <meta property="twitter:image" content="https://lat.eth/og-image.jpg">
-
     <style>
         * {
             margin: 0;
@@ -29,632 +14,300 @@
         }
 
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%);
             color: #ffffff;
             overflow-x: hidden;
-            line-height: 1.6;
         }
 
         .container {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 0 20px;
+            padding: 20px;
         }
 
-        /* Header */
         .header {
             text-align: center;
-            padding: 60px 0 40px;
-            position: relative;
-        }
-
-        .header::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 200px;
-            height: 200px;
-            background: radial-gradient(circle, rgba(0, 255, 255, 0.1) 0%, transparent 70%);
-            border-radius: 50%;
-            animation: pulse 4s ease-in-out infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { opacity: 0.3; transform: translateX(-50%) scale(1); }
-            50% { opacity: 0.6; transform: translateX(-50%) scale(1.1); }
+            padding: 40px 0;
         }
 
         .main-title {
             font-size: 4rem;
             font-weight: 800;
-            background: linear-gradient(135deg, #00ffff, #ff00ff, #ffff00);
+            background: linear-gradient(135deg, #00ffff, #ff00ff);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
             margin-bottom: 20px;
-            position: relative;
-            z-index: 2;
         }
 
         .subtitle {
             font-size: 1.5rem;
             color: #a0a0a0;
-            margin-bottom: 30px;
-            position: relative;
-            z-index: 2;
-        }
-
-        .language-toggle {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            background: rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 25px;
-            padding: 8px 16px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-        }
-
-        .language-toggle:hover {
-            background: rgba(255, 255, 255, 0.2);
-            transform: translateY(-2px);
-        }
-
-        /* Blockchain Map */
-        .blockchain-map {
-            padding: 40px 0;
-            position: relative;
         }
 
         .map-container {
-            position: relative;
-            margin: 0 auto;
-            max-width: 1200px;
-        }
-
-        .country-block {
-            position: absolute;
-            background: linear-gradient(135deg, rgba(0, 255, 255, 0.1), rgba(255, 0, 255, 0.1));
-            border: 2px solid rgba(0, 255, 255, 0.3);
-            border-radius: 8px;
-            padding: 20px;
-            cursor: pointer;
-            transition: all 0.4s ease;
-            backdrop-filter: blur(10px);
-            min-width: 120px;
             text-align: center;
-        }
-
-        .country-block:hover {
-            transform: translateY(-10px) scale(1.05);
-            border-color: rgba(0, 255, 255, 0.8);
-            box-shadow: 0 20px 40px rgba(0, 255, 255, 0.3);
-            background: linear-gradient(135deg, rgba(0, 255, 255, 0.2), rgba(255, 0, 255, 0.2));
-        }
-
-        .country-block.active {
-            transform: translateY(-15px) scale(1.1);
-            border-color: #00ffff;
-            box-shadow: 0 25px 50px rgba(0, 255, 255, 0.4);
-        }
-
-        .country-name {
-            font-weight: 700;
-            font-size: 1.1rem;
-            margin-bottom: 10px;
-            color: #00ffff;
-        }
-
-        .country-potential {
-            font-size: 0.9rem;
-            color: #a0a0a0;
-            line-height: 1.4;
-        }
-
-        /* Country Positions */
-        .brazil { top: 200px; left: 50%; transform: translateX(-50%); }
-        .argentina { top: 350px; left: 45%; }
-        .mexico { top: 100px; left: 20%; }
-        .colombia { top: 150px; left: 35%; }
-        .peru { top: 250px; left: 30%; }
-        .chile { top: 400px; left: 25%; }
-        .venezuela { top: 120px; left: 40%; }
-        .ecuador { top: 180px; left: 25%; }
-        .bolivia { top: 280px; left: 35%; }
-        .paraguay { top: 320px; left: 50%; }
-        .uruguay { top: 380px; left: 55%; }
-        .guatemala { top: 80px; left: 15%; }
-        .honduras { top: 90px; left: 18%; }
-        .el-salvador { top: 85px; left: 20%; }
-        .nicaragua { top: 95px; left: 22%; }
-        .costa-rica { top: 110px; left: 25%; }
-        .panama { top: 130px; left: 30%; }
-        .cuba { top: 70px; left: 45%; }
-        .jamaica { top: 140px; left: 50%; }
-        .haiti { top: 120px; left: 42%; }
-        .dominican-republic { top: 125px; left: 44%; }
-
-        /* ENS Potentials Section */
-        .ens-potentials {
-            padding: 80px 0;
-            background: rgba(255, 255, 255, 0.02);
             margin: 40px 0;
-            border-radius: 20px;
+            position: relative;
         }
 
-        .potentials-grid {
+        .latin-america-map {
+            max-width: 100%;
+            height: auto;
+            filter: drop-shadow(0 20px 40px rgba(0, 255, 255, 0.3));
+        }
+
+        .country {
+            fill: rgba(0, 255, 255, 0.1);
+            stroke: rgba(0, 255, 255, 0.5);
+            stroke-width: 1;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .country:hover {
+            fill: rgba(0, 255, 255, 0.3);
+            stroke: #00ffff;
+            stroke-width: 2;
+            filter: drop-shadow(0 0 20px rgba(0, 255, 255, 0.5));
+        }
+
+        .country.active {
+            fill: rgba(255, 0, 255, 0.3);
+            stroke: #ff00ff;
+            stroke-width: 3;
+        }
+
+        .country-label {
+            font-size: 12px;
+            fill: #ffffff;
+            text-anchor: middle;
+            pointer-events: none;
+            font-weight: 600;
+        }
+
+        .ens-properties {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin-top: 40px;
+            gap: 20px;
+            margin: 40px 0;
         }
 
-        .potential-card {
-            background: linear-gradient(135deg, rgba(0, 255, 255, 0.05), rgba(255, 0, 255, 0.05));
+        .property-card {
+            background: rgba(0, 255, 255, 0.05);
             border: 1px solid rgba(0, 255, 255, 0.2);
             border-radius: 15px;
-            padding: 30px;
+            padding: 25px;
             transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
         }
 
-        .potential-card:hover {
+        .property-card:hover {
             transform: translateY(-5px);
-            border-color: rgba(0, 255, 255, 0.4);
+            border-color: rgba(0, 255, 255, 0.5);
             box-shadow: 0 15px 30px rgba(0, 255, 255, 0.2);
         }
 
-        .potential-icon {
-            font-size: 3rem;
-            margin-bottom: 20px;
-            display: block;
-        }
-
-        .potential-title {
-            font-size: 1.5rem;
-            font-weight: 700;
+        .property-icon {
+            font-size: 2.5rem;
             margin-bottom: 15px;
-            color: #00ffff;
         }
 
-        .potential-description {
+        .property-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #00ffff;
+            margin-bottom: 10px;
+        }
+
+        .property-description {
             color: #a0a0a0;
             line-height: 1.6;
         }
 
-        /* Floating Elements */
-        .floating-element {
-            position: absolute;
-            width: 4px;
-            height: 4px;
-            background: #00ffff;
-            border-radius: 50%;
-            animation: float 6s ease-in-out infinite;
-        }
-
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.3; }
-            50% { transform: translateY(-20px) rotate(180deg); opacity: 0.8; }
-        }
-
-        .floating-element:nth-child(1) { top: 10%; left: 10%; animation-delay: 0s; }
-        .floating-element:nth-child(2) { top: 20%; right: 15%; animation-delay: 1s; }
-        .floating-element:nth-child(3) { top: 60%; left: 5%; animation-delay: 2s; }
-        .floating-element:nth-child(4) { top: 80%; right: 10%; animation-delay: 3s; }
-        .floating-element:nth-child(5) { top: 40%; left: 20%; animation-delay: 4s; }
-
-        /* Network Lines */
-        .network-line {
-            position: absolute;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, rgba(0, 255, 255, 0.3), transparent);
-            animation: networkFlow 8s linear infinite;
-        }
-
-        @keyframes networkFlow {
-            0% { transform: scaleX(0); opacity: 0; }
-            50% { transform: scaleX(1); opacity: 1; }
-            100% { transform: scaleX(0); opacity: 0; }
-        }
-
-        /* Footer */
         .footer {
             text-align: center;
-            padding: 60px 0 40px;
+            padding: 40px 0;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
-            margin-top: 80px;
-        }
-
-        .footer-text {
-            color: #a0a0a0;
-            font-size: 1.1rem;
+            margin-top: 40px;
         }
 
         .footer-text a {
             color: #00ffff;
             text-decoration: none;
-            transition: color 0.3s ease;
         }
 
         .footer-text a:hover {
             color: #ff00ff;
         }
 
-        /* Responsive Design */
         @media (max-width: 768px) {
             .main-title {
                 font-size: 2.5rem;
             }
-            
             .subtitle {
                 font-size: 1.2rem;
             }
-            
-            .country-block {
-                min-width: 100px;
-                padding: 15px;
-            }
-            
-            .country-name {
-                font-size: 1rem;
-            }
-            
-            .country-potential {
-                font-size: 0.8rem;
-            }
-            
-            .potentials-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .main-title {
-                font-size: 2rem;
-            }
-            
-            .container {
-                padding: 0 15px;
-            }
-            
-            .country-block {
-                min-width: 80px;
-                padding: 10px;
-            }
-        }
-
-        /* Tooltip */
-        .tooltip {
-            position: absolute;
-            background: rgba(0, 0, 0, 0.9);
-            color: white;
-            padding: 15px;
-            border-radius: 8px;
-            font-size: 0.9rem;
-            max-width: 250px;
-            z-index: 1000;
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(0, 255, 255, 0.3);
-        }
-
-        .tooltip.show {
-            opacity: 1;
-        }
-
-        /* Modal */
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.8);
-            z-index: 10000;
-            backdrop-filter: blur(10px);
-        }
-
-        .modal.show {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .modal-content {
-            background: linear-gradient(135deg, #1a1a2e, #16213e);
-            border: 2px solid rgba(0, 255, 255, 0.3);
-            border-radius: 20px;
-            padding: 40px;
-            max-width: 600px;
-            width: 90%;
-            max-height: 80vh;
-            overflow-y: auto;
-            position: relative;
-        }
-
-        .modal-close {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            background: none;
-            border: none;
-            color: #a0a0a0;
-            font-size: 2rem;
-            cursor: pointer;
-            transition: color 0.3s ease;
-        }
-
-        .modal-close:hover {
-            color: #00ffff;
-        }
-
-        .modal-title {
-            font-size: 2rem;
-            font-weight: 700;
-            margin-bottom: 20px;
-            color: #00ffff;
-        }
-
-        .modal-description {
-            color: #a0a0a0;
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
-
-        .modal-examples {
-            background: rgba(0, 255, 255, 0.05);
-            border-radius: 10px;
-            padding: 20px;
-            margin: 20px 0;
-        }
-
-        .modal-examples h4 {
-            color: #00ffff;
-            margin-bottom: 15px;
-        }
-
-        .example-item {
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 8px;
-            padding: 15px;
-            margin: 10px 0;
-            border-left: 3px solid #00ffff;
-        }
-
-        .example-item h5 {
-            color: #ffffff;
-            margin-bottom: 8px;
-        }
-
-        .example-item p {
-            color: #a0a0a0;
-            font-size: 0.9rem;
         }
     </style>
 </head>
 <body>
-    <!-- Floating Elements -->
-    <div class="floating-element"></div>
-    <div class="floating-element"></div>
-    <div class="floating-element"></div>
-    <div class="floating-element"></div>
-    <div class="floating-element"></div>
-
-    <!-- Network Lines -->
-    <div class="network-line" style="top: 150px; left: 20%; width: 200px; animation-delay: 0s;"></div>
-    <div class="network-line" style="top: 250px; left: 35%; width: 150px; animation-delay: 2s;"></div>
-    <div class="network-line" style="top: 350px; left: 25%; width: 180px; animation-delay: 4s;"></div>
-    <div class="network-line" style="top: 200px; left: 50%; width: 120px; animation-delay: 6s;"></div>
-
     <div class="container">
-        <!-- Language Toggle -->
-        <div class="language-toggle" onclick="toggleLanguage()">
-            <span id="lang-text">EN</span>
-        </div>
-
-        <!-- Header -->
         <header class="header">
             <h1 class="main-title">LAT.ETH</h1>
-            <p class="subtitle" id="subtitle">El Potencial Blockchain de Latinoamérica</p>
+            <p class="subtitle">El Potencial ENS de Latinoamérica</p>
         </header>
 
-        <!-- Blockchain Map -->
-        <section class="blockchain-map">
-            <div class="map-container">
-                <!-- Country Blocks -->
-                <div class="country-block brazil" data-country="brazil">
-                    <div class="country-name">Brasil</div>
-                    <div class="country-potential">Identidad Digital + Pagos</div>
-                </div>
-                
-                <div class="country-block argentina" data-country="argentina">
-                    <div class="country-name">Argentina</div>
-                    <div class="country-potential">NFTs + Onboarding</div>
-                </div>
-                
-                <div class="country-block mexico" data-country="mexico">
-                    <div class="country-name">México</div>
-                    <div class="country-potential">Subdominios + Eventos</div>
-                </div>
-                
-                <div class="country-block colombia" data-country="colombia">
-                    <div class="country-name">Colombia</div>
-                    <div class="country-potential">Gamificación + Workshops</div>
-                </div>
-                
-                <div class="country-block peru" data-country="peru">
-                    <div class="country-name">Perú</div>
-                    <div class="country-potential">Educación + Comunidad</div>
-                </div>
-                
-                <div class="country-block chile" data-country="chile">
-                    <div class="country-name">Chile</div>
-                    <div class="country-potential">Innovación + DeFi</div>
-                </div>
-                
-                <div class="country-block venezuela" data-country="venezuela">
-                    <div class="country-name">Venezuela</div>
-                    <div class="country-potential">Pagos + Remesas</div>
-                </div>
-                
-                <div class="country-block ecuador" data-country="ecuador">
-                    <div class="country-name">Ecuador</div>
-                    <div class="country-potential">Turismo + NFTs</div>
-                </div>
-                
-                <div class="country-block bolivia" data-country="bolivia">
-                    <div class="country-name">Bolivia</div>
-                    <div class="country-potential">Artesanías + Blockchain</div>
-                </div>
-                
-                <div class="country-block paraguay" data-country="paraguay">
-                    <div class="country-name">Paraguay</div>
-                    <div class="country-potential">Agricultura + Smart Contracts</div>
-                </div>
-                
-                <div class="country-block uruguay" data-country="uruguay">
-                    <div class="country-name">Uruguay</div>
-                    <div class="country-potential">Fintech + Innovación</div>
-                </div>
-                
-                <div class="country-block guatemala" data-country="guatemala">
-                    <div class="country-name">Guatemala</div>
-                    <div class="country-potential">Cultura + Identidad</div>
-                </div>
-                
-                <div class="country-block honduras" data-country="honduras">
-                    <div class="country-name">Honduras</div>
-                    <div class="country-potential">Educación + Desarrollo</div>
-                </div>
-                
-                <div class="country-block el-salvador" data-country="el-salvador">
-                    <div class="country-name">El Salvador</div>
-                    <div class="country-potential">Bitcoin + ENS</div>
-                </div>
-                
-                <div class="country-block nicaragua" data-country="nicaragua">
-                    <div class="country-name">Nicaragua</div>
-                    <div class="country-potential">Comunidad + Colaboración</div>
-                </div>
-                
-                <div class="country-block costa-rica" data-country="costa-rica">
-                    <div class="country-name">Costa Rica</div>
-                    <div class="country-potential">Sostenibilidad + Tech</div>
-                </div>
-                
-                <div class="country-block panama" data-country="panama">
-                    <div class="country-name">Panamá</div>
-                    <div class="country-potential">Comercio + Finanzas</div>
-                </div>
-                
-                <div class="country-block cuba" data-country="cuba">
-                    <div class="country-name">Cuba</div>
-                    <div class="country-potential">Arte + Cultura Digital</div>
-                </div>
-                
-                <div class="country-block jamaica" data-country="jamaica">
-                    <div class="country-name">Jamaica</div>
-                    <div class="country-potential">Música + NFTs</div>
-                </div>
-                
-                <div class="country-block haiti" data-country="haiti">
-                    <div class="country-name">Haití</div>
-                    <div class="country-potential">Solidaridad + Blockchain</div>
-                </div>
-                
-                <div class="country-block dominican-republic" data-country="dominican-republic">
-                    <div class="country-name">Rep. Dominicana</div>
-                    <div class="country-potential">Turismo + DeFi</div>
-                </div>
-            </div>
-        </section>
+        <div class="map-container">
+            <svg class="latin-america-map" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+                <!-- México -->
+                <path class="country" d="M 100 80 L 200 80 L 220 120 L 200 160 L 150 180 L 100 160 L 80 120 Z" 
+                      data-country="mexico" data-property="identity"/>
+                <text class="country-label" x="150" y="130">México</text>
 
-        <!-- ENS Potentials Section -->
-        <section class="ens-potentials">
-            <h2 style="text-align: center; font-size: 2.5rem; margin-bottom: 20px; color: #00ffff;" id="potentials-title">
-                Potenciales de ENS (.eth)
-            </h2>
-            <p style="text-align: center; color: #a0a0a0; font-size: 1.2rem; margin-bottom: 40px;" id="potentials-subtitle">
-                Descubre cómo LAT.ETH puede transformar Latinoamérica
-            </p>
-            
-            <div class="potentials-grid">
-                <div class="potential-card">
-                    <span class="potential-icon">🆔</span>
-                    <h3 class="potential-title" id="identity-title">Identidad Digital</h3>
-                    <p class="potential-description" id="identity-desc">
-                        Cada dominio ENS funciona como tu nombre legible en Ethereum, reemplazando direcciones largas y difíciles de memorizar.
-                    </p>
-                </div>
-                
-                <div class="potential-card">
-                    <span class="potential-icon">💰</span>
-                    <h3 class="potential-title" id="payments-title">Pagos Descentralizados</h3>
-                    <p class="potential-description" id="payments-desc">
-                        Recibe ETH, tokens ERC-20 y NFTs directamente usando tu dominio ENS, facilitando pagos P2P sin intermediarios.
-                    </p>
-                </div>
-                
-                <div class="potential-card">
-                    <span class="potential-icon">🔗</span>
-                    <h3 class="potential-title" id="subdomains-title">Subdominios Personalizados</h3>
-                    <p class="potential-description" id="subdomains-desc">
-                        Crea subdominios como usuario.lat.eth para eventos, membresías o experiencias personalizadas.
-                    </p>
-                </div>
-                
-                <div class="potential-card">
-                    <span class="potential-icon">🎓</span>
-                    <h3 class="potential-title" id="education-title">Educación Web3</h3>
-                    <p class="potential-description" id="education-desc">
-                        Herramienta perfecta para enseñar a nuevos usuarios sobre wallets, ENS y servicios blockchain.
-                    </p>
-                </div>
-                
-                <div class="potential-card">
-                    <span class="potential-icon">🎨</span>
-                    <h3 class="potential-title" id="nft-title">Integración NFT</h3>
-                    <p class="potential-description" id="nft-desc">
-                        Almacena y muestra NFTs vinculados a tu dominio ENS, creando una galería digital personal.
-                    </p>
-                </div>
-                
-                <div class="potential-card">
-                    <span class="potential-icon">🚀</span>
-                    <h3 class="potential-title" id="innovation-title">Innovación Blockchain</h3>
-                    <p class="potential-description" id="innovation-desc">
-                        Compatible con dApps, exchanges y marketplaces, facilitando la interacción con el ecosistema Ethereum.
-                    </p>
-                </div>
-            </div>
-        </section>
-    </div>
+                <!-- América Central -->
+                <path class="country" d="M 150 180 L 200 160 L 220 200 L 200 240 L 150 260 L 130 220 Z" 
+                      data-country="central-america" data-property="subdomains"/>
+                <text class="country-label" x="175" y="220">Centroamérica</text>
 
-    <!-- Modal -->
-    <div class="modal" id="countryModal">
-        <div class="modal-content">
-            <button class="modal-close" onclick="closeModal()">&times;</button>
-            <h2 class="modal-title" id="modalTitle">Título del País</h2>
-            <p class="modal-description" id="modalDescription">Descripción del país y sus potenciales.</p>
-            
-            <div class="modal-examples">
-                <h4 id="examplesTitle">Ejemplos de Uso</h4>
-                <div id="examplesContainer">
-                    <!-- Examples will be populated here -->
-                </div>
+                <!-- Caribe -->
+                <path class="country" d="M 250 120 L 300 100 L 320 140 L 300 180 L 250 200 L 230 160 Z" 
+                      data-country="caribbean" data-property="nfts"/>
+                <text class="country-label" x="275" y="150">Caribe</text>
+
+                <!-- Colombia -->
+                <path class="country" d="M 200 240 L 250 220 L 270 260 L 250 300 L 200 320 L 180 280 Z" 
+                      data-country="colombia" data-property="payments"/>
+                <text class="country-label" x="225" y="270">Colombia</text>
+
+                <!-- Venezuela -->
+                <path class="country" d="M 250 200 L 300 180 L 320 220 L 300 260 L 250 280 L 230 240 Z" 
+                      data-country="venezuela" data-property="defi"/>
+                <text class="country-label" x="275" y="230">Venezuela</text>
+
+                <!-- Brasil -->
+                <path class="country" d="M 300 300 L 500 280 L 520 400 L 500 520 L 300 540 L 280 420 Z" 
+                      data-country="brazil" data-property="banking"/>
+                <text class="country-label" x="400" y="410">Brasil</text>
+
+                <!-- Perú -->
+                <path class="country" d="M 200 320 L 250 300 L 270 340 L 250 380 L 200 400 L 180 360 Z" 
+                      data-country="peru" data-property="education"/>
+                <text class="country-label" x="225" y="350">Perú</text>
+
+                <!-- Ecuador -->
+                <path class="country" d="M 180 280 L 230 260 L 250 300 L 230 340 L 180 360 L 160 320 Z" 
+                      data-country="ecuador" data-property="tourism"/>
+                <text class="country-label" x="205" y="310">Ecuador</text>
+
+                <!-- Bolivia -->
+                <path class="country" d="M 250 380 L 300 360 L 320 400 L 300 440 L 250 460 L 230 420 Z" 
+                      data-country="bolivia" data-property="artisans"/>
+                <text class="country-label" x="275" y="410">Bolivia</text>
+
+                <!-- Chile -->
+                <path class="country" d="M 200 400 L 250 380 L 270 420 L 250 460 L 200 480 L 180 440 Z" 
+                      data-country="chile" data-property="innovation"/>
+                <text class="country-label" x="225" y="430">Chile</text>
+
+                <!-- Argentina -->
+                <path class="country" d="M 250 460 L 400 440 L 420 500 L 400 560 L 250 580 L 230 520 Z" 
+                      data-country="argentina" data-property="culture"/>
+                <text class="country-label" x="325" y="510">Argentina</text>
+
+                <!-- Paraguay -->
+                <path class="country" d="M 300 440 L 350 420 L 370 460 L 350 500 L 300 520 L 280 480 Z" 
+                      data-country="paraguay" data-property="agriculture"/>
+                <text class="country-label" x="325" y="470">Paraguay</text>
+
+                <!-- Uruguay -->
+                <path class="country" d="M 350 500 L 400 480 L 420 520 L 400 560 L 350 580 L 330 540 Z" 
+                      data-country="uruguay" data-property="fintech"/>
+                <text class="country-label" x="375" y="530">Uruguay</text>
+            </svg>
+        </div>
+
+        <div class="ens-properties">
+            <div class="property-card" data-property="identity">
+                <div class="property-icon">🆔</div>
+                <h3 class="property-title">Identidad Digital</h3>
+                <p class="property-description">México representa la identidad digital a través de ENS, donde cada persona puede tener su nombre legible en Ethereum.</p>
+            </div>
+
+            <div class="property-card" data-property="subdomains">
+                <div class="property-icon">🔗</div>
+                <h3 class="property-title">Subdominios</h3>
+                <p class="property-description">Centroamérica simboliza la creación de subdominios personalizados para eventos, comunidades y organizaciones.</p>
+            </div>
+
+            <div class="property-card" data-property="nfts">
+                <div class="property-icon">🎨</div>
+                <h3 class="property-title">NFTs Culturales</h3>
+                <p class="property-description">El Caribe representa la integración de NFTs con la rica cultura y arte de la región.</p>
+            </div>
+
+            <div class="property-card" data-property="payments">
+                <div class="property-icon">💰</div>
+                <h3 class="property-title">Pagos Descentralizados</h3>
+                <p class="property-description">Colombia lidera en pagos P2P usando dominios ENS para transferencias directas.</p>
+            </div>
+
+            <div class="property-card" data-property="defi">
+                <div class="property-icon">🏦</div>
+                <h3 class="property-title">DeFi y Finanzas</h3>
+                <p class="property-description">Venezuela representa las finanzas descentralizadas y la innovación financiera con ENS.</p>
+            </div>
+
+            <div class="property-card" data-property="banking">
+                <div class="property-icon">🏛️</div>
+                <h3 class="property-title">Banca Descentralizada</h3>
+                <p class="property-description">Brasil simboliza el futuro de la banca usando ENS como identidad financiera.</p>
+            </div>
+
+            <div class="property-card" data-property="education">
+                <div class="property-icon">🎓</div>
+                <h3 class="property-title">Educación Web3</h3>
+                <p class="property-description">Perú representa la educación blockchain y el onboarding de nuevos usuarios a ENS.</p>
+            </div>
+
+            <div class="property-card" data-property="tourism">
+                <div class="property-icon">🌎</div>
+                <h3 class="property-title">Turismo Digital</h3>
+                <p class="property-description">Ecuador muestra cómo ENS puede revolucionar el turismo con identidades digitales.</p>
+            </div>
+
+            <div class="property-card" data-property="artisans">
+                <div class="property-icon">🛠️</div>
+                <h3 class="property-title">Artesanías Blockchain</h3>
+                <p class="property-description">Bolivia representa la tokenización de artesanías tradicionales usando ENS.</p>
+            </div>
+
+            <div class="property-card" data-property="innovation">
+                <div class="property-icon">🚀</div>
+                <h3 class="property-title">Innovación Tecnológica</h3>
+                <p class="property-description">Chile simboliza la innovación y el desarrollo de nuevas aplicaciones ENS.</p>
+            </div>
+
+            <div class="property-card" data-property="culture">
+                <div class="property-icon">🎭</div>
+                <h3 class="property-title">Cultura y Arte</h3>
+                <p class="property-description">Argentina representa la preservación cultural a través de ENS y NFTs.</p>
+            </div>
+
+            <div class="property-card" data-property="agriculture">
+                <div class="property-icon">🌾</div>
+                <h3 class="property-title">Agricultura Inteligente</h3>
+                <p class="property-description">Paraguay muestra cómo ENS puede revolucionar la agricultura con smart contracts.</p>
+            </div>
+
+            <div class="property-card" data-property="fintech">
+                <div class="property-icon">💳</div>
+                <h3 class="property-title">Fintech Avanzado</h3>
+                <p class="property-description">Uruguay representa el futuro de las fintech usando ENS como identidad digital.</p>
             </div>
         </div>
     </div>
 
-    <!-- Footer -->
     <footer class="footer">
         <p class="footer-text">
             Made with ❤️ by <a href="https://imrulo.eth" target="_blank">imrulo.eth</a>
@@ -662,191 +315,41 @@
     </footer>
 
     <script>
-        // Language toggle functionality
-        let currentLanguage = 'es';
-        
-        function toggleLanguage() {
-            currentLanguage = currentLanguage === 'es' ? 'en' : 'es';
-            updateLanguage();
-        }
-        
-        function updateLanguage() {
-            const langText = document.getElementById('lang-text');
-            langText.textContent = currentLanguage === 'es' ? 'EN' : 'ES';
-            
-            if (currentLanguage === 'en') {
-                document.getElementById('subtitle').textContent = 'The Blockchain Potential of Latin America';
-                document.getElementById('potentials-title').textContent = 'ENS (.eth) Potentials';
-                document.getElementById('potentials-subtitle').textContent = 'Discover how LAT.ETH can transform Latin America';
-                document.getElementById('identity-title').textContent = 'Digital Identity';
-                document.getElementById('identity-desc').textContent = 'Each ENS domain works as your readable name on Ethereum, replacing long and hard-to-remember addresses.';
-                document.getElementById('payments-title').textContent = 'Decentralized Payments';
-                document.getElementById('payments-desc').textContent = 'Receive ETH, ERC-20 tokens and NFTs directly using your ENS domain, facilitating P2P payments without intermediaries.';
-                document.getElementById('subdomains-title').textContent = 'Personalized Subdomains';
-                document.getElementById('subdomains-desc').textContent = 'Create subdomains like user.lat.eth for events, memberships or personalized experiences.';
-                document.getElementById('education-title').textContent = 'Web3 Education';
-                document.getElementById('education-desc').textContent = 'Perfect tool to teach new users about wallets, ENS and blockchain services.';
-                document.getElementById('nft-title').textContent = 'NFT Integration';
-                document.getElementById('nft-desc').textContent = 'Store and display NFTs linked to your ENS domain, creating a personal digital gallery.';
-                document.getElementById('innovation-title').textContent = 'Blockchain Innovation';
-                document.getElementById('innovation-desc').textContent = 'Compatible with dApps, exchanges and marketplaces, facilitating interaction with the Ethereum ecosystem.';
-            } else {
-                document.getElementById('subtitle').textContent = 'El Potencial Blockchain de Latinoamérica';
-                document.getElementById('potentials-title').textContent = 'Potenciales de ENS (.eth)';
-                document.getElementById('potentials-subtitle').textContent = 'Descubre cómo LAT.ETH puede transformar Latinoamérica';
-                document.getElementById('identity-title').textContent = 'Identidad Digital';
-                document.getElementById('identity-desc').textContent = 'Cada dominio ENS funciona como tu nombre legible en Ethereum, reemplazando direcciones largas y difíciles de memorizar.';
-                document.getElementById('payments-title').textContent = 'Pagos Descentralizados';
-                document.getElementById('payments-desc').textContent = 'Recibe ETH, tokens ERC-20 y NFTs directamente usando tu dominio ENS, facilitando pagos P2P sin intermediarios.';
-                document.getElementById('subdomains-title').textContent = 'Subdominios Personalizados';
-                document.getElementById('subdomains-desc').textContent = 'Crea subdominios como usuario.lat.eth para eventos, membresías o experiencias personalizadas.';
-                document.getElementById('education-title').textContent = 'Educación Web3';
-                document.getElementById('education-desc').textContent = 'Herramienta perfecta para enseñar a nuevos usuarios sobre wallets, ENS y servicios blockchain.';
-                document.getElementById('nft-title').textContent = 'Integración NFT';
-                document.getElementById('nft-desc').textContent = 'Almacena y muestra NFTs vinculados a tu dominio ENS, creando una galería digital personal.';
-                document.getElementById('innovation-title').textContent = 'Innovación Blockchain';
-                document.getElementById('innovation-desc').textContent = 'Compatible con dApps, exchanges y marketplaces, facilitando la interacción con el ecosistema Ethereum.';
-            }
-        }
-
-        // Country data
-        const countryData = {
-            brazil: {
-                es: {
-                    title: 'Brasil - Potencial ENS',
-                    description: 'Brasil lidera la adopción blockchain en Latinoamérica con un enfoque en identidad digital y pagos descentralizados.',
-                    examples: [
-                        { title: 'Identidad Corporativa', desc: 'Empresas brasileñas usando ENS para identidad digital' },
-                        { title: 'Pagos P2P', desc: 'Transferencias directas usando dominios ENS' },
-                        { title: 'NFTs Culturales', desc: 'Arte brasileño tokenizado en blockchain' }
-                    ]
-                },
-                en: {
-                    title: 'Brazil - ENS Potential',
-                    description: 'Brazil leads blockchain adoption in Latin America with a focus on digital identity and decentralized payments.',
-                    examples: [
-                        { title: 'Corporate Identity', desc: 'Brazilian companies using ENS for digital identity' },
-                        { title: 'P2P Payments', desc: 'Direct transfers using ENS domains' },
-                        { title: 'Cultural NFTs', desc: 'Brazilian art tokenized on blockchain' }
-                    ]
-                }
-            },
-            argentina: {
-                es: {
-                    title: 'Argentina - Potencial ENS',
-                    description: 'Argentina destaca en la innovación blockchain con un fuerte enfoque en NFTs y onboarding educativo.',
-                    examples: [
-                        { title: 'NFTs Artísticos', desc: 'Artistas argentinos en el metaverso' },
-                        { title: 'Educación Web3', desc: 'Workshops y talleres de blockchain' },
-                        { title: 'Identidad Personal', desc: 'Dominios ENS para profesionales' }
-                    ]
-                },
-                en: {
-                    title: 'Argentina - ENS Potential',
-                    description: 'Argentina stands out in blockchain innovation with a strong focus on NFTs and educational onboarding.',
-                    examples: [
-                        { title: 'Artistic NFTs', desc: 'Argentine artists in the metaverse' },
-                        { title: 'Web3 Education', desc: 'Blockchain workshops and training' },
-                        { title: 'Personal Identity', desc: 'ENS domains for professionals' }
-                    ]
-                }
-            },
-            mexico: {
-                es: {
-                    title: 'México - Potencial ENS',
-                    description: 'México se enfoca en la creación de subdominios para eventos y la gestión de identidad comunitaria.',
-                    examples: [
-                        { title: 'Eventos Culturales', desc: 'Subdominios para festivales y workshops' },
-                        { title: 'Comunidad Estudiantil', desc: 'Identidad digital para universidades' },
-                        { title: 'Empresas Locales', desc: 'Presencia web3 para negocios' }
-                    ]
-                },
-                en: {
-                    title: 'Mexico - ENS Potential',
-                    description: 'Mexico focuses on creating subdomains for events and community identity management.',
-                    examples: [
-                        { title: 'Cultural Events', desc: 'Subdomains for festivals and workshops' },
-                        { title: 'Student Community', desc: 'Digital identity for universities' },
-                        { title: 'Local Businesses', desc: 'Web3 presence for businesses' }
-                    ]
-                }
-            }
-            // Add more countries as needed
-        };
-
-        // Modal functionality
-        function showCountryModal(country) {
-            const modal = document.getElementById('countryModal');
-            const modalTitle = document.getElementById('modalTitle');
-            const modalDescription = document.getElementById('modalDescription');
-            const examplesTitle = document.getElementById('examplesTitle');
-            const examplesContainer = document.getElementById('examplesContainer');
-            
-            const data = countryData[country];
-            if (!data) return;
-            
-            const currentData = data[currentLanguage];
-            
-            modalTitle.textContent = currentData.title;
-            modalDescription.textContent = currentData.description;
-            examplesTitle.textContent = currentLanguage === 'es' ? 'Ejemplos de Uso' : 'Usage Examples';
-            
-            examplesContainer.innerHTML = '';
-            currentData.examples.forEach(example => {
-                const exampleDiv = document.createElement('div');
-                exampleDiv.className = 'example-item';
-                exampleDiv.innerHTML = `
-                    <h5>${example.title}</h5>
-                    <p>${example.desc}</p>
-                `;
-                examplesContainer.appendChild(exampleDiv);
-            });
-            
-            modal.classList.add('show');
-        }
-        
-        function closeModal() {
-            document.getElementById('countryModal').classList.remove('show');
-        }
-
-        // Event listeners
         document.addEventListener('DOMContentLoaded', function() {
-            // Add click events to country blocks
-            const countryBlocks = document.querySelectorAll('.country-block');
-            countryBlocks.forEach(block => {
-                block.addEventListener('click', function() {
-                    const country = this.dataset.country;
-                    showCountryModal(country);
-                });
-            });
-            
-            // Close modal when clicking outside
-            document.getElementById('countryModal').addEventListener('click', function(e) {
-                if (e.target === this) {
-                    closeModal();
-                }
-            });
-            
-            // Close modal with Escape key
-            document.addEventListener('keydown', function(e) {
-                if (e.key === 'Escape') {
-                    closeModal();
-                }
-            });
-        });
+            const countries = document.querySelectorAll('.country');
+            const propertyCards = document.querySelectorAll('.property-card');
 
-        // Add hover effects for country blocks
-        document.addEventListener('DOMContentLoaded', function() {
-            const countryBlocks = document.querySelectorAll('.country-block');
-            
-            countryBlocks.forEach(block => {
-                block.addEventListener('mouseenter', function() {
+            countries.forEach(country => {
+                country.addEventListener('click', function() {
+                    // Remove active class from all countries
+                    countries.forEach(c => c.classList.remove('active'));
+                    
+                    // Add active class to clicked country
                     this.classList.add('active');
+                    
+                    // Highlight corresponding property card
+                    const property = this.dataset.property;
+                    propertyCards.forEach(card => {
+                        if (card.dataset.property === property) {
+                            card.style.borderColor = '#ff00ff';
+                            card.style.boxShadow = '0 0 20px rgba(255, 0, 255, 0.5)';
+                        } else {
+                            card.style.borderColor = 'rgba(0, 255, 255, 0.2)';
+                            card.style.boxShadow = 'none';
+                        }
+                    });
                 });
-                
-                block.addEventListener('mouseleave', function() {
-                    this.classList.remove('active');
-                });
+            });
+
+            // Reset highlighting when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.classList.contains('country')) {
+                    countries.forEach(c => c.classList.remove('active'));
+                    propertyCards.forEach(card => {
+                        card.style.borderColor = 'rgba(0, 255, 255, 0.2)';
+                        card.style.boxShadow = 'none';
+                    });
+                }
             });
         });
     </script>
