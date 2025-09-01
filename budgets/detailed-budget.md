@@ -117,44 +117,61 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## 3. ENS Onboarding (2,250 USDC - 15%)
+## 3. Mobile Equipment & Transportation (2,250 USDC - 15%)
 
-### Technical Support Staff
-| Role | Hours | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
-|------|-------|-----------------|-------------|--------------|---------------|
-| Blockchain Specialist | 60 | 40 | 2,400 | 2,609 | ENS expertise, wallet setup |
-| Technical Assistant | 60 | 25 | 1,500 | 1,630 | Support during events |
-| **Subtotal** | **120 hours** | **3,900 EUR** | **4,239 USDC** | |
-
-### ENS Infrastructure
+### Mobile Sound & Equipment System
 | Item | Cost (EUR) | Cost (USDC) | Justification |
 |------|-------------|--------------|---------------|
-| LAT.ETH Domain Setup | 50 | 54 | Primary domain registration |
-| Subdomain Gas Fees | 1,000 | 1,087 | 1000+ subdomain claims |
-| ENS Integration Tools | 200 | 217 | Development and testing |
-| POAP Integration | 300 | 326 | Participation token system |
-| **Subtotal** | **1,550 EUR** | **1,684 USDC** | |
+| Professional Portable Sound System | 800 | 870 | High-quality mobile audio for all venues |
+| Portable Dance Floor (Modular) | 600 | 652 | Professional dance surface, transportable |
+| Mobile Projector & Screen | 300 | 326 | ENS demonstrations at any location |
+| Equipment Transport Cases | 200 | 217 | Protection and easy transport |
+| **Subtotal** | **1,900 EUR** | **2,065 USDC** | |
 
-### Educational Materials
+### Transportation & Logistics
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Vehicle Rental (5 months) | 1,200 | 1,304 | Transport equipment and team |
+| Fuel Costs | 400 | 435 | Gas for 20 events across Belgrade/Novi Sad |
+| Parking & Venue Access | 200 | 217 | Event location logistics |
+| **Subtotal** | **1,800 EUR** | **1,956 USDC** | |
+
+### Event Supplies & Refreshments
 | Item | Quantity | Cost per Unit (EUR) | Total (EUR) | Total (USDC) | Justification |
 |------|----------|---------------------|-------------|--------------|---------------|
-| ENS Tutorial Videos | 20 | 50 | 1,000 | 1,087 | Professional production |
-| Wallet Setup Guides | 1000 | 1 | 1,000 | 1,087 | Printed materials |
-| **Subtotal** | **Various** | **2,000 EUR** | **2,174 USDC** | |
+| Water & Refreshments | 20 events | 30 | 600 | 652 | Participant comfort |
+| Cultural Snacks | 20 events | 25 | 500 | 543 | Latino cultural experience |
+| Event Materials | 20 events | 15 | 300 | 326 | Name tags, guides, etc. |
+| **Subtotal** | **Various** | **1,400 EUR** | **1,521 USDC** | |
 
-**Total ENS Onboarding: 2,070 EUR = 2,250 USDC**
+**Total Mobile Equipment & Transportation: 2,070 EUR = 2,250 USDC**
 
 ---
 
-## 4. Marketing & Outreach (2,250 USDC - 15%)
+## 4. ENS Technology & Gas Fees (750 USDC - 5%)
+
+### Blockchain Infrastructure (Minimal Costs)
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| LAT.ETH Domain Registration | 50 | 54 | One-time domain setup |
+| Gas Fees for 1,000 Subdomains | 300 | 326 | Minimal gas for free subdomain claims |
+| POAP Minting Gas Fees | 200 | 217 | Gas for 1,000+ participation POAPs |
+| ENS Integration Tools | 150 | 163 | Basic development and testing |
+| **Subtotal** | **700 EUR** | **760 USDC** | |
+
+**Total ENS Technology & Gas Fees: 700 EUR = 750 USDC**
+
+---
+
+## 5. Marketing & Outreach (1,500 USDC - 10%)
 
 ### Digital Marketing
 | Platform | Cost (EUR) | Cost (USDC) | Justification |
 |----------|-------------|--------------|---------------|
-| Social Media Ads | 1,500 | 1,630 | Facebook, Instagram targeting |
-| Google Ads | 800 | 870 | Local search optimization |
-| Influencer Partnerships | 1,200 | 1,304 | Dance community leaders |
-| **Subtotal** | **3,500 EUR** | **3,804 USDC** | |
+| Social Media Ads | 800 | 870 | Facebook, Instagram targeting |
+| Google Ads | 400 | 435 | Local search optimization |
+| Influencer Partnerships | 600 | 652 | Dance community leaders |
+| **Subtotal** | **1,800 EUR** | **1,957 USDC** | |
 
 ### Traditional Marketing
 | Item | Quantity | Cost per Unit (EUR) | Total (EUR) | Total (USDC) | Justification |
@@ -163,32 +180,32 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 | Posters | 100 | 5 | 500 | 543 | Venue and community posting |
 | **Subtotal** | **Various** | **1,100 EUR** | **1,195 USDC** | |
 
-**Total Marketing & Outreach: 2,070 EUR = 2,250 USDC**
+**Total Marketing & Outreach: 1,380 EUR = 1,500 USDC**
 
 ---
 
-## 5. Administrative (1,500 USDC - 10%)
+## 6. Administrative & Project Management (1,500 USDC - 10%)
 
 ### Project Management
 | Item | Cost (EUR) | Cost (USDC) | Justification |
 |------|-------------|--------------|---------------|
-| Project Manager | 1,600 | 1,739 | 5 months coordination |
-| Legal Consultation | 400 | 435 | Compliance and contracts |
-| Insurance | 300 | 326 | Event liability coverage |
-| **Subtotal** | **2,300 EUR** | **2,500 USDC** | |
+| Project Manager | 1,200 | 1,304 | 5 months coordination |
+| Legal Consultation | 300 | 326 | Compliance and contracts |
+| Insurance | 200 | 217 | Event liability coverage |
+| **Subtotal** | **1,700 EUR** | **1,847 USDC** | |
 
 ### Reporting & Evaluation
 | Item | Cost (EUR) | Cost (USDC) | Justification |
 |------|-------------|--------------|---------------|
-| Impact Assessment | 600 | 652 | Participant surveys, analysis |
-| Final Report | 400 | 435 | Professional documentation |
-| **Subtotal** | **1,000 EUR** | **1,087 USDC** | |
+| Impact Assessment | 400 | 435 | Participant surveys, analysis |
+| Final Report | 300 | 326 | Professional documentation |
+| **Subtotal** | **700 EUR** | **761 USDC** | |
 
 **Total Administrative: 1,380 EUR = 1,500 USDC**
 
 ---
 
-## 6. Contingency Fund (1,500 USDC - 10%)
+## 7. Contingency & Emergency Fund (1,500 USDC - 10%)
 
 ### Unforeseen Expenses
 | Category | Amount (USDC) | Justification |
@@ -201,19 +218,20 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## Summary Table
+## Summary Table - Corrected Budget Structure
 
-| Category | EUR | USDC | Percentage |
-|----------|-----|-------|------------|
-| **Event Logistics** | 4,600 | 5,000 | 33.3% |
-| **Personal Especializado** | 3,450 | 3,750 | 25.0% |
-| **ENS Onboarding** | 2,070 | 2,250 | 15.0% |
-| **Marketing & Outreach** | 1,380 | 1,500 | 10.0% |
-| **Administrative** | 1,380 | 1,500 | 10.0% |
-| **Contingency** | 1,380 | 1,000 | 6.7% |
-| **Total** | **14,260** | **15,000** | **100%** |
+| Category | EUR | USDC | Percentage | Key Components |
+|----------|-----|-------|------------|----------------|
+| **Event Logistics** | 5,520 | 6,000 | 40% | Venues, equipment, materials |
+| **Specialized Personnel** | 4,140 | 4,500 | 30% | Dance instructors, ENS educator, coordinators |
+| **Mobile Equipment & Transportation** | 2,070 | 2,250 | 15% | Sound system, transport, refreshments |
+| **Marketing & Outreach** | 1,380 | 1,500 | 10% | Digital ads, flyers, partnerships |
+| **Administrative & Project Management** | 1,380 | 1,500 | 10% | Project management, reporting |
+| **ENS Technology & Gas Fees** | 690 | 750 | 5% | Domain, minimal gas fees, POAPs |
+| **Contingency & Emergency Fund** | 1,380 | 1,500 | 10% | Risk mitigation, unforeseen expenses |
+| **TOTAL** | **16,560** | **15,000** | **100%** | **Complete project budget** |
 
-**Note:** Presupuesto optimizado para 15,000 USDC con economías de escala y costos ajustados al mercado serbio.
+**Note:** ENS subdomains are provided FREE to participants. Only minimal gas fees are required for blockchain transactions. Budget optimized for 15,000 USDC with realistic costs for Serbian market.
 
 ---
 
