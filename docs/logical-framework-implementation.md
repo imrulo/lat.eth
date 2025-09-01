@@ -12,9 +12,9 @@
 ### Structural Transformation
 The project has been updated from a traditional budget structure to a **Logical Framework Matrix** that organizes funds into four hierarchical levels:
 
-1. **GOAL (Development Objective)** - 40% of budget (6,000 USDC)
+1. **GOAL (Development Objective)** - 30% of budget (4,500 USDC)
 2. **PURPOSE (Project Objective)** - 30% of budget (4,500 USDC)  
-3. **COMPONENTS (Products/Results)** - 30% of budget (4,500 USDC)
+3. **COMPONENTS (Products/Results)** - 40% of budget (6,000 USDC)
 4. **ACTIVITIES (Specific Tasks)** - Detailed implementation breakdown
 
 ---
@@ -50,7 +50,7 @@ The project has been updated from a traditional budget structure to a **Logical 
 
 ## Implemented Logical Framework Structure
 
-### GOAL LEVEL: Cultural Preservation (6,000 USDC - 40%)
+### GOAL LEVEL: Cultural Preservation (4,500 USDC - 30%)
 
 **Objective:** Defend and preserve Latino identity and Spanish language through blockchain technology
 
@@ -70,18 +70,18 @@ The project has been updated from a traditional budget structure to a **Logical 
 | **Technical Onboarding** | Wallet creation success rate | 85% | Included | Technical metrics |
 | **Blockchain Education** | Basic ENS understanding | 80% | Included | Assessments |
 
-### COMPONENTS LEVEL: Infrastructure (4,500 USDC - 30%)
+### COMPONENTS LEVEL: Infrastructure (6,000 USDC - 40%)
 
 **Objective:** Specific activities that generate project products
 
 | Component | Indicator | Target | Funds | Verification |
 |-----------|-----------|--------|-------|--------------|
-| **Event Logistics** | Cultural events with ENS integration | 20 events | 6,000 USDC | Event registry |
+| **Event Logistics** | Cultural events with ENS integration | 20 events | 4,500 USDC | Event registry |
 | **Mobile Equipment** | Professional portable equipment | 100% functional | 2,250 USDC | Equipment tests |
 | **Marketing & Outreach** | Community engagement campaigns | 10,000+ reach | 1,500 USDC | Campaign metrics |
 | **Administrative** | Project coordination and management | 5 months | 1,500 USDC | Progress reports |
-| **ENS Technology** | Blockchain infrastructure | 1,000+ transactions | 750 USDC | Technical tests |
-| **Contingency** | Risk mitigation and emergencies | 100% coverage | 1,500 USDC | Risk assessments |
+| **ENS Technology** | Blockchain infrastructure | 1,000+ transactions | 1,090 USDC | Technical tests |
+| **Contingency** | Risk mitigation and emergencies | 100% coverage | 860 USDC | Risk assessments |
 
 ---
 

@@ -27,7 +27,7 @@ This document presents the **integral application** of the Logical Framework Mat
 | **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | Blockchain registry + POAPs | 3,000 USDC (20%) |
 | **Community Impact** | Active Latino communities in web3 | 5 communities | Discord metrics + events | 1,500 USDC (10%) |
 
-**Total GOAL Level: 6,000 USDC (40%)**
+**Total GOAL Level: 4,500 USDC (30%)**
 
 ### Level 2: PURPOSE (Project Objective)
 **Create a sustainable network of Latino digital identities connected through ENS**
@@ -44,10 +44,10 @@ This document presents the **integral application** of the Logical Framework Mat
 ### Level 3: COMPONENTS (Products/Results)
 **Specific activities that generate project products**
 
-#### Component 1: Event Logistics (6,000 USDC - 40%)
+#### Component 1: Event Logistics (4,500 USDC - 30%)
 | Activity | Indicator | Target | Funds Allocated |
 |----------|-----------|--------|-----------------|
-| **Venue Rental** | Events held in cultural spaces | 20 events | 6,000 USDC |
+| **Venue Rental** | Events held in cultural spaces | 20 events | 4,500 USDC |
 
 #### Component 2: Mobile Equipment & Transportation (2,250 USDC - 15%)
 | Activity | Indicator | Target | Funds Allocated |
@@ -66,18 +66,18 @@ This document presents the **integral application** of the Logical Framework Mat
 |----------|-----------|--------|-----------------|
 | **Project Management** | Coordination and reports | 5 months | 1,500 USDC |
 
-#### Component 5: ENS Technology & Gas Fees (750 USDC - 5%)
+#### Component 5: ENS Technology & Gas Fees (1,090 USDC - 7.3%)
 | Activity | Indicator | Target | Funds Allocated |
 |----------|-----------|--------|-----------------|
-| **LAT.ETH Domain** | Setup and maintenance | 1 active domain | 750 USDC |
+| **LAT.ETH Domain** | Setup and maintenance | 1 active domain | 1,090 USDC |
 | **Gas Fees** | FREE subdomain transactions | 1,000+ transactions | Included in domain |
 
-#### Component 6: Contingency & Emergency Fund (1,500 USDC - 10%)
+#### Component 6: Contingency & Emergency Fund (860 USDC - 5.7%)
 | Activity | Indicator | Target | Funds Allocated |
 |----------|-----------|--------|-----------------|
-| **Emergency Fund** | Contingencies and repairs | 100% coverage | 1,500 USDC |
+| **Emergency Fund** | Contingencies and repairs | 100% coverage | 860 USDC |
 
-**Total COMPONENTS Level: 4,500 USDC (30%)**
+**Total COMPONENTS Level: 6,000 USDC (40%)**
 
 ### Level 4: ACTIVITIES (Specific Tasks)
 **Detailed breakdown of all project activities**
@@ -130,9 +130,9 @@ This document presents the **integral application** of the Logical Framework Mat
 #### Disbursement Structure
 | Level | Percentage | Unlock | Required Indicators |
 |-------|------------|--------|-------------------|
-| **GOAL** | 40% (6,000 USDC) | Upon completing 90% cultural goals | 900+ preserved identities |
+| **GOAL** | 30% (4,500 USDC) | Upon completing 90% cultural goals | 900+ preserved identities |
 | **PURPOSE** | 30% (4,500 USDC) | Upon completing 80% events | 16+ completed events |
-| **COMPONENTS** | 30% (4,500 USDC) | Upon completing infrastructure | 100% operational systems |
+| **COMPONENTS** | 40% (6,000 USDC) | Upon completing infrastructure | 100% operational systems |
 
 #### Contingency Management
 - **GOAL Level Risks:** 500 USDC for low cultural adoption

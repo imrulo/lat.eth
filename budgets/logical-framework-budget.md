@@ -19,7 +19,7 @@
 | **ENS Adoption** | New ENS users with LAT.ETH subdomains | 1,000 users | Blockchain registry + POAPs | 3,000 USDC (20%) |
 | **Community Impact** | Active Latino communities in web3 | 5 communities | Discord metrics + events | 1,500 USDC (10%) |
 
-**Total GOAL Level: 6,000 USDC (40%)**
+**Total GOAL Level: 4,500 USDC (30%)**
 
 ---
 
@@ -64,15 +64,15 @@
 #### Component 5: ENS Technology & Gas Fees
 | Activity | Indicator | Target | Funds Allocated |
 |----------|-----------|--------|-----------------|
-| **LAT.ETH Domain** | Setup and maintenance | 1 active domain | 750 USDC |
+| **LAT.ETH Domain** | Setup and maintenance | 1 active domain | 1,090 USDC |
 | **Gas Fees** | FREE subdomain transactions | 1,000+ transactions | Included in domain |
 
 #### Component 6: Contingency & Emergency Fund
 | Activity | Indicator | Target | Funds Allocated |
 |----------|-----------|--------|-----------------|
-| **Emergency Fund** | Contingencies and repairs | 100% coverage | 1,500 USDC |
+| **Emergency Fund** | Contingencies and repairs | 100% coverage | 860 USDC |
 
-**Total COMPONENTS Level: 4,500 USDC (30%)**
+**Total COMPONENTS Level: 6,000 USDC (40%)**
 
 ---
 
@@ -108,7 +108,7 @@
 
 ### Progressive Funding by Levels
 
-#### GOAL Level (40% - 6,000 USDC)
+#### GOAL Level (30% - 4,500 USDC)
 - **Unlock:** Upon completing 90% of cultural preservation goals
 - **Key Indicators:** 
   - 900+ participants with strengthened Latino identity
@@ -122,7 +122,7 @@
   - 800+ wallets created successfully
   - 80%+ ENS understanding
 
-#### COMPONENTS Level (30% - 4,500 USDC)
+#### COMPONENTS Level (40% - 6,000 USDC)
 - **Unlock:** Upon completing infrastructure and personnel
 - **Key Indicators:**
   - 100% of team hired

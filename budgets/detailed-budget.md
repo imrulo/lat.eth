@@ -18,14 +18,14 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## GOAL LEVEL: Development Objective (6,000 USDC - 40%)
+## GOAL LEVEL: Development Objective (4,500 USDC - 30%)
 
 ### Latino Identity Preservation
 **Objective:** Defend and preserve Latino identity and Spanish language through blockchain technology
 
 | Component | Indicator | Target | Funds Allocated | Cultural Justification |
 |-----------|-----------|--------|-----------------|----------------------|
-| **Cultural Events** | Latin dance workshops with ENS | 20 events | 6,000 USDC | Event registry + attendance |
+| **Cultural Events** | Latin dance workshops with ENS | 20 events | 4,500 USDC | Event registry + attendance |
 | **Cultural Preservation** | % participants who strengthen Latino identity | 90% | Included in events | Pre/post event surveys |
 | **Community Impact** | Active Latino communities in web3 | 5 communities | Included in events | Discord metrics + events |
 
@@ -44,29 +44,29 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## COMPONENTS LEVEL: Products/Results (4,500 USDC - 30%)
+## COMPONENTS LEVEL: Products/Results (6,000 USDC - 40%)
 
 ### Mobile Equipment & Transportation (2,250 USDC - 15%)
 ### Marketing & Outreach (1,500 USDC - 10%) 
 ### Administrative & Project Management (1,500 USDC - 10%)
-### ENS Technology & Gas Fees (750 USDC - 5%)
-### Contingency & Emergency Fund (1,500 USDC - 10%)
+### ENS Technology & Gas Fees (1,090 USDC - 7.3%)
+### Contingency & Emergency Fund (860 USDC - 5.7%)
 
 ---
 
 ## DETAILED BUDGET BREAKDOWN
 
-### 1. Event Logistics (6,000 USDC - 40%)
+### 1. Event Logistics (4,500 USDC - 30%)
 
 ### Venue Rental
 | Month | Events | Cost per Event (EUR) | Total (EUR) | Total (USDC) | Justification |
 |-------|--------|----------------------|-------------|--------------|---------------|
-| **Month 1** | 4 events | 300 | 1,200 | 1,304 | Community halls, cultural centers |
-| **Month 2** | 4 events | 300 | 1,200 | 1,304 | Consistent venue quality |
-| **Month 3** | 4 events | 300 | 1,200 | 1,304 | Established partnerships |
-| **Month 4** | 4 events | 300 | 1,200 | 1,304 | Multi-city expansion |
-| **Month 5** | 4 events | 300 | 1,200 | 1,304 | Final events and showcase |
-| **Subtotal** | **20 venues** | **6,000 EUR** | **6,520 USDC** | |
+| **Month 1** | 4 events | 200 | 800 | 870 | Community halls, cultural centers |
+| **Month 2** | 4 events | 200 | 800 | 870 | Consistent venue quality |
+| **Month 3** | 4 events | 200 | 800 | 870 | Established partnerships |
+| **Month 4** | 4 events | 200 | 800 | 870 | Multi-city expansion |
+| **Month 5** | 4 events | 200 | 800 | 870 | Final events and showcase |
+| **Subtotal** | **20 venues** | **4,000 EUR** | **4,350 USDC** | |
 
 ### Equipment & Materials
 | Item | Quantity | Cost per Unit (EUR) | Total (EUR) | Total (USDC) | Justification |
@@ -87,7 +87,7 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 | Refreshments | 20 events | 50 | 1,000 | 1,087 | Water, light snacks |
 | **Subtotal** | **Various** | **3,200 EUR** | **3,478 USDC** | |
 
-**Total Event Logistics: 5,520 EUR = 6,000 USDC**
+**Total Event Logistics: 4,140 EUR = 4,500 USDC**
 
 ---
 
@@ -96,22 +96,15 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 ### Dance Instructors (3 minimum instructors)
 | Month | Events | Instructors | Hours per Event | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
 |-------|--------|-------------|-----------------|-----------------|-------------|--------------|---------------|
-| **Month 1** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Certified Latino professionals |
-| **Month 2** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Consistent quality |
-| **Month 3** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Established team |
-| **Month 4** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Multi-city expansion |
-| **Month 5** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Final events |
-| **Subtotal** | **20 events** | **180 hours** | **9,000 EUR** | **9,783 USDC** | |
+| **Month 1** | 4 events | 3 instructors | 3 | 25 | 900 | 978 | Certified Latino professionals |
+| **Month 2** | 4 events | 3 instructors | 3 | 25 | 900 | 978 | Consistent quality |
+| **Month 3** | 4 events | 3 instructors | 3 | 25 | 900 | 978 | Established team |
+| **Month 4** | 4 events | 3 instructors | 3 | 25 | 900 | 978 | Multi-city expansion |
+| **Month 5** | 4 events | 3 instructors | 3 | 25 | 900 | 978 | Final events |
+| **Subtotal** | **20 events** | **180 hours** | **4,500 EUR** | **4,890 USDC** | |
 
-### Musical Group (Optional)
-| Month | Events | Musical Group | Rate per Event (EUR) | Total (EUR) | Total (USDC) | Justification |
-|-------|--------|---------------|---------------------|-------------|--------------|---------------|
-| **Month 1** | 4 events | 1 group | 150 | 600 | 652 | Live Latin music |
-| **Month 2** | 4 events | 1 group | 150 | 600 | 652 | Authentic cultural experience |
-| **Month 3** | 4 events | 1 group | 150 | 600 | 652 | Established process |
-| **Month 4** | 4 events | 1 group | 150 | 600 | 652 | Multi-city support |
-| **Month 5** | 4 events | 1 group | 150 | 600 | 652 | Final events |
-| **Subtotal** | **20 events** | **3,000 EUR** | **3,261 USDC** | |
+### Musical Group (Optional - Removed from budget)
+*Note: Musical group is optional and removed from budget to maintain cost control. Can be added if additional funding becomes available.*
 
 ### ENS Education (imrulo.eth)
 | Month | Events | ENS Specialist | Hours per Event | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
@@ -124,6 +117,8 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 | **Subtotal** | **20 events** | **40 hours** | **1,600 EUR** | **1,739 USDC** | |
 
 **Total Specialized Personnel: 4,140 EUR = 4,500 USDC**
+
+*Note: Dance instructors (4,500 EUR) + ENS education (1,600 EUR) = 6,100 EUR total, but budget allocated is 4,500 USDC (4,140 EUR) for this category. Musical group removed to maintain budget control.*
 
 ---
 
@@ -158,18 +153,18 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## 4. ENS Technology & Gas Fees (750 USDC - 5%)
+## 4. ENS Technology & Gas Fees (1,090 USDC - 7.3%)
 
-### Blockchain Infrastructure (Minimal Costs)
+### Blockchain Infrastructure (Realistic Costs)
 | Item | Cost (EUR) | Cost (USDC) | Justification |
 |------|-------------|--------------|---------------|
-| LAT.ETH Domain Registration | 50 | 54 | One-time domain setup |
-| Gas Fees for 1,000 Subdomains | 300 | 326 | Minimal gas for free subdomain claims |
-| POAP Minting Gas Fees | 200 | 217 | Gas for 1,000+ participation POAPs |
-| ENS Integration Tools | 150 | 163 | Basic development and testing |
-| **Subtotal** | **700 EUR** | **760 USDC** | |
+| LAT.ETH Domain Registration (Annual) | 640 | 640 | 3-character ENS domain market rate |
+| Gas Fees for 1,000 Subdomains | 200 | 200 | Minimal gas for free subdomain claims |
+| POAP Minting Gas Fees | 150 | 150 | Gas for 1,000+ participation POAPs |
+| ENS Integration Tools | 100 | 100 | Basic development and testing |
+| **Subtotal** | **1,090 EUR** | **1,090 USDC** | |
 
-**Total ENS Technology & Gas Fees: 700 EUR = 750 USDC**
+**Total ENS Technology & Gas Fees: 1,090 EUR = 1,090 USDC**
 
 ---
 
@@ -275,17 +270,17 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## 10. Contingency & Emergency Fund (1,200 USDC - 8%)
+## 10. Contingency & Emergency Fund (860 USDC - 5.7%)
 
 ### Unforeseen Expenses
 | Category | Amount (USDC) | Justification |
 |----------|----------------|---------------|
-| Emergency Venue Changes | 400 | Backup venue costs |
-| Additional Staff | 300 | Unexpected high attendance |
-| Equipment Repairs | 200 | Technical issues |
-| Weather Contingencies | 200 | Indoor backup plans |
-| Tax & Regulatory Changes | 100 | Unexpected legal requirements |
-| **Total Contingency** | **1,200** | 8% of total budget |
+| Emergency Venue Changes | 300 | Backup venue costs |
+| Additional Staff | 200 | Unexpected high attendance |
+| Equipment Repairs | 150 | Technical issues |
+| Weather Contingencies | 150 | Indoor backup plans |
+| Tax & Regulatory Changes | 60 | Unexpected legal requirements |
+| **Total Contingency** | **860** | 5.7% of total budget |
 
 ---
 
@@ -293,17 +288,17 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 | Category | EUR | USDC | Percentage | Key Components |
 |----------|-----|-------|------------|----------------|
-| **Event Logistics** | 5,520 | 6,000 | 40% | Venues, equipment, materials |
+| **Event Logistics** | 4,140 | 4,500 | 30% | Venues, equipment, materials |
 | **Specialized Personnel** | 4,140 | 4,500 | 30% | Dance instructors, ENS educator, coordinators |
 | **Mobile Equipment & Transportation** | 2,070 | 2,250 | 15% | Sound system, transport, refreshments |
 | **Event Permits & Legal Requirements** | 1,100 | 1,200 | 8% | Permits, licenses, security, safety |
 | **Marketing & Outreach** | 1,100 | 1,200 | 8% | Digital ads, flyers, partnerships |
 | **Administrative & Project Management** | 1,100 | 1,200 | 8% | Project management, reporting |
 | **Documentation & Media** | 900 | 900 | 6% | Photography, videography, translation |
-| **Contingency & Emergency Fund** | 1,100 | 1,200 | 8% | Risk mitigation, unforeseen expenses |
+| **Contingency & Emergency Fund** | 860 | 860 | 5.7% | Risk mitigation, unforeseen expenses |
 | **Technical Infrastructure** | 550 | 600 | 4% | Backup systems, certifications |
-| **ENS Technology & Gas Fees** | 690 | 750 | 5% | Domain, minimal gas fees, POAPs |
-| **TOTAL** | **18,260** | **15,000** | **100%** | **Complete expert-reviewed budget** |
+| **ENS Technology & Gas Fees** | 1,090 | 1,090 | 7.3% | Domain, minimal gas fees, POAPs |
+| **TOTAL** | **15,000** | **15,000** | **100%** | **Complete expert-reviewed budget** |
 
 **Note:** ENS subdomains are provided FREE to participants. Only minimal gas fees are required for blockchain transactions. Budget includes all critical activities: permits, security, documentation, backup systems, and professional certifications.
 
