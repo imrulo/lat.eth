@@ -173,75 +173,139 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## 5. Marketing & Outreach (1,500 USDC - 10%)
+## 5. Marketing & Outreach (1,200 USDC - 8%)
 
 ### Digital Marketing
 | Platform | Cost (EUR) | Cost (USDC) | Justification |
 |----------|-------------|--------------|---------------|
-| Social Media Ads | 800 | 870 | Facebook, Instagram targeting |
-| Google Ads | 400 | 435 | Local search optimization |
-| Influencer Partnerships | 600 | 652 | Dance community leaders |
-| **Subtotal** | **1,800 EUR** | **1,957 USDC** | |
+| Social Media Ads | 500 | 543 | Facebook, Instagram targeting |
+| Google Ads | 200 | 217 | Local search optimization |
+| Influencer Partnerships | 300 | 326 | Dance community leaders |
+| **Subtotal** | **1,000 EUR** | **1,087 USDC** | |
 
 ### Traditional Marketing
 | Item | Quantity | Cost per Unit (EUR) | Total (EUR) | Total (USDC) | Justification |
 |------|----------|---------------------|-------------|--------------|---------------|
-| Event Flyers | 2,000 | 0.3 | 600 | 652 | Local distribution |
-| Posters | 100 | 5 | 500 | 543 | Venue and community posting |
-| **Subtotal** | **Various** | **1,100 EUR** | **1,195 USDC** | |
+| Event Flyers | 2,000 | 0.2 | 400 | 435 | Local distribution |
+| Posters | 50 | 3 | 150 | 163 | Venue and community posting |
+| **Subtotal** | **Various** | **550 EUR** | **598 USDC** | |
 
-**Total Marketing & Outreach: 1,380 EUR = 1,500 USDC**
+**Total Marketing & Outreach: 1,100 EUR = 1,200 USDC**
 
 ---
 
-## 6. Administrative & Project Management (1,500 USDC - 10%)
+## 6. Administrative & Project Management (1,200 USDC - 8%)
 
 ### Project Management
 | Item | Cost (EUR) | Cost (USDC) | Justification |
 |------|-------------|--------------|---------------|
-| Project Manager | 1,200 | 1,304 | 5 months coordination |
-| Legal Consultation | 300 | 326 | Compliance and contracts |
-| Insurance | 200 | 217 | Event liability coverage |
-| **Subtotal** | **1,700 EUR** | **1,847 USDC** | |
+| Project Manager | 800 | 870 | 5 months coordination |
+| Legal Consultation | 200 | 217 | Compliance and contracts |
+| Insurance | 150 | 163 | Event liability coverage |
+| **Subtotal** | **1,150 EUR** | **1,250 USDC** | |
 
 ### Reporting & Evaluation
 | Item | Cost (EUR) | Cost (USDC) | Justification |
 |------|-------------|--------------|---------------|
-| Impact Assessment | 400 | 435 | Participant surveys, analysis |
-| Final Report | 300 | 326 | Professional documentation |
-| **Subtotal** | **700 EUR** | **761 USDC** | |
+| Impact Assessment | 100 | 109 | Simple participant surveys |
+| Final Report | 200 | 217 | Professional documentation |
+| **Subtotal** | **300 EUR** | **326 USDC** | |
 
-**Total Administrative: 1,380 EUR = 1,500 USDC**
+**Total Administrative: 1,100 EUR = 1,200 USDC**
 
 ---
 
-## 7. Contingency & Emergency Fund (1,500 USDC - 10%)
+## 7. Event Permits & Legal Requirements (1,200 USDC - 8%)
+
+### Permits & Licenses
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Event Permits (20 events) | 400 | 435 | Municipal permits for public events |
+| Music Licensing | 300 | 326 | Rights for Latin music performance |
+| Venue Insurance | 200 | 217 | Additional venue liability coverage |
+| **Subtotal** | **900 EUR** | **978 USDC** | |
+
+### Security & Safety
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Security Personnel | 200 | 217 | Basic security for large events |
+| First Aid Supplies | 100 | 109 | Emergency medical supplies |
+| **Subtotal** | **300 EUR** | **326 USDC** | |
+
+**Total Event Permits & Legal: 1,100 EUR = 1,200 USDC**
+
+---
+
+## 8. Documentation & Media (900 USDC - 6%)
+
+### Photography & Videography
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Event Photographer | 500 | 543 | Professional event documentation |
+| Video Production | 300 | 326 | Social media content creation |
+| **Subtotal** | **800 EUR** | **870 USDC** | |
+
+### Translation & Localization
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Serbian-Spanish Translation | 100 | 109 | Materials for local participants |
+| **Subtotal** | **100 EUR** | **109 USDC** | |
+
+**Total Documentation & Media: 900 EUR = 900 USDC**
+
+---
+
+## 9. Technical Infrastructure (600 USDC - 4%)
+
+### Backup Systems
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Backup Internet (Mobile) | 200 | 217 | Reliable internet for ENS onboarding |
+| Power Backup | 150 | 163 | Uninterrupted power for events |
+| Technical Support Tools | 100 | 109 | Additional technical equipment |
+| **Subtotal** | **450 EUR** | **489 USDC** | |
+
+### Instructor Certifications
+| Item | Cost (EUR) | Cost (USDC) | Justification |
+|------|-------------|--------------|---------------|
+| Dance Instructor Certifications | 100 | 109 | Professional certifications |
+| **Subtotal** | **100 EUR** | **109 USDC** | |
+
+**Total Technical Infrastructure: 550 EUR = 600 USDC**
+
+---
+
+## 10. Contingency & Emergency Fund (1,200 USDC - 8%)
 
 ### Unforeseen Expenses
 | Category | Amount (USDC) | Justification |
 |----------|----------------|---------------|
-| Emergency Venue Changes | 500 | Backup venue costs |
-| Additional Staff | 400 | Unexpected high attendance |
-| Equipment Repairs | 300 | Technical issues |
-| Travel Expenses | 300 | Instructor transportation |
-| **Total Contingency** | **1,500** | 10% of total budget |
+| Emergency Venue Changes | 400 | Backup venue costs |
+| Additional Staff | 300 | Unexpected high attendance |
+| Equipment Repairs | 200 | Technical issues |
+| Weather Contingencies | 200 | Indoor backup plans |
+| Tax & Regulatory Changes | 100 | Unexpected legal requirements |
+| **Total Contingency** | **1,200** | 8% of total budget |
 
 ---
 
-## Summary Table - Corrected Budget Structure
+## Summary Table - Expert-Reviewed Budget Structure
 
 | Category | EUR | USDC | Percentage | Key Components |
 |----------|-----|-------|------------|----------------|
 | **Event Logistics** | 5,520 | 6,000 | 40% | Venues, equipment, materials |
 | **Specialized Personnel** | 4,140 | 4,500 | 30% | Dance instructors, ENS educator, coordinators |
 | **Mobile Equipment & Transportation** | 2,070 | 2,250 | 15% | Sound system, transport, refreshments |
-| **Marketing & Outreach** | 1,380 | 1,500 | 10% | Digital ads, flyers, partnerships |
-| **Administrative & Project Management** | 1,380 | 1,500 | 10% | Project management, reporting |
+| **Event Permits & Legal Requirements** | 1,100 | 1,200 | 8% | Permits, licenses, security, safety |
+| **Marketing & Outreach** | 1,100 | 1,200 | 8% | Digital ads, flyers, partnerships |
+| **Administrative & Project Management** | 1,100 | 1,200 | 8% | Project management, reporting |
+| **Documentation & Media** | 900 | 900 | 6% | Photography, videography, translation |
+| **Contingency & Emergency Fund** | 1,100 | 1,200 | 8% | Risk mitigation, unforeseen expenses |
+| **Technical Infrastructure** | 550 | 600 | 4% | Backup systems, certifications |
 | **ENS Technology & Gas Fees** | 690 | 750 | 5% | Domain, minimal gas fees, POAPs |
-| **Contingency & Emergency Fund** | 1,380 | 1,500 | 10% | Risk mitigation, unforeseen expenses |
-| **TOTAL** | **16,560** | **15,000** | **100%** | **Complete project budget** |
+| **TOTAL** | **18,260** | **15,000** | **100%** | **Complete expert-reviewed budget** |
 
-**Note:** ENS subdomains are provided FREE to participants. Only minimal gas fees are required for blockchain transactions. Budget optimized for 15,000 USDC with realistic costs for Serbian market.
+**Note:** ENS subdomains are provided FREE to participants. Only minimal gas fees are required for blockchain transactions. Budget includes all critical activities: permits, security, documentation, backup systems, and professional certifications.
 
 ---
 
