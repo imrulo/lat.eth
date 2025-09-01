@@ -6,7 +6,7 @@
 [![Balkans](https://img.shields.io/badge/Balkans-Green?style=for-the-badge)](https://github.com/imrulo/lat.eth)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**🌍 Evangelizing ENS to Latinos across the Balkans through Latin dance, preserving Spanish language and Latino identity through blockchain technology.**
+**🌍 Advancing ENS adoption across the Balkans through Latin dance, preserving Spanish language and Latino identity through blockchain technology.**
 
 ## 🚀 **Quick Links**
 
@@ -17,11 +17,11 @@
 - **[Interactive Visuals](visuals/)** - Charts and flowcharts
 
 ## Project Overview
-**LAT.ETH Cultural Defense Initiative** (led by imrulo.eth) is seeking funding from the ENS DAO to organize **20 interactive Latin dance workshops** in Serbia over 5 months, with integrated ENS ecosystem onboarding specifically designed to **evangelize ENS to Latinos across the Balkans**. This pilot project in Serbia will establish a scalable model for expansion to Croatia, Bosnia, Montenegro, Albania, Macedonia, and Kosovo.
+**LAT.ETH Cultural Defense Initiative** (led by imrulo.eth) is seeking funding from the ENS DAO to organize **20 interactive Latin dance workshops** in Serbia over 5 months, with integrated ENS ecosystem onboarding specifically designed to **advance ENS adoption among Latinos across the Balkans**. This pilot project in Serbia will establish a scalable model for expansion to Croatia, Bosnia, Montenegro, Albania, Macedonia, and Kosovo.
 
 ## Cultural Mission
-This is not just another ENS onboarding project. This is a **regional evangelization initiative** that uses blockchain technology to:
-- **Evangelize ENS** to Latinos across the Balkans, starting with Serbia
+This is not just another ENS onboarding project. This is a **regional adoption initiative** that uses blockchain technology to:
+- **Advance ENS adoption** among Latinos across the Balkans, starting with Serbia
 - **Preserve Spanish language** in the digital age
 - **Strengthen Latino identity** through web3 technology
 - **Connect Spanish speakers** to their cultural heritage
@@ -55,7 +55,7 @@ lat.eth/
 - **Location**: Belgrade, Serbia (pilot region for Balkan expansion)
 - **Budget**: 15,000 USDC (progressive unlock system)
 - **Timeline**: 5 months (4 events per month)
-- **Focus**: **Evangelizing ENS to Latinos across the Balkans** starting with Serbia
+- **Focus**: **Advancing ENS adoption among Latinos across the Balkans** starting with Serbia
 - **Innovation**: POAP integration for cultural recognition and community building
 - **Expansion**: Scalable model for Croatia, Bosnia, Montenegro, Albania, Macedonia, Kosovo
 
@@ -76,7 +76,7 @@ lat.eth/
 - They're **paying zero dollars** for their cultural identity
 
 ## ENS DAO Alignment
-This project aligns with ENS DAO's Public Goods Working Group goals while **evangelizing ENS across the Balkans**:
+This project aligns with ENS DAO's Public Goods Working Group goals while **advancing ENS adoption across the Balkans**:
 - User onboarding and ecosystem growth (1000 new users in Serbia pilot)
 - Regional expansion strategy (7 Balkan countries total)
 - Global accessibility and adoption
@@ -113,6 +113,6 @@ This project aligns with ENS DAO's Public Goods Working Group goals while **evan
 For questions about this **cultural defense initiative**, contact imrulo.eth (Rulán Ferrales) or refer to the detailed documentation in the `/docs` folder.
 
 ---
-**Cultural Mission: Evangelizing ENS to Latinos Across the Balkans - Starting with Serbia**
+**Cultural Mission: Advancing ENS Adoption Among Latinos Across the Balkans - Starting with Serbia**
 
 *This proposal is designed for submission to the ENS DAO Small Grants program via discuss.ens.domains*
