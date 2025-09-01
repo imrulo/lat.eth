@@ -1,235 +1,236 @@
-# Matriz del Marco Lógico - Estructura de Fondos
-## Livadance ENS Grant Proposal - Defendiendo la Identidad Latino
+# Logical Framework Matrix - Fund Structure
+## Livadance ENS Grant Proposal - Defending Latino Identity
 
-**Enfoque:** Matriz del Marco Lógico para gestión de fondos  
-**Proyecto:** LAT.ETH Cultural Defense Initiative  
-**Duración:** 5 meses  
-**Presupuesto Total:** 15,000 USDC  
-
----
-
-## Estructura del Marco Lógico
-
-### Nivel 1: FIN (Objetivo de Desarrollo)
-**Defender y preservar la identidad latina y el idioma español a través de la tecnología blockchain**
-
-| Componente | Indicador | Meta | Fuente de Verificación | Fondos Asignados |
-|------------|-----------|------|----------------------|------------------|
-| **Preservación Cultural** | % de participantes que fortalecen su identidad latina | 90% | Encuestas pre/post evento | 2,250 USDC (15%) |
-| **Adopción ENS** | Nuevos usuarios ENS con subdominios LAT.ETH | 1,000 usuarios | Registro blockchain + POAPs | 3,000 USDC (20%) |
-| **Impacto Comunitario** | Comunidades latinas activas en web3 | 5 comunidades | Métricas de Discord + eventos | 1,500 USDC (10%) |
-
-**Total Nivel FIN: 6,000 USDC (40%)**
+**Approach:** Logical Framework Matrix for fund management  
+**Project:** LAT.ETH Cultural Defense Initiative  
+**Duration:** 5 months  
+**Total Budget:** 15,000 USDC  
 
 ---
 
-### Nivel 2: PROPÓSITO (Objetivo del Proyecto)
-**Crear una red sostenible de identidades digitales latinas conectadas a través de ENS**
+## Logical Framework Structure
 
-| Componente | Indicador | Meta | Fuente de Verificación | Fondos Asignados |
-|------------|-----------|------|----------------------|------------------|
-| **Personal Especializado** | Instructores de baile y educador ENS | 3 instructores + imrulo.eth | Contratos y certificaciones | 4,500 USDC (30%) |
-| **Onboarding Técnico** | Tasa de éxito en creación de wallets | 85% | Métricas técnicas + soporte | Incluido en personal |
-| **Educación Blockchain** | Comprensión básica de ENS post-evento | 80% | Evaluaciones de conocimiento | Incluido en personal |
+### Level 1: GOAL (Development Objective)
+**Defend and preserve Latino identity and Spanish language through blockchain technology**
 
-**Total Nivel PROPÓSITO: 4,500 USDC (30%)**
+| Component | Indicator | Target | Source of Verification | Funds Allocated |
+|-----------|-----------|--------|----------------------|-----------------|
+| **Cultural Preservation** | % of participants who strengthen their Latino identity | 90% | Pre/post event surveys | 2,250 USDC (15%) |
+| **ENS Adoption** | New ENS users with LAT.ETH subdomains | 1,000 users | Blockchain registry + POAPs | 3,000 USDC (20%) |
+| **Community Impact** | Active Latino communities in web3 | 5 communities | Discord metrics + events | 1,500 USDC (10%) |
 
----
-
-### Nivel 3: COMPONENTES (Productos/Resultados)
-**Actividades específicas que generan los productos del proyecto**
-
-#### Componente 1: Event Logistics
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Alquiler de Venues** | Eventos realizados en espacios culturales | 20 eventos | 6,000 USDC |
-
-#### Componente 2: Mobile Equipment & Transportation
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Sistema de Sonido Móvil** | Equipamiento portátil profesional | 100% funcional | 2,250 USDC |
-| **Transporte y Logística** | Vehículo, gasolina, estacionamiento | 20 eventos | Incluido en equipamiento |
-| **Refrescos y Suministros** | Comodidad de participantes | 1,000+ participantes | Incluido en equipamiento |
-
-#### Componente 3: Marketing & Outreach
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Marketing Digital** | Campañas en redes sociales | 10,000+ alcance | 1,500 USDC |
-
-#### Componente 4: Administrative & Project Management
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Gestión de Proyecto** | Coordinación y reportes | 5 meses | 1,500 USDC |
-
-#### Componente 5: ENS Technology & Gas Fees
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Dominio LAT.ETH** | Configuración y mantenimiento | 1 dominio activo | 750 USDC |
-| **Gas Fees** | Transacciones de subdominios GRATIS | 1,000+ transacciones | Incluido en dominio |
-
-#### Componente 6: Contingency & Emergency Fund
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Fondo de Emergencia** | Contingencias y reparaciones | 100% cobertura | 1,500 USDC |
-
-**Total Nivel COMPONENTES: 4,500 USDC (30%)**
+**Total GOAL Level: 6,000 USDC (40%)**
 
 ---
 
-### Nivel 4: ACTIVIDADES (Tareas Específicas)
-**Desglose detallado de todas las actividades del proyecto**
+### Level 2: PURPOSE (Project Objective)
+**Create a sustainable network of Latino digital identities connected through ENS**
 
-#### Actividades de Preparación (Mes 1)
-| Actividad | Responsable | Duración | Costo | Indicador de Éxito |
-|-----------|-------------|----------|-------|-------------------|
-| **Contratación de Personal** | Project Manager | 2 semanas | 500 USDC | 100% del equipo contratado |
-| **Alianzas Estratégicas** | Coordinador Cultural | 3 semanas | 300 USDC | 5+ alianzas confirmadas |
-| **Desarrollo de Materiales** | Especialista ENS | 4 semanas | 400 USDC | Materiales listos para impresión |
-| **Reserva de Venues** | Coordinador Logístico | 2 semanas | 200 USDC | 20 venues confirmados |
+| Component | Indicator | Target | Source of Verification | Funds Allocated |
+|-----------|-----------|--------|----------------------|-----------------|
+| **Specialized Personnel** | Dance instructors and ENS educator | 3 instructors + imrulo.eth | Contracts and certifications | 4,500 USDC (30%) |
+| **Technical Onboarding** | Success rate in wallet creation | 85% | Technical metrics + support | Included in personnel |
+| **Blockchain Education** | Basic ENS understanding post-event | 80% | Knowledge assessments | Included in personnel |
 
-#### Actividades de Ejecución (Meses 2-5)
-| Actividad | Responsable | Frecuencia | Costo por Evento | Indicador de Éxito |
-|-----------|-------------|------------|------------------|-------------------|
-| **Talleres de Baile** | Instructor Principal | 4 eventos/mes | 150 USDC | 50+ participantes/evento |
-| **Onboarding ENS** | Especialista Técnico | 4 eventos/mes | 100 USDC | 80%+ éxito en wallet creation |
-| **Soporte Cultural** | Coordinador Cultural | 4 eventos/mes | 75 USDC | 90%+ satisfacción cultural |
-| **Documentación** | Project Manager | Continuo | 50 USDC/mes | Reportes mensuales completos |
-
-#### Actividades de Evaluación (Mes 5)
-| Actividad | Responsable | Duración | Costo | Indicador de Éxito |
-|-----------|-------------|----------|-------|-------------------|
-| **Evaluación de Impacto** | Equipo Completo | 2 semanas | 300 USDC | Reporte final completo |
-| **Análisis de Métricas** | Especialista ENS | 1 semana | 200 USDC | Dashboard de métricas |
-| **Plan de Sostenibilidad** | Project Manager | 1 semana | 100 USDC | Plan de continuidad |
+**Total PURPOSE Level: 4,500 USDC (30%)**
 
 ---
 
-## Estructura de Financiamiento por Marco Lógico
+### Level 3: COMPONENTS (Products/Results)
+**Specific activities that generate project products**
 
-### Financiamiento Progresivo por Niveles
+#### Component 1: Event Logistics
+| Activity | Indicator | Target | Funds Allocated |
+|----------|-----------|--------|-----------------|
+| **Venue Rental** | Events held in cultural spaces | 20 events | 6,000 USDC |
 
-#### Nivel FIN (40% - 6,000 USDC)
-- **Desbloqueo:** Al completar 90% de metas de preservación cultural
-- **Indicadores Clave:** 
-  - 900+ participantes con identidad latina fortalecida
-  - 900+ subdominios LAT.ETH creados
-  - 4+ comunidades latinas activas
+#### Component 2: Mobile Equipment & Transportation
+| Activity | Indicator | Target | Funds Allocated |
+|----------|-----------|--------|-----------------|
+| **Mobile Sound System** | Professional portable equipment | 100% functional | 2,250 USDC |
+| **Transportation & Logistics** | Vehicle, fuel, parking | 20 events | Included in equipment |
+| **Refreshments & Supplies** | Participant comfort | 1,000+ participants | Included in equipment |
 
-#### Nivel PROPÓSITO (30% - 4,500 USDC)
-- **Desbloqueo:** Al completar 80% de eventos y onboarding
-- **Indicadores Clave:**
-  - 16+ eventos completados
-  - 800+ wallets creados exitosamente
-  - 80%+ comprensión de ENS
+#### Component 3: Marketing & Outreach
+| Activity | Indicator | Target | Funds Allocated |
+|----------|-----------|--------|-----------------|
+| **Digital Marketing** | Social media campaigns | 10,000+ reach | 1,500 USDC |
 
-#### Nivel COMPONENTES (30% - 4,500 USDC)
-- **Desbloqueo:** Al completar infraestructura y personal
-- **Indicadores Clave:**
-  - 100% del equipo contratado
-  - 100% de venues confirmados
-  - 100% de materiales desarrollados
+#### Component 4: Administrative & Project Management
+| Activity | Indicator | Target | Funds Allocated |
+|----------|-----------|--------|-----------------|
+| **Project Management** | Coordination and reports | 5 months | 1,500 USDC |
 
----
+#### Component 5: ENS Technology & Gas Fees
+| Activity | Indicator | Target | Funds Allocated |
+|----------|-----------|--------|-----------------|
+| **LAT.ETH Domain** | Setup and maintenance | 1 active domain | 750 USDC |
+| **Gas Fees** | FREE subdomain transactions | 1,000+ transactions | Included in domain |
 
-## Matriz de Indicadores y Fondos
+#### Component 6: Contingency & Emergency Fund
+| Activity | Indicator | Target | Funds Allocated |
+|----------|-----------|--------|-----------------|
+| **Emergency Fund** | Contingencies and repairs | 100% coverage | 1,500 USDC |
 
-### Indicadores Cuantitativos
-| Indicador | Línea Base | Meta | Fondos Vinculados | Frecuencia de Medición |
-|-----------|------------|------|-------------------|----------------------|
-| **Participantes Totales** | 0 | 1,000 | 3,000 USDC | Mensual |
-| **Subdominios LAT.ETH** | 0 | 1,000 | 2,250 USDC | Por evento |
-| **Eventos Completados** | 0 | 20 | 6,000 USDC | Mensual |
-| **Wallets Creados** | 0 | 850 | 1,500 USDC | Por evento |
-| **POAPs Distribuidos** | 0 | 1,000 | 750 USDC | Por evento |
-
-### Indicadores Cualitativos
-| Indicador | Método de Medición | Fondos Vinculados | Frecuencia |
-|-----------|-------------------|-------------------|-----------|
-| **Satisfacción Cultural** | Encuestas NPS | 1,500 USDC | Post-evento |
-| **Comprensión ENS** | Evaluaciones | 1,500 USDC | Post-evento |
-| **Identidad Latino Fortalecida** | Entrevistas | 2,250 USDC | Final del proyecto |
-| **Impacto Comunitario** | Grupos focales | 1,500 USDC | Mensual |
+**Total COMPONENTS Level: 4,500 USDC (30%)**
 
 ---
 
-## Gestión de Riesgos por Marco Lógico
+### Level 4: ACTIVITIES (Specific Tasks)
+**Detailed breakdown of all project activities**
 
-### Riesgos de Nivel FIN
-| Riesgo | Probabilidad | Impacto | Mitigación | Fondos de Contingencia |
-|--------|--------------|---------|------------|----------------------|
-| **Baja Adopción Cultural** | Media | Alto | Marketing cultural intensivo | 500 USDC |
-| **Resistencia Tecnológica** | Baja | Medio | Soporte técnico bilingüe | 300 USDC |
+#### Preparation Activities (Month 1)
+| Activity | Responsible | Duration | Cost | Success Indicator |
+|----------|-------------|----------|-------|-------------------|
+| **Personnel Hiring** | Project Manager | 2 weeks | 500 USDC | 100% of team hired |
+| **Strategic Alliances** | Cultural Coordinator | 3 weeks | 300 USDC | 5+ alliances confirmed |
+| **Material Development** | ENS Specialist | 4 weeks | 400 USDC | Materials ready for printing |
+| **Venue Reservation** | Logistics Coordinator | 2 weeks | 200 USDC | 20 venues confirmed |
 
-### Riesgos de Nivel PROPÓSITO
-| Riesgo | Probabilidad | Impacto | Mitigación | Fondos de Contingencia |
-|--------|--------------|---------|------------|----------------------|
-| **Baja Asistencia** | Media | Alto | Alianzas estratégicas | 400 USDC |
-| **Problemas Técnicos** | Baja | Medio | Infraestructura redundante | 200 USDC |
+#### Execution Activities (Months 2-5)
+| Activity | Responsible | Frequency | Cost | Success Indicator |
+|----------|-------------|-----------|-------|-------------------|
+| **Dance Workshops** | Lead Instructor | 4 events/month | 2,000 USDC/month | 50+ participants/event |
+| **ENS Onboarding** | Technical Specialist | 4 events/month | 800 USDC/month | 80%+ success in wallet creation |
+| **Cultural Support** | Cultural Coordinator | 4 events/month | 600 USDC/month | 90%+ cultural satisfaction |
+| **Documentation** | Project Manager | Continuous | 200 USDC/month | Complete monthly reports |
 
-### Riesgos de Nivel COMPONENTES
-| Riesgo | Probabilidad | Impacto | Mitigación | Fondos de Contingencia |
-|--------|--------------|---------|------------|----------------------|
-| **Disponibilidad de Personal** | Baja | Medio | Contratos anticipados | 300 USDC |
-| **Problemas de Venue** | Media | Medio | Venues de respaldo | 200 USDC |
-
-**Total Fondos de Contingencia: 1,900 USDC (12.7%)**
-
----
-
-## Cronograma de Desembolsos
-
-### Mes 1: Infraestructura (3,000 USDC)
-- Personal y contrataciones: 1,200 USDC
-- Venues y equipamiento: 1,500 USDC
-- Materiales y desarrollo: 300 USDC
-
-### Mes 2: Primeros Eventos (3,000 USDC)
-- Eventos 1-4: 2,000 USDC
-- Marketing inicial: 500 USDC
-- Soporte técnico: 500 USDC
-
-### Mes 3: Escalamiento (3,000 USDC)
-- Eventos 5-8: 2,000 USDC
-- Expansión de marketing: 500 USDC
-- Optimización de procesos: 500 USDC
-
-### Mes 4: Consolidación (3,000 USDC)
-- Eventos 9-12: 2,000 USDC
-- Marketing avanzado: 500 USDC
-- Desarrollo comunitario: 500 USDC
-
-### Mes 5: Finalización (3,000 USDC)
-- Eventos 13-20: 2,000 USDC
-- Evaluación y reportes: 500 USDC
-- Plan de sostenibilidad: 500 USDC
+#### Evaluation Activities (Month 5)
+| Activity | Responsible | Duration | Cost | Success Indicator |
+|----------|-------------|----------|-------|-------------------|
+| **Impact Evaluation** | Complete Team | 2 weeks | 500 USDC | Complete final report |
+| **Metrics Analysis** | ENS Specialist | 1 week | 200 USDC | Metrics dashboard |
+| **Sustainability Plan** | Project Manager | 1 week | 300 USDC | Continuity plan |
 
 ---
 
-## Matriz de Responsabilidades
+## Logical Framework Funding Structure
 
-### Responsables por Nivel
-| Nivel | Responsable Principal | Responsable Técnico | Responsable Financiero |
-|-------|----------------------|-------------------|----------------------|
-| **FIN** | Project Manager | Especialista ENS | Coordinador Financiero |
-| **PROPÓSITO** | Coordinador Cultural | Especialista Técnico | Project Manager |
-| **COMPONENTES** | Coordinador Logístico | Especialista ENS | Coordinador Financiero |
-| **ACTIVIDADES** | Equipo Operativo | Soporte Técnico | Project Manager |
+### Progressive Funding by Levels
+
+#### GOAL Level (40% - 6,000 USDC)
+- **Unlock:** Upon completing 90% of cultural preservation goals
+- **Key Indicators:** 
+  - 900+ participants with strengthened Latino identity
+  - 900+ LAT.ETH subdomains created
+  - 4+ active Latino communities
+
+#### PURPOSE Level (30% - 4,500 USDC)
+- **Unlock:** Upon completing 80% of events and onboarding
+- **Key Indicators:**
+  - 16+ events completed
+  - 800+ wallets created successfully
+  - 80%+ ENS understanding
+
+#### COMPONENTS Level (30% - 4,500 USDC)
+- **Unlock:** Upon completing infrastructure and personnel
+- **Key Indicators:**
+  - 100% of team hired
+  - 100% of venues confirmed
+  - 100% of materials developed
 
 ---
 
-## Conclusiones del Marco Lógico
+## Indicators and Funds Matrix
 
-### Ventajas de esta Estructura
-1. **Claridad en Objetivos:** Cada nivel tiene indicadores específicos y medibles
-2. **Gestión de Riesgos:** Fondos de contingencia distribuidos por nivel de riesgo
-3. **Responsabilidad:** Matriz clara de responsabilidades por nivel
-4. **Flexibilidad:** Estructura adaptable a cambios en el proyecto
-5. **Transparencia:** Indicadores claros para evaluación continua
+### Quantitative Indicators
+| Indicator | Baseline | Target | Linked Funds | Measurement Frequency |
+|-----------|----------|--------|--------------|----------------------|
+| **Total Participants** | 0 | 1,000 | 3,000 USDC | Monthly |
+| **LAT.ETH Subdomains** | 0 | 1,000 | 2,250 USDC | Per event |
+| **Events Completed** | 0 | 20 | 6,000 USDC | Monthly |
+| **Wallets Created** | 0 | 850 | 1,500 USDC | Per event |
+| **POAPs Distributed** | 0 | 1,000 | 750 USDC | Per event |
 
-### Impacto en la Gestión de Fondos
-- **Mejor Control:** Seguimiento detallado de cada componente
-- **Mayor Eficiencia:** Fondos asignados según impacto esperado
-- **Reducción de Riesgos:** Contingencias específicas por nivel
-- **Mejor Rendición de Cuentas:** Indicadores claros para reportes
+### Qualitative Indicators
+| Indicator | Measurement Method | Linked Funds | Frequency |
+|-----------|-------------------|--------------|-----------|
+| **Cultural Satisfaction** | NPS Surveys | 1,500 USDC | Post-event |
+| **ENS Understanding** | Assessments | 1,500 USDC | Post-event |
+| **Strengthened Latino Identity** | Interviews | 2,250 USDC | End of project |
+| **Community Impact** | Focus Groups | 1,500 USDC | Monthly |
 
-Esta estructura basada en el marco lógico proporciona una base sólida para la gestión eficiente de los fondos del proyecto LAT.ETH Cultural Defense Initiative, asegurando que cada dólar invertido contribuya directamente a la preservación de la identidad latina a través de la tecnología blockchain.
+---
+
+## Risk Management by Logical Framework
+
+### GOAL Level Risks
+| Risk | Probability | Impact | Mitigation | Contingency Funds |
+|------|-------------|--------|------------|-------------------|
+| **Low Cultural Adoption** | Medium | High | Intensive cultural marketing | 500 USDC |
+| **Technology Resistance** | Low | Medium | Bilingual technical support | 300 USDC |
+
+### PURPOSE Level Risks
+| Risk | Probability | Impact | Mitigation | Contingency Funds |
+|------|-------------|--------|------------|-------------------|
+| **Low Attendance** | Medium | High | Strategic alliances | 400 USDC |
+| **Technical Problems** | Low | Medium | Redundant infrastructure | 200 USDC |
+
+### COMPONENTS Level Risks
+| Risk | Probability | Impact | Mitigation | Contingency Funds |
+|------|-------------|--------|------------|-------------------|
+| **Personnel Availability** | Low | Medium | Advance contracts | 300 USDC |
+| **Venue Problems** | Medium | Medium | Backup venues | 200 USDC |
+
+**Total Contingency Funds: 1,900 USDC (12.7%)**
+
+---
+
+## Disbursement Schedule
+
+### Month 1: Infrastructure (3,000 USDC)
+- Personnel and hiring: 1,200 USDC
+- Venues and equipment: 1,500 USDC
+- Materials and development: 300 USDC
+
+### Month 2: First Events (3,000 USDC)
+- Events 1-4: 2,000 USDC
+- Initial marketing: 500 USDC
+- Technical support: 500 USDC
+
+### Month 3: Scaling (3,000 USDC)
+- Events 5-8: 2,000 USDC
+- Marketing expansion: 500 USDC
+- Process optimization: 500 USDC
+
+### Month 4: Consolidation (3,000 USDC)
+- Events 9-12: 2,000 USDC
+- Advanced marketing: 500 USDC
+- Community development: 500 USDC
+
+### Month 5: Finalization (3,000 USDC)
+- Events 13-20: 2,000 USDC
+- Evaluation and reports: 500 USDC
+- Sustainability plan: 500 USDC
+
+---
+
+## Responsibility Matrix
+
+### Responsibilities by Level
+| Level | Main Responsible | Technical Responsible | Financial Responsible |
+|-------|------------------|----------------------|----------------------|
+| **GOAL** | Project Manager | ENS Specialist | Financial Coordinator |
+| **PURPOSE** | Cultural Coordinator | Technical Specialist | Project Manager |
+| **COMPONENTS** | Logistics Coordinator | ENS Specialist | Financial Coordinator |
+| **ACTIVITIES** | Operational Team | Technical Support | Project Manager |
+
+---
+
+## Logical Framework Conclusions
+
+### Advantages of this Structure
+1. **Objective Clarity:** Each level has specific and measurable indicators
+2. **Risk Management:** Contingency funds distributed by risk level
+3. **Accountability:** Clear responsibility matrix by level
+4. **Flexibility:** Structure adaptable to project changes
+5. **Transparency:** Clear indicators for continuous evaluation
+
+### Implementation Benefits
+- **Professional Project Management:** Structured approach to fund allocation
+- **Cultural Mission Preservation:** Every USDC contributes to Latino identity defense
+- **Technical Excellence:** ENS integration with cultural activities
+- **Scalable Model:** Framework applicable to other regions and communities
+- **Grant Readiness:** Professional structure suitable for international evaluation
+
+**Total Project Budget: 15,000 USDC - Complete Logical Framework Implementation**
