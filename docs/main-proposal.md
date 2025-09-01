@@ -5,7 +5,17 @@
 **Grant Program:** ENS DAO Small Grants  
 **Requested Amount:** 15,000 USDC  
 **Project Duration:** 5 months  
-**Submission Date:** [To be filled]  
+**Framework:** Logical Framework Matrix  
+**Submission Date:** [To be filled]
+
+## Logical Framework Structure
+
+This project is structured following the **Logical Framework Matrix** methodology, which organizes the entire project into four hierarchical levels:
+
+1. **GOAL (Development Objective):** Defend and preserve Latino identity and Spanish language through blockchain technology
+2. **PURPOSE (Project Objective):** Create a sustainable network of Latino digital identities connected through ENS
+3. **COMPONENTS (Products/Results):** Cultural infrastructure, specialized personnel, ENS technology and marketing
+4. **ACTIVITIES (Specific Tasks):** Detailed breakdown of all project activities  
 
 ---
 
@@ -48,15 +58,35 @@ Serbia represents an ideal location for this **Spanish language and Latino ident
 
 ---
 
-## 2. Project Objectives & Cultural Mission
+## 2. Project Objectives & Cultural Mission - Logical Framework
 
-### Primary Cultural Objectives
-1. **Spanish Language Defense**: Promote Spanish language through blockchain technology
-2. **Latino Identity Preservation**: Strengthen Latino cultural identity in the digital world
-3. **Cultural ENS Onboarding**: Introduce 1000 Spanish speakers to ENS through their culture
-4. **Identity Subdomain Creation**: Facilitate 1000+ cultural identity claims under LAT.ETH
-5. **Educational Impact**: Provide practical blockchain education in Spanish cultural context
-6. **Community Building**: Create sustainable Latino ENS communities in Serbia
+### GOAL LEVEL: Development Objective
+**Defend and preserve Latino identity and Spanish language through blockchain technology**
+
+| Component | Indicator | Target | Source of Verification |
+|-----------|-----------|--------|----------------------|
+| **Cultural Preservation** | % participants who strengthen Latino identity | 90% | Pre/post event surveys |
+| **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | Blockchain registry + POAPs |
+| **Community Impact** | Active Latino communities in web3 | 5 communities | Discord metrics + events |
+
+### PURPOSE LEVEL: Project Objective
+**Create a sustainable network of Latino digital identities connected through ENS**
+
+| Component | Indicator | Target | Source of Verification |
+|-----------|-----------|--------|----------------------|
+| **Cultural Events** | Latin dance workshops with ENS | 20 events | Event registry + attendance |
+| **Technical Onboarding** | Success rate in wallet creation | 85% | Technical metrics + support |
+| **Blockchain Education** | Basic ENS understanding | 80% | Knowledge assessments |
+
+### COMPONENTS LEVEL: Products/Results
+**Cultural infrastructure, specialized personnel, ENS technology and marketing**
+
+| Component | Indicator | Target | Source of Verification |
+|-----------|-----------|--------|----------------------|
+| **Cultural Infrastructure** | Operational venues and equipment | 100% | Contracts and verifications |
+| **Specialized Personnel** | Hired and trained team | 100% | Contracts and certifications |
+| **ENS Technology** | Operational blockchain systems | 100% | Technical tests |
+| **Cultural Marketing** | Produced campaigns and materials | 100% | Materials and metrics |
 
 ### Why LAT.ETH is Cultural, Not Just Technical
 **LAT.ETH represents:**
@@ -84,7 +114,32 @@ This project directly supports ENS DAO's Public Goods Working Group objectives w
 
 ---
 
-## 3. Project Activities & Cultural Implementation
+## 3. Project Activities & Cultural Implementation - Logical Framework
+
+### ACTIVITIES LEVEL: Specific Project Tasks
+
+#### Preparation Activities (Month 1)
+| Activity | Responsible | Duration | Success Indicator |
+|----------|-------------|----------|-------------------|
+| **Personnel Hiring** | Project Manager | 2 weeks | 100% of team hired |
+| **Strategic Alliances** | Cultural Coordinator | 3 weeks | 5+ alliances confirmed |
+| **Material Development** | ENS Specialist | 4 weeks | Materials ready for printing |
+| **Venue Reservation** | Logistics Coordinator | 2 weeks | 20 venues confirmed |
+
+#### Execution Activities (Months 2-5)
+| Activity | Responsible | Frequency | Success Indicator |
+|----------|-------------|-----------|-------------------|
+| **Dance Workshops** | Lead Instructor | 4 events/month | 50+ participants/event |
+| **ENS Onboarding** | Technical Specialist | 4 events/month | 80%+ success in wallet creation |
+| **Cultural Support** | Cultural Coordinator | 4 events/month | 90%+ cultural satisfaction |
+| **Documentation** | Project Manager | Continuous | Complete monthly reports |
+
+#### Evaluation Activities (Month 5)
+| Activity | Responsible | Duration | Success Indicator |
+|----------|-------------|----------|-------------------|
+| **Impact Evaluation** | Complete Team | 2 weeks | Complete final report |
+| **Metrics Analysis** | ENS Specialist | 1 week | Metrics dashboard |
+| **Sustainability Plan** | Project Manager | 1 week | Continuity plan |
 
 ### Event Structure: Cultural Gateway to Technology
 Each workshop will follow this 3-hour format designed to **defend Spanish language and Latino identity**:
@@ -107,15 +162,26 @@ Each workshop will follow this 3-hour format designed to **defend Spanish langua
 - **POAP recognition** for cultural participation
 - **Integration** with web3 applications for cultural expression
 
-### Timeline & Cultural Milestones
+### Timeline & Cultural Milestones - Logical Framework
 
-| Month | Events | Target Participants | Cultural Milestone | Funding Unlock |
-|-------|--------|-------------------|-------------------|----------------|
-| **Month 1** | 4 events | 200 participants | **Spanish Language Defense Foundation** | 3,000 USDC |
-| **Month 2** | 4 events | 400 participants | **400 Latino Identities Preserved** | 3,000 USDC |
-| **Month 3** | 4 events | 600 participants | **600 Latino Identities Preserved** | 3,000 USDC |
-| **Month 4** | 4 events | 800 participants | **800 Latino Identities Preserved** | 3,000 USDC |
-| **Month 5** | 4 events | 1000 participants | **1000 Latino Identities Preserved** | 3,000 USDC |
+#### Schedule by Logical Framework Levels
+
+| Month | GOAL Level | PURPOSE Level | COMPONENTS Level | Unlock |
+|-------|------------|---------------|------------------|--------|
+| **Month 1** | Cultural infrastructure | Event preparation | Personnel and venues | 3,000 USDC |
+| **Month 2** | 200 Latino identities | 4 events completed | Operational systems | 3,000 USDC |
+| **Month 3** | 400 Latino identities | 8 events completed | Active marketing | 3,000 USDC |
+| **Month 4** | 600 Latino identities | 12 events completed | Process optimization | 3,000 USDC |
+| **Month 5** | 1000 Latino identities | 20 events completed | Final evaluation | 3,000 USDC |
+
+#### Indicators by Level
+
+| Level | Main Indicator | Total Target | Verification |
+|-------|----------------|--------------|--------------|
+| **GOAL** | Preserved Latino identities | 1,000 | Surveys + POAPs |
+| **PURPOSE** | Completed cultural events | 20 | Event registry |
+| **COMPONENTS** | Operational infrastructure | 100% | Contracts + verifications |
+| **ACTIVITIES** | Completed tasks | 100% | Progress reports |
 
 **Total: 20 events, 1000 Latino identities preserved, 15,000 USDC progressive unlock**
 

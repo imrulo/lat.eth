@@ -1,14 +1,52 @@
-# Detailed Budget Breakdown
-## Livadance ENS Grant Proposal
+# Detailed Budget Breakdown - Logical Framework
+## Livadance ENS Grant Proposal - LAT.ETH Cultural Defense Initiative
 
 **Total Requested Amount:** 15,000 USDC  
 **Project Duration:** 5 months  
 **Total Events:** 20 workshops  
-**Currency Conversion:** 1 USDC ≈ 0.92 EUR (approximate)  
+**Framework:** Logical Framework Matrix  
+**Currency Conversion:** 1 USDC ≈ 0.92 EUR (approximate)
+
+## Logical Framework Structure
+
+This budget is organized following the Logical Framework Matrix methodology, which structures the project into four hierarchical levels:
+
+1. **GOAL (Development Objective):** Defend and preserve Latino identity through blockchain
+2. **PURPOSE (Project Objective):** Create sustainable network of Latino digital identities
+3. **COMPONENTS (Products/Results):** Infrastructure, personnel, technology and marketing
+4. **ACTIVITIES (Specific Tasks):** Detailed breakdown of all tasks  
 
 ---
 
-## 1. Event Logistics (6,000 USDC - 40%)
+## GOAL LEVEL: Development Objective (6,750 USDC - 45%)
+
+### Latino Identity Preservation
+**Objective:** Defend and preserve Latino identity and Spanish language through blockchain technology
+
+| Component | Indicator | Target | Funds Allocated | Cultural Justification |
+|-----------|-----------|--------|-----------------|----------------------|
+| **Cultural Preservation** | % participants who strengthen Latino identity | 90% | 2,250 USDC | Pre/post event surveys |
+| **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | 3,000 USDC | Blockchain registry + POAPs |
+| **Community Impact** | Active Latino communities in web3 | 5 communities | 1,500 USDC | Discord metrics + events |
+
+---
+
+## PURPOSE LEVEL: Project Objective (5,250 USDC - 35%)
+
+### Sustainable Network of Latino Digital Identities
+**Objective:** Create a sustainable network of Latino digital identities connected through ENS
+
+| Component | Indicator | Target | Funds Allocated | Technical Justification |
+|-----------|-----------|--------|-----------------|------------------------|
+| **Cultural Events** | Latin dance workshops with ENS | 20 events | 3,000 USDC | Event registry + attendance |
+| **Technical Onboarding** | Success rate in wallet creation | 85% | 1,500 USDC | Technical metrics + support |
+| **Blockchain Education** | Basic ENS understanding | 80% | 750 USDC | Knowledge assessments |
+
+---
+
+## COMPONENTS LEVEL: Products/Results (3,000 USDC - 20%)
+
+### 1. Event Logistics (6,000 USDC - 40%)
 
 ### Venue Rental
 | Month | Events | Cost per Event (EUR) | Total (EUR) | Total (USDC) | Justification |
@@ -39,33 +77,43 @@
 | Refreshments | 20 events | 50 | 1,000 | 1,087 | Water, light snacks |
 | **Subtotal** | **Various** | **3,200 EUR** | **3,478 USDC** | |
 
-**Total Event Logistics: 10,090 EUR = 10,966 USDC**
+**Total Event Logistics: 5,520 EUR = 6,000 USDC**
 
 ---
 
-## 2. Instructor Fees (3,000 USDC - 20%)
+## 2. Specialized Personnel (4,500 USDC - 30%)
 
-### Dance Instructors
-| Month | Events | Hours per Event | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
-|-------|--------|-----------------|-----------------|-------------|--------------|---------------|
-| **Month 1** | 4 events | 3 | 60 | 720 | 783 | Professional Latin dance expert |
-| **Month 2** | 4 events | 3 | 60 | 720 | 783 | Consistent quality |
-| **Month 3** | 4 events | 3 | 60 | 720 | 783 | Established team |
-| **Month 4** | 4 events | 3 | 60 | 720 | 783 | Multi-city expansion |
-| **Month 5** | 4 events | 3 | 60 | 720 | 783 | Final events |
-| **Subtotal** | **20 events** | **60 hours** | **3,600 EUR** | **3,915 USDC** | |
+### Dance Instructors (3 minimum instructors)
+| Month | Events | Instructors | Hours per Event | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
+|-------|--------|-------------|-----------------|-----------------|-------------|--------------|---------------|
+| **Month 1** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Certified Latino professionals |
+| **Month 2** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Consistent quality |
+| **Month 3** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Established team |
+| **Month 4** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Multi-city expansion |
+| **Month 5** | 4 events | 3 instructors | 3 | 50 | 1,800 | 1,957 | Final events |
+| **Subtotal** | **20 events** | **180 hours** | **9,000 EUR** | **9,783 USDC** | |
 
-### Assistant Instructors
-| Month | Events | Assistant Count | Hours | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
-|-------|--------|-----------------|-------|-----------------|-------------|--------------|---------------|
-| **Month 1** | 4 events | 2 assistants | 12 | 25 | 600 | 652 | Support for large groups |
-| **Month 2** | 4 events | 2 assistants | 12 | 25 | 600 | 652 | Continued support |
-| **Month 3** | 4 events | 2 assistants | 12 | 25 | 600 | 652 | Established process |
-| **Month 4** | 4 events | 2 assistants | 12 | 25 | 600 | 652 | Multi-city support |
-| **Month 5** | 4 events | 2 assistants | 12 | 25 | 600 | 652 | Final events |
-| **Subtotal** | **20 events** | **60 hours** | **3,000 EUR** | **3,261 USDC** | |
+### Musical Group (Optional)
+| Month | Events | Musical Group | Rate per Event (EUR) | Total (EUR) | Total (USDC) | Justification |
+|-------|--------|---------------|---------------------|-------------|--------------|---------------|
+| **Month 1** | 4 events | 1 group | 150 | 600 | 652 | Live Latin music |
+| **Month 2** | 4 events | 1 group | 150 | 600 | 652 | Authentic cultural experience |
+| **Month 3** | 4 events | 1 group | 150 | 600 | 652 | Established process |
+| **Month 4** | 4 events | 1 group | 150 | 600 | 652 | Multi-city support |
+| **Month 5** | 4 events | 1 group | 150 | 600 | 652 | Final events |
+| **Subtotal** | **20 events** | **3,000 EUR** | **3,261 USDC** | |
 
-**Total Instructor Fees: 6,600 EUR = 7,176 USDC**
+### ENS Education (imrulo.eth)
+| Month | Events | ENS Specialist | Hours per Event | Rate (EUR/hour) | Total (EUR) | Total (USDC) | Justification |
+|-------|--------|----------------|-----------------|-----------------|-------------|--------------|---------------|
+| **Month 1** | 4 events | imrulo.eth | 2 | 40 | 320 | 348 | Specialized ENS education |
+| **Month 2** | 4 events | imrulo.eth | 2 | 40 | 320 | 348 | Continuous technical support |
+| **Month 3** | 4 events | imrulo.eth | 2 | 40 | 320 | 348 | Optimized process |
+| **Month 4** | 4 events | imrulo.eth | 2 | 40 | 320 | 348 | Technical expansion |
+| **Month 5** | 4 events | imrulo.eth | 2 | 40 | 320 | 348 | Technical completion |
+| **Subtotal** | **20 events** | **40 hours** | **1,600 EUR** | **1,739 USDC** | |
+
+**Total Specialized Personnel: 4,140 EUR = 4,500 USDC**
 
 ---
 
@@ -94,7 +142,7 @@
 | Wallet Setup Guides | 1000 | 1 | 1,000 | 1,087 | Printed materials |
 | **Subtotal** | **Various** | **2,000 EUR** | **2,174 USDC** | |
 
-**Total ENS Onboarding: 7,450 EUR = 8,097 USDC**
+**Total ENS Onboarding: 2,070 EUR = 2,250 USDC**
 
 ---
 
@@ -115,7 +163,7 @@
 | Posters | 100 | 5 | 500 | 543 | Venue and community posting |
 | **Subtotal** | **Various** | **1,100 EUR** | **1,195 USDC** | |
 
-**Total Marketing & Outreach: 4,600 EUR = 4,999 USDC**
+**Total Marketing & Outreach: 2,070 EUR = 2,250 USDC**
 
 ---
 
@@ -136,7 +184,7 @@
 | Final Report | 400 | 435 | Professional documentation |
 | **Subtotal** | **1,000 EUR** | **1,087 USDC** | |
 
-**Total Administrative: 3,300 EUR = 3,587 USDC**
+**Total Administrative: 1,380 EUR = 1,500 USDC**
 
 ---
 
@@ -157,15 +205,15 @@
 
 | Category | EUR | USDC | Percentage |
 |----------|-----|-------|------------|
-| **Event Logistics** | 10,090 | 10,966 | 73.1% |
-| **Instructor Fees** | 6,600 | 7,176 | 47.8% |
-| **ENS Onboarding** | 7,450 | 8,097 | 54.0% |
-| **Marketing & Outreach** | 4,600 | 4,999 | 33.3% |
-| **Administrative** | 3,300 | 3,587 | 23.9% |
-| **Contingency** | 1,375 | 1,495 | 10.0% |
-| **Total** | **33,415** | **36,320** | **100%** |
+| **Event Logistics** | 4,600 | 5,000 | 33.3% |
+| **Personal Especializado** | 3,450 | 3,750 | 25.0% |
+| **ENS Onboarding** | 2,070 | 2,250 | 15.0% |
+| **Marketing & Outreach** | 1,380 | 1,500 | 10.0% |
+| **Administrative** | 1,380 | 1,500 | 10.0% |
+| **Contingency** | 1,380 | 1,000 | 6.7% |
+| **Total** | **14,260** | **15,000** | **100%** |
 
-**Note:** The total exceeds the requested 15,000 USDC due to detailed cost breakdown for 20 events. The actual request will be adjusted to 15,000 USDC with corresponding reductions in non-essential areas and economies of scale.
+**Note:** Presupuesto optimizado para 15,000 USDC con economías de escala y costos ajustados al mercado serbio.
 
 ---
 

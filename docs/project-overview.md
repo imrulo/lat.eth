@@ -1,19 +1,29 @@
-# Project Overview
-## Livadance ENS Grant Proposal - Latin Dance Meets Blockchain
+# Project Overview - Logical Framework
+## Livadance ENS Grant Proposal - LAT.ETH Cultural Defense Initiative
 
-This document provides a comprehensive overview of the Livadance ENS grant proposal, summarizing all key components and providing quick access to detailed information.
+This document provides a comprehensive overview of the Livadance ENS grant proposal structured using the **Logical Framework Matrix**, summarizing all key components and providing quick access to detailed information.
 
 ---
 
 ## Executive Summary
 
-**Project Name**: Latin Dance ENS Onboarding in Serbia  
+**Project Name**: LAT.ETH Cultural Defense Initiative  
 **Organization**: Livadance DOO, Serbia  
 **Grant Request**: 15,000 USDC  
 **Duration**: 5 months (20 weeks)  
-**Target Impact**: 200-300 new ENS users, 150+ subdomain claims  
+**Framework**: Logical Framework Matrix  
+**Target Impact**: 1,000 new ENS users, 1,000+ subdomain claims  
 
-**Innovation**: First-ever combination of Latin dance workshops with ENS ecosystem onboarding, creating a unique cultural pathway to blockchain adoption in Serbia.
+**Innovation**: First-ever combination of Latin dance workshops with ENS ecosystem onboarding, creating a unique cultural pathway to blockchain adoption in Serbia, structured through the Logical Framework Matrix for maximum impact and accountability.
+
+## Logical Framework Structure
+
+This project is organized following the **Logical Framework Matrix** methodology in four hierarchical levels:
+
+1. **GOAL (Development Objective):** Defend and preserve Latino identity through blockchain
+2. **PURPOSE (Project Objective):** Create sustainable network of Latino digital identities
+3. **COMPONENTS (Products/Results):** Infrastructure, personnel, technology and marketing
+4. **ACTIVITIES (Specific Tasks):** Detailed breakdown of all activities
 
 ---
 
@@ -34,19 +44,31 @@ Livadance DOO will organize 4-6 interactive Latin dance workshops in Belgrade an
 
 ---
 
-## Key Objectives
+## Key Objectives - Logical Framework
 
-### Primary Goals
-1. **Cultural Exchange**: Promote Latin American culture in Serbia
-2. **ENS Adoption**: Onboard 200-300 new users to the ENS ecosystem
-3. **Subdomain Creation**: Facilitate 150+ personalized ENS subdomain claims
-4. **Educational Impact**: Provide practical blockchain and web3 education
-5. **Community Building**: Create sustainable ENS user communities in Serbia
+### GOAL LEVEL: Development Objective
+**Defend and preserve Latino identity and Spanish language through blockchain technology**
 
-### Success Metrics
-- **Quantitative**: 200-300 participants, 150+ subdomains, 80% retention
-- **Qualitative**: Participant satisfaction (NPS >70), cultural exchange success
-- **Long-term**: Ongoing ENS usage, community engagement, scaling potential
+| Component | Indicator | Target | Verification |
+|-----------|-----------|--------|--------------|
+| **Cultural Preservation** | % participants who strengthen Latino identity | 90% | Pre/post surveys |
+| **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | Blockchain registry |
+| **Community Impact** | Active Latino communities in web3 | 5 communities | Discord metrics |
+
+### PURPOSE LEVEL: Project Objective
+**Create a sustainable network of Latino digital identities connected through ENS**
+
+| Component | Indicator | Target | Verification |
+|-----------|-----------|--------|--------------|
+| **Cultural Events** | Latin dance workshops with ENS | 20 events | Event registry |
+| **Technical Onboarding** | Success rate in wallet creation | 85% | Technical metrics |
+| **Blockchain Education** | Basic ENS understanding | 80% | Assessments |
+
+### Success Metrics by Level
+- **GOAL Level**: 1,000 preserved Latino identities, 5 active communities
+- **PURPOSE Level**: 20 completed events, 85% technical success
+- **COMPONENTS Level**: 100% operational infrastructure
+- **ACTIVITIES Level**: 100% tasks completed according to schedule
 
 ---
 
