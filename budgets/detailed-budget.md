@@ -18,33 +18,43 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ---
 
-## GOAL LEVEL: Development Objective (6,750 USDC - 45%)
+## GOAL LEVEL: Development Objective (6,000 USDC - 40%)
 
 ### Latino Identity Preservation
 **Objective:** Defend and preserve Latino identity and Spanish language through blockchain technology
 
 | Component | Indicator | Target | Funds Allocated | Cultural Justification |
 |-----------|-----------|--------|-----------------|----------------------|
-| **Cultural Preservation** | % participants who strengthen Latino identity | 90% | 2,250 USDC | Pre/post event surveys |
-| **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | 3,000 USDC | Blockchain registry + POAPs |
-| **Community Impact** | Active Latino communities in web3 | 5 communities | 1,500 USDC | Discord metrics + events |
+| **Cultural Events** | Latin dance workshops with ENS | 20 events | 6,000 USDC | Event registry + attendance |
+| **Cultural Preservation** | % participants who strengthen Latino identity | 90% | Included in events | Pre/post event surveys |
+| **Community Impact** | Active Latino communities in web3 | 5 communities | Included in events | Discord metrics + events |
 
 ---
 
-## PURPOSE LEVEL: Project Objective (5,250 USDC - 35%)
+## PURPOSE LEVEL: Project Objective (4,500 USDC - 30%)
 
 ### Sustainable Network of Latino Digital Identities
 **Objective:** Create a sustainable network of Latino digital identities connected through ENS
 
 | Component | Indicator | Target | Funds Allocated | Technical Justification |
 |-----------|-----------|--------|-----------------|------------------------|
-| **Cultural Events** | Latin dance workshops with ENS | 20 events | 3,000 USDC | Event registry + attendance |
-| **Technical Onboarding** | Success rate in wallet creation | 85% | 1,500 USDC | Technical metrics + support |
-| **Blockchain Education** | Basic ENS understanding | 80% | 750 USDC | Knowledge assessments |
+| **Specialized Personnel** | Dance instructors and ENS educator | 3 instructors + imrulo.eth | 4,500 USDC | Professional team for quality |
+| **Technical Onboarding** | Success rate in wallet creation | 85% | Included in personnel | Technical metrics + support |
+| **Blockchain Education** | Basic ENS understanding | 80% | Included in personnel | Knowledge assessments |
 
 ---
 
-## COMPONENTS LEVEL: Products/Results (3,000 USDC - 20%)
+## COMPONENTS LEVEL: Products/Results (4,500 USDC - 30%)
+
+### Mobile Equipment & Transportation (2,250 USDC - 15%)
+### Marketing & Outreach (1,500 USDC - 10%) 
+### Administrative & Project Management (1,500 USDC - 10%)
+### ENS Technology & Gas Fees (750 USDC - 5%)
+### Contingency & Emergency Fund (1,500 USDC - 10%)
+
+---
+
+## DETAILED BUDGET BREAKDOWN
 
 ### 1. Event Logistics (6,000 USDC - 40%)
 
