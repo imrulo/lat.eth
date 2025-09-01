@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livadance ENS Grant - Budget Breakdown</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        .budget-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 30px;
+        }
+        .budget-item {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            border-left: 5px solid #ff6b6b;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .budget-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+        }
+        .budget-item h3 {
+            margin: 0 0 15px 0;
+            color: #2c3e50;
+            font-size: 1.3em;
+        }
+        .budget-amount {
+            font-size: 2em;
+            font-weight: bold;
+            color: #e74c3c;
+            margin: 10px 0;
+        }
+        .budget-percentage {
+            background: #3498db;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            display: inline-block;
+        }
+        .budget-description {
+            color: #7f8c8d;
+            line-height: 1.6;
+            margin-top: 15px;
+        }
+        .total-section {
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .total-amount {
+            font-size: 3em;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .progressive-funding {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 15px;
+            margin: 20px;
+            padding: 25px;
+        }
+        .progressive-funding h3 {
+            color: #856404;
+            margin-top: 0;
+        }
+        .milestone {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin: 10px 0;
+            border-left: 4px solid #fdcb6e;
+        }
+        .milestone h4 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+        }
+        .milestone p {
+            margin: 5px 0;
+            color: #7f8c8d;
+        }
+        .cultural-note {
+            background: linear-gradient(135deg, #fd79a8, #e84393);
+            color: white;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 15px;
+            text-align: center;
+        }
+        .cultural-note h3 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>💰 Presupuesto Detallado</h1>
+            <p>Livadance ENS Grant - Defendiendo la Identidad Latino</p>
+        </div>
+        
+        <div class="budget-grid">
+            <div class="budget-item">
+                <h3>🎭 Eventos & Logística</h3>
+                <div class="budget-amount">6,000 USDC</div>
+                <span class="budget-percentage">40%</span>
+                <div class="budget-description">
+                    Venues, equipamiento, materiales para 20 eventos culturales de baile latino
+                </div>
+            </div>
+            
+            <div class="budget-item">
+                <h3>👥 Personal & Instructores</h3>
+                <div class="budget-amount">3,750 USDC</div>
+                <span class="budget-percentage">25%</span>
+                <div class="budget-description">
+                    2 bailarines base + flexibilidad para músicos y eventos especiales
+                </div>
+            </div>
+            
+            <div class="budget-item">
+                <h3>🌐 ENS & Tecnología</h3>
+                <div class="budget-amount">3,000 USDC</div>
+                <span class="budget-percentage">20%</span>
+                <div class="budget-description">
+                    Dominio LAT.ETH + gas fees + POAPs para reconocimiento cultural
+                </div>
+            </div>
+            
+            <div class="budget-item">
+                <h3>📢 Marketing & Outreach</h3>
+                <div class="budget-amount">1,500 USDC</div>
+                <span class="budget-percentage">10%</span>
+                <div class="budget-description">
+                    Promoción cultural y comunitaria para preservar la identidad latina
+                </div>
+            </div>
+            
+            <div class="budget-item">
+                <h3>⚠️ Contingencia</h3>
+                <div class="budget-amount">750 USDC</div>
+                <span class="budget-percentage">5%</span>
+                <div class="budget-description">
+                    Emergencias y oportunidades para expandir el impacto cultural
+                </div>
+            </div>
+        </div>
+        
+        <div class="total-section">
+            <h2>Presupuesto Total</h2>
+            <div class="total-amount">15,000 USDC</div>
+            <p>Distribuido en 5 meses (3,000 USDC por mes)</p>
+        </div>
+        
+        <div class="progressive-funding">
+            <h3>🎯 Financiamiento Progresivo por Metas Culturales</h3>
+            <div class="milestone">
+                <h4>Meta 1: Fundación de la Defensa del Español (Mes 1-2)</h4>
+                <p><strong>Desbloqueo:</strong> 6,000 USDC (40%)</p>
+                <p><strong>Objetivo:</strong> 8 eventos + 400 subdominios LAT.ETH</p>
+            </div>
+            <div class="milestone">
+                <h4>Meta 2: Preservación de Identidades Latinas (Mes 3-4)</h4>
+                <p><strong>Desbloqueo:</strong> 6,000 USDC (40%)</p>
+                <p><strong>Objetivo:</strong> 8 eventos + 400 subdominios LAT.ETH</p>
+            </div>
+            <div class="milestone">
+                <h4>Meta 3: Revolución de Identidad Cultural (Mes 5)</h4>
+                <p><strong>Desbloqueo:</strong> 3,000 USDC (20%)</p>
+                <p><strong>Objetivo:</strong> 4 eventos + 200 subdominios LAT.ETH</p>
+            </div>
+        </div>
+        
+        <div class="cultural-note">
+            <h3>🌍 ¿Por Qué Este Presupuesto Defiende la Cultura Latino?</h3>
+            <p>Este presupuesto no es solo para eventos de baile. Es una <strong>inversión en la preservación de la identidad latina</strong> a través de la tecnología blockchain. Cada USDC gastado fortalece la conexión entre la cultura latina y el futuro digital.</p>
+        </div>
+    </div>
+</body>
+</html>
