@@ -43,7 +43,7 @@ We take the security of our cultural defense initiative seriously. This document
 
 ## 📞 **Contact Information**
 
-- **Security Email**: [security@lat.eth] (placeholder)
+- **Security Email**: [imrulo.eth@proton.me] (placeholder)
 - **ENS DAO Contact**: imrulo.eth (Rulán Ferrales)
 - **Repository**: https://github.com/imrulo/lat.eth
 
