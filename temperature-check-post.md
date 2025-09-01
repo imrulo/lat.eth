@@ -1,4 +1,4 @@
-# Temperature Check: LAT.ETH Cultural Defense Initiative - 1000 Latino Identities Through Latin Dance in Serbia
+# Temperature Check: LAT.ETH Cultural Defense Initiative - 1000 Latino Identities Through Latin Dance in the Balkans
 
 ## 🌍 **Cultural Defense Mission: Evangelizing ENS to Latinos Across the Balkans Through Latin Dance**
 
