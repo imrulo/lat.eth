@@ -140,9 +140,9 @@ La **Matriz del Marco Lógico** no es solo una herramienta de gestión de fondos
 #### Estructura de Desembolsos
 | Nivel | Porcentaje | Desbloqueo | Indicadores Requeridos |
 |-------|------------|------------|----------------------|
-| **FIN** | 45% (6,750 USDC) | Al completar 90% metas culturales | 900+ identidades preservadas |
-| **PROPÓSITO** | 35% (5,250 USDC) | Al completar 80% eventos | 16+ eventos completados |
-| **COMPONENTES** | 20% (3,000 USDC) | Al completar infraestructura | 100% sistemas operativos |
+| **FIN** | 40% (6,000 USDC) | Al completar 90% metas culturales | 900+ identidades preservadas |
+| **PROPÓSITO** | 30% (4,500 USDC) | Al completar 80% eventos | 16+ eventos completados |
+| **COMPONENTES** | 30% (4,500 USDC) | Al completar infraestructura | 100% sistemas operativos |
 
 #### Gestión de Contingencias
 - **Riesgos de Nivel FIN:** 500 USDC para baja adopción cultural

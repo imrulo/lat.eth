@@ -12,9 +12,9 @@
 ### Transformación Estructural
 El proyecto ha sido actualizado de una estructura de presupuesto tradicional a una **Matriz del Marco Lógico** que organiza los fondos en cuatro niveles jerárquicos:
 
-1. **FIN (Objetivo de Desarrollo)** - 45% del presupuesto (6,750 USDC)
-2. **PROPÓSITO (Objetivo del Proyecto)** - 35% del presupuesto (5,250 USDC)  
-3. **COMPONENTES (Productos/Resultados)** - 20% del presupuesto (3,000 USDC)
+1. **FIN (Objetivo de Desarrollo)** - 40% del presupuesto (6,000 USDC)
+2. **PROPÓSITO (Objetivo del Proyecto)** - 30% del presupuesto (4,500 USDC)  
+3. **COMPONENTES (Productos/Resultados)** - 30% del presupuesto (4,500 USDC)
 4. **ACTIVIDADES (Tareas Específicas)** - Desglose detallado de implementación
 
 ---
@@ -50,7 +50,7 @@ El proyecto ha sido actualizado de una estructura de presupuesto tradicional a u
 
 ## Estructura del Marco Lógico Implementada
 
-### NIVEL FIN: Preservación Cultural (6,750 USDC - 45%)
+### NIVEL FIN: Preservación Cultural (6,000 USDC - 40%)
 
 **Objetivo:** Defender y preservar la identidad latina y el idioma español a través de la tecnología blockchain
 

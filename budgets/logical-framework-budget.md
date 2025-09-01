@@ -19,7 +19,7 @@
 | **Adopción ENS** | Nuevos usuarios ENS con subdominios LAT.ETH | 1,000 usuarios | Registro blockchain + POAPs | 3,000 USDC (20%) |
 | **Impacto Comunitario** | Comunidades latinas activas en web3 | 5 comunidades | Métricas de Discord + eventos | 1,500 USDC (10%) |
 
-**Total Nivel FIN: 6,750 USDC (45%)**
+**Total Nivel FIN: 6,000 USDC (40%)**
 
 ---
 
@@ -28,47 +28,51 @@
 
 | Componente | Indicador | Meta | Fuente de Verificación | Fondos Asignados |
 |------------|-----------|------|----------------------|------------------|
-| **Eventos Culturales** | Talleres de baile latino con integración ENS | 20 eventos | Registro de eventos + asistencia | 6,000 USDC (40%) |
-| **Onboarding Técnico** | Tasa de éxito en creación de wallets | 85% | Métricas técnicas + soporte | 2,250 USDC (15%) |
-| **Educación Blockchain** | Comprensión básica de ENS post-evento | 80% | Evaluaciones de conocimiento | 1,500 USDC (10%) |
+| **Personal Especializado** | Instructores de baile y educador ENS | 3 instructores + imrulo.eth | Contratos y certificaciones | 4,500 USDC (30%) |
+| **Onboarding Técnico** | Tasa de éxito en creación de wallets | 85% | Métricas técnicas + soporte | Incluido en personal |
+| **Educación Blockchain** | Comprensión básica de ENS post-evento | 80% | Evaluaciones de conocimiento | Incluido en personal |
 
-**Total Nivel PROPÓSITO: 9,750 USDC (65%)**
+**Total Nivel PROPÓSITO: 4,500 USDC (30%)**
 
 ---
 
 ### Nivel 3: COMPONENTES (Productos/Resultados)
 **Actividades específicas que generan los productos del proyecto**
 
-#### Componente 1: Infraestructura Cultural
+#### Componente 1: Event Logistics
 | Actividad | Indicador | Meta | Fondos Asignados |
 |-----------|-----------|------|------------------|
-| **Alquiler de Venues** | Eventos realizados en espacios culturales | 20 eventos | 3,000 USDC |
-| **Equipamiento** | Sistemas de sonido y proyección | 100% funcional | 1,500 USDC |
-| **Materiales Culturales** | Guías en español + materiales ENS | 1,000+ copias | 1,500 USDC |
+| **Alquiler de Venues** | Eventos realizados en espacios culturales | 20 eventos | 6,000 USDC |
 
-#### Componente 2: Personal Especializado
+#### Componente 2: Mobile Equipment & Transportation
 | Actividad | Indicador | Meta | Fondos Asignados |
 |-----------|-----------|------|------------------|
-| **Instructores de Baile** | Profesionales latinos certificados | 3 instructores mínimos | 3,000 USDC |
-| **Grupo Musical** | Músicos latinos en vivo | 1 grupo musical (opcional) | 1,500 USDC |
-| **Educación ENS** | Especialista ENS (imrulo.eth) | 1 educador ENS | 1,200 USDC |
-| **Coordinadores Culturales** | Gestión comunitaria latina | 2 coordinadores | 1,200 USDC |
+| **Sistema de Sonido Móvil** | Equipamiento portátil profesional | 100% funcional | 2,250 USDC |
+| **Transporte y Logística** | Vehículo, gasolina, estacionamiento | 20 eventos | Incluido en equipamiento |
+| **Refrescos y Suministros** | Comodidad de participantes | 1,000+ participantes | Incluido en equipamiento |
 
-#### Componente 3: Tecnología y Blockchain
+#### Componente 3: Marketing & Outreach
 | Actividad | Indicador | Meta | Fondos Asignados |
 |-----------|-----------|------|------------------|
-| **Dominio LAT.ETH** | Configuración y mantenimiento | 1 dominio activo | 500 USDC |
-| **Gas Fees** | Transacciones de subdominios | 1,000+ transacciones | 1,000 USDC |
-| **POAPs Culturales** | Tokens de reconocimiento | 1,000+ POAPs | 750 USDC |
-| **Infraestructura Técnica** | WiFi, laptops, soporte | 100% operativo | 750 USDC |
+| **Marketing Digital** | Campañas en redes sociales | 10,000+ alcance | 1,500 USDC |
 
-#### Componente 4: Marketing y Comunicación
+#### Componente 4: Administrative & Project Management
 | Actividad | Indicador | Meta | Fondos Asignados |
 |-----------|-----------|------|------------------|
-| **Marketing Digital** | Campañas en redes sociales | 10,000+ alcance | 1,000 USDC |
-| **Materiales Impresos** | Flyers y posters culturales | 2,000+ unidades | 500 USDC |
+| **Gestión de Proyecto** | Coordinación y reportes | 5 meses | 1,500 USDC |
 
-**Total Nivel COMPONENTES: 15,000 USDC (100%)**
+#### Componente 5: ENS Technology & Gas Fees
+| Actividad | Indicador | Meta | Fondos Asignados |
+|-----------|-----------|------|------------------|
+| **Dominio LAT.ETH** | Configuración y mantenimiento | 1 dominio activo | 750 USDC |
+| **Gas Fees** | Transacciones de subdominios GRATIS | 1,000+ transacciones | Incluido en dominio |
+
+#### Componente 6: Contingency & Emergency Fund
+| Actividad | Indicador | Meta | Fondos Asignados |
+|-----------|-----------|------|------------------|
+| **Fondo de Emergencia** | Contingencias y reparaciones | 100% cobertura | 1,500 USDC |
+
+**Total Nivel COMPONENTES: 4,500 USDC (30%)**
 
 ---
 
@@ -104,21 +108,21 @@
 
 ### Financiamiento Progresivo por Niveles
 
-#### Nivel FIN (45% - 6,750 USDC)
+#### Nivel FIN (40% - 6,000 USDC)
 - **Desbloqueo:** Al completar 90% de metas de preservación cultural
 - **Indicadores Clave:** 
   - 900+ participantes con identidad latina fortalecida
   - 900+ subdominios LAT.ETH creados
   - 4+ comunidades latinas activas
 
-#### Nivel PROPÓSITO (35% - 5,250 USDC)
+#### Nivel PROPÓSITO (30% - 4,500 USDC)
 - **Desbloqueo:** Al completar 80% de eventos y onboarding
 - **Indicadores Clave:**
   - 16+ eventos completados
   - 800+ wallets creados exitosamente
   - 80%+ comprensión de ENS
 
-#### Nivel COMPONENTES (20% - 3,000 USDC)
+#### Nivel COMPONENTES (30% - 4,500 USDC)
 - **Desbloqueo:** Al completar infraestructura y personal
 - **Indicadores Clave:**
   - 100% del equipo contratado
