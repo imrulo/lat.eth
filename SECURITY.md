@@ -15,7 +15,7 @@ We take the security of our cultural defense initiative seriously. This document
 ### **If you discover a security vulnerability:**
 
 1. **DO NOT** create a public GitHub issue
-2. **DO** email us at: [security@lat.eth] (placeholder - update with actual contact)
+2. **DO** email us at: [imrulo.eth@proton.me] (placeholder - update with actual contact)
 3. **Include** detailed information about the vulnerability
 4. **Provide** steps to reproduce the issue
 5. **Suggest** potential fixes if possible
