@@ -15,20 +15,24 @@ This is not just another ENS onboarding project. This is a **regional evangeliza
 
 ## Repository Structure
 ```
-Livadance-ENS-Grant-Proposal/
+lat.eth/
 ├── docs/                    # Main proposal documents
 ├── budgets/                 # Financial breakdowns
-├── visuals/                 # Charts, flowcharts, and visual aids
+├── visuals/                 # Interactive HTML visualizations
 ├── research/                # Sourced materials and references
 ├── templates/               # Event materials and guides
-└── code/                    # Scripts and utilities
+├── index.html              # LAT.ETH landing page
+├── temperature-check-post.md # Ready for ENS DAO forum
+└── README.md               # Project overview
 ```
 
 ## Quick Start
-1. **Review the main proposal**: Start with `/docs/main-proposal.md`
-2. **Check budget details**: See `/budgets/detailed-budget.md`
-3. **View project timeline**: Check `/visuals/project-timeline.md`
-4. **Submit to ENS DAO**: Follow the guide in `/docs/submission-guide.md`
+1. **Temperature Check Post**: Ready to copy from `temperature-check-post.md`
+2. **Review the main proposal**: Start with `/docs/main-proposal.md`
+3. **Check budget details**: See `/budgets/detailed-budget.md`
+4. **View interactive visuals**: Check `/visuals/` folder
+5. **LAT.ETH Landing Page**: See `index.html`
+6. **Submit to ENS DAO**: Follow the guide in `/docs/submission-guide.md`
 
 ## Key Project Details
 - **Target**: 1000 participants across 20 events in Serbia (pilot)
