@@ -236,11 +236,16 @@ Each subdomain serves as:
 
 | Category | Amount (USDC) | Percentage | Cultural Justification |
 |----------|---------------|------------|------------------------|
-| **Event Logistics** | 6,000 | 40% | Venues for cultural expression and Spanish language preservation |
-| **Instructor Fees** | 3,000 | 20% | Professional Latino dance instructors preserving cultural heritage |
-| **ENS Onboarding** | 2,250 | 15% | Technical support for claiming cultural identity |
-| **Marketing & Outreach** | 2,250 | 15% | Promoting Spanish language and Latino culture |
-| **Administrative** | 1,500 | 10% | Cultural project management and reporting |
+| **Event Logistics** | 3,500 | 23.3% | Venues for cultural expression and Spanish language preservation |
+| **Specialized Personnel** | 3,500 | 23.3% | Professional Latino dance instructors preserving cultural heritage |
+| **Mobile Equipment & Transportation** | 1,250 | 8.3% | Professional portable equipment and logistics |
+| **Marketing & Outreach** | 1,200 | 8% | Promoting Spanish language and Latino culture |
+| **Administrative & Project Management** | 1,200 | 8% | Cultural project management and reporting |
+| **Event Permits & Legal Requirements** | 1,200 | 8% | Municipal permits and legal compliance |
+| **ENS Technology & Gas Fees** | 1,090 | 7.3% | Technical support for claiming cultural identity |
+| **Documentation & Media** | 900 | 6% | Professional documentation and media production |
+| **Technical Infrastructure** | 600 | 4% | Backup systems and technical support |
+| **Contingency & Emergency Fund** | 560 | 3.7% | Risk mitigation and emergency situations |
 
 ---
 

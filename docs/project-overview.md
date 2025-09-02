@@ -114,11 +114,16 @@ Participants receive personalized subdomains under LAT.ETH:
 
 | Category | Amount | Percentage | Key Components |
 |----------|--------|------------|----------------|
-| **Event Logistics** | 6,000 USDC | 40% | Venues, equipment, materials |
-| **Instructor Fees** | 3,000 USDC | 20% | Dance instructors, technical staff |
-| **ENS Onboarding** | 2,250 USDC | 15% | Technical support, materials, gas fees |
-| **Marketing & Outreach** | 2,250 USDC | 15% | Digital ads, flyers, partnerships |
-| **Administrative** | 1,500 USDC | 10% | Project management, reporting |
+| **Event Logistics** | 3,500 USDC | 23.3% | Venues, equipment, materials |
+| **Specialized Personnel** | 3,500 USDC | 23.3% | Dance instructors, technical staff |
+| **Mobile Equipment & Transportation** | 1,250 USDC | 8.3% | Professional portable equipment |
+| **Marketing & Outreach** | 1,200 USDC | 8% | Digital ads, flyers, partnerships |
+| **Administrative & Project Management** | 1,200 USDC | 8% | Project management, reporting |
+| **Event Permits & Legal Requirements** | 1,200 USDC | 8% | Municipal permits, legal compliance |
+| **ENS Technology & Gas Fees** | 1,090 USDC | 7.3% | Technical support, materials, gas fees |
+| **Documentation & Media** | 900 USDC | 6% | Professional documentation, media |
+| **Technical Infrastructure** | 600 USDC | 4% | Backup systems, technical support |
+| **Contingency & Emergency Fund** | 560 USDC | 3.7% | Risk mitigation, emergencies |
 
 ### Cost Justification
 - **Serbian Market Rates**: All costs based on local pricing
