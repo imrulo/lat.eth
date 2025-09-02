@@ -36,6 +36,15 @@ This directory contains interactive and professional visualizations for the ENS 
   - Specific cultural risks
   - Mitigation strategies
 
+### 5. **budget-flow-diagram.html** - Interactive Budget Flow
+- **Description**: Interactive Mermaid-based budget visualization
+- **Features**:
+  - Budget distribution pie chart
+  - Logical Framework structure diagram
+  - Progressive funding timeline
+  - Success metrics dashboard
+  - Professional interactive design
+
 ## 🚀 How to Use the Visualizations
 
 ### **Option 1: Local Visualization**

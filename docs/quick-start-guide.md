@@ -163,7 +163,8 @@ This is not just another ENS onboarding project. This is a **cultural defense in
 - **Budget**: Any local cultural cost adjustments needed
 
 ### Optional Enhancements
-- **Visual Materials**: Run `/code/generate_visuals.py` (requires Python + matplotlib)
+- **Interactive Visualizations**: Use `/visuals/budget-flow-diagram.html` for budget presentations
+- **Project Flow Diagrams**: Reference `/docs/project-flow-diagram.md` for comprehensive project visualization
 - **Event Templates**: Customize `/templates/event-flyer-template.md`
 - **Local Research**: Add Serbia-specific Latino community data
 

@@ -109,6 +109,18 @@ This project aligns with ENS DAO's Public Goods Working Group goals while **adva
 - **Community Building**: POAP collection encourages ongoing cultural engagement
 - **Verifiable Participation**: Blockchain-based proof of cultural participation
 
+## 📊 Interactive Visualizations
+
+This project includes comprehensive interactive visualizations:
+
+- **Budget Flow Diagram**: Interactive Mermaid-based budget visualization with pie charts and timeline
+- **Project Flow Diagrams**: Complete project structure and cultural onboarding flow
+- **Risk Matrix**: Comprehensive risk analysis with mitigation strategies
+- **Timeline Visualization**: 5-month cultural preservation schedule
+- **ENS Onboarding Flow**: Step-by-step cultural integration process
+
+All visualizations are professionally designed and ready for grant presentation.
+
 ## Contact & Support
 For questions about this **cultural defense initiative**, contact imrulo.eth (Rulán Ferrales) or refer to the detailed documentation in the `/docs` folder.
 

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LAT.ETH Budget Flow Diagram - Interactive Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #e84393, #fd79a8);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        .content {
+            padding: 40px;
+        }
+        .diagram-section {
+            margin-bottom: 50px;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            border-left: 5px solid #e84393;
+        }
+        .diagram-section h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        .diagram-section p {
+            color: #7f8c8d;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        .mermaid {
+            text-align: center;
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .summary-box {
+            background: linear-gradient(135deg, #00b894, #00cec9);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            margin: 30px 0;
+        }
+        .summary-box h3 {
+            margin: 0 0 15px 0;
+            font-size: 1.5em;
+        }
+        .summary-box .total-amount {
+            font-size: 3em;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .key-points {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+        .key-point {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+            border-left: 4px solid #e84393;
+        }
+        .key-point h4 {
+            color: #e84393;
+            margin: 0 0 10px 0;
+        }
+        .key-point p {
+            margin: 0;
+            color: #2c3e50;
+            line-height: 1.4;
+        }
+        @media (max-width: 768px) {
+            .content {
+                padding: 20px;
+            }
+            .header h1 {
+                font-size: 2em;
+            }
+            .key-points {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>💰 Budget Flow Diagram</h1>
+            <p>LAT.ETH Cultural Defense Initiative - Interactive Budget Visualization</p>
+        </div>
+        
+        <div class="content">
+            <div class="summary-box">
+                <h3>Total Project Budget</h3>
+                <div class="total-amount">15,000 USDC</div>
+                <p>Expert-reviewed budget with realistic market rates and comprehensive coverage</p>
+            </div>
+
+            <div class="diagram-section">
+                <h2>📊 Budget Distribution Overview</h2>
+                <p>Complete breakdown of the 15,000 USDC budget across all project components, organized by Logical Framework Matrix levels.</p>
+                <div class="mermaid">
+                    pie title Budget Distribution - 15,000 USDC Total
+                        "Event Logistics" : 4500
+                        "Specialized Personnel" : 4500
+                        "Mobile Equipment & Transportation" : 2250
+                        "Marketing & Outreach" : 1200
+                        "Administrative & Project Management" : 1200
+                        "Event Permits & Legal Requirements" : 1200
+                        "ENS Technology & Gas Fees" : 1090
+                        "Documentation & Media" : 900
+                        "Technical Infrastructure" : 600
+                        "Contingency & Emergency Fund" : 860
+                </div>
+            </div>
+
+            <div class="diagram-section">
+                <h2>🏗️ Logical Framework Structure</h2>
+                <p>Budget allocation organized by the Logical Framework Matrix methodology, ensuring every USDC contributes to Latino cultural preservation.</p>
+                <div class="mermaid">
+                    graph TD
+                        A[LAT.ETH Cultural Defense Initiative<br/>15,000 USDC Total] --> B[GOAL Level<br/>Cultural Preservation<br/>4,500 USDC - 30%]
+                        A --> C[PURPOSE Level<br/>Digital Network<br/>4,500 USDC - 30%]
+                        A --> D[COMPONENTS Level<br/>Infrastructure<br/>6,000 USDC - 40%]
+                        
+                        B --> B1[1,000 Latino Identities<br/>Preserved]
+                        B --> B2[90% Cultural<br/>Strengthening]
+                        B --> B3[5 Active Communities<br/>in Web3]
+                        
+                        C --> C1[3 Dance Instructors<br/>+ imrulo.eth]
+                        C --> C2[85% Wallet Creation<br/>Success Rate]
+                        C --> C3[80% ENS Understanding<br/>Achievement]
+                        
+                        D --> D1[20 Cultural Events<br/>4,500 USDC]
+                        D --> D2[Mobile Equipment<br/>2,250 USDC]
+                        D --> D3[ENS Technology<br/>1,090 USDC]
+                        D --> D4[Marketing & Outreach<br/>1,200 USDC]
+                        D --> D5[Administrative<br/>1,200 USDC]
+                        D --> D6[Legal & Permits<br/>1,200 USDC]
+                        D --> D7[Documentation<br/>900 USDC]
+                        D --> D8[Technical Infrastructure<br/>600 USDC]
+                        D --> D9[Contingency<br/>860 USDC]
+                        
+                        style A fill:#e84393,stroke:#333,stroke-width:3px,color:#fff
+                        style B fill:#00b894,stroke:#333,stroke-width:2px,color:#fff
+                        style C fill:#74b9ff,stroke:#333,stroke-width:2px,color:#fff
+                        style D fill:#fdcb6e,stroke:#333,stroke-width:2px,color:#fff
+                </div>
+            </div>
+
+            <div class="diagram-section">
+                <h2>📈 Progressive Funding Timeline</h2>
+                <p>Milestone-based funding unlock system ensuring cultural accountability and measurable progress throughout the 5-month project.</p>
+                <div class="mermaid">
+                    gantt
+                        title Progressive Funding Unlock System
+                        dateFormat  YYYY-MM-DD
+                        section Month 1
+                        Cultural Foundation    :milestone, m1, 2024-01-31, 0d
+                        200 Latino Identities  :milestone, m1a, 2024-01-31, 0d
+                        3,000 USDC Unlock     :milestone, m1b, 2024-01-31, 0d
+                        
+                        section Month 2
+                        400 Latino Identities  :milestone, m2a, 2024-02-28, 0d
+                        3,000 USDC Unlock     :milestone, m2b, 2024-02-28, 0d
+                        
+                        section Month 3
+                        600 Latino Identities  :milestone, m3a, 2024-03-31, 0d
+                        3,000 USDC Unlock     :milestone, m3b, 2024-03-31, 0d
+                        
+                        section Month 4
+                        800 Latino Identities  :milestone, m4a, 2024-04-30, 0d
+                        3,000 USDC Unlock     :milestone, m4b, 2024-04-30, 0d
+                        
+                        section Month 5
+                        1000 Latino Identities :milestone, m5a, 2024-05-31, 0d
+                        3,000 USDC Unlock     :milestone, m5b, 2024-05-31, 0d
+                </div>
+            </div>
+
+            <div class="diagram-section">
+                <h2>🎯 Success Metrics Dashboard</h2>
+                <p>Comprehensive tracking system for both quantitative achievements and qualitative cultural impact measurement.</p>
+                <div class="mermaid">
+                    graph LR
+                        A[Success Metrics] --> B[Quantitative<br/>Measurable Data]
+                        A --> C[Qualitative<br/>Cultural Impact]
+                        
+                        B --> B1[1,000 ENS Users<br/>Target Achievement]
+                        B --> B2[1,000+ Subdomains<br/>LAT.ETH Claims]
+                        B --> B3[20 Events<br/>Cultural Workshops]
+                        B --> B4[85% Success Rate<br/>Wallet Creation]
+                        B --> B5[80% Understanding<br/>ENS Knowledge]
+                        
+                        C --> C1[90% Cultural<br/>Identity Strengthening]
+                        C --> C2[5 Active Communities<br/>Web3 Engagement]
+                        C --> C3[Spanish Language<br/>Preservation]
+                        C --> C4[Latino Heritage<br/>Digital Defense]
+                        C --> C5[Community Building<br/>Long-term Engagement]
+                        
+                        style A fill:#2d3436,stroke:#333,stroke-width:3px,color:#fff
+                        style B fill:#00b894,stroke:#333,stroke-width:2px,color:#fff
+                        style C fill:#e84393,stroke:#333,stroke-width:2px,color:#fff
+                </div>
+            </div>
+
+            <div class="key-points">
+                <div class="key-point">
+                    <h4>💰 Realistic Budget</h4>
+                    <p>All costs based on Serbian market rates with LAT.ETH domain at realistic 640 USDC annual cost.</p>
+                </div>
+                <div class="key-point">
+                    <h4>🎯 Cultural Focus</h4>
+                    <p>Every USDC allocated contributes directly to Latino identity preservation and Spanish language defense.</p>
+                </div>
+                <div class="key-point">
+                    <h4>📊 Professional Structure</h4>
+                    <p>Logical Framework Matrix ensures measurable outcomes and transparent fund allocation.</p>
+                </div>
+                <div class="key-point">
+                    <h4>🛡️ Risk Management</h4>
+                    <p>10% contingency fund (860 USDC) for unexpected costs and emergency situations.</p>
+                </div>
+                <div class="key-point">
+                    <h4>🚀 Scalable Model</h4>
+                    <p>Budget structure designed for expansion to other Balkan countries and regions.</p>
+                </div>
+                <div class="key-point">
+                    <h4>📈 Progressive Funding</h4>
+                    <p>Milestone-based unlock system ensures accountability and measurable progress.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            themeVariables: {
+                primaryColor: '#e84393',
+                primaryTextColor: '#2d3436',
+                primaryBorderColor: '#e84393',
+                lineColor: '#74b9ff',
+                secondaryColor: '#f8f9fa',
+                tertiaryColor: '#ffffff'
+            }
+        });
+    </script>
+</body>
+</html>
