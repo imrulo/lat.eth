@@ -1,89 +1,88 @@
-# Temperature Check: LAT.ETH Cultural Defense Initiative - 1000 Latino Identities Through Latin Dance in the Balkans
+# Temperature Check: LAT.ETH Educational Initiative - 1000 Blockchain Learners Through Cultural Engagement in Serbia
 
-## 🌍 **Cultural Defense Mission: Advancing ENS Adoption Among Latinos Across the Balkans Through Latin Dance**
+## 🎓 **Educational Mission: Advancing ENS Adoption Through Blockchain Education**
 
-**LAT.ETH Cultural Defense Initiative** (led by imrulo.eth) proposes advancing ENS adoption among the entire Latino community across the Balkans through interactive Latin dance workshops, starting with Serbia as our pilot region. We will use Latin dance (salsa, reggaetón, bachata, merengue) as the cultural entry point to preserve Spanish language and Latino identity through ENS (.eth) adoption, with a clear expansion strategy to other Balkan countries.
+**LAT.ETH Educational Initiative** (led by imrulo.eth) proposes advancing ENS adoption in Serbia through blockchain education combined with engaging cultural activities, starting with Serbia as our pilot region. We will use Latin dance (salsa, reggaetón, bachata, merengue) as engagement tools to attract participants to educational sessions about Ethereum, blockchain technology, ENS domains, and decentralized wallets, with a clear expansion strategy to other Balkan countries.
 
 ### **🎯 What Makes This Special**
-- **Regional Adoption Strategy**: Starting in Serbia, expanding to all Balkan countries
-- **Cultural Defense Mission**: Defending Spanish language and Latino identity through blockchain
-- **Ambitious Scale**: 20 events over 5 months, 1000 new ENS users in Serbia
-- **Progressive Funding**: Cultural milestone-based unlock system (3,000 USDC per month)
-- **POAP Integration**: Cultural recognition tokens for participation
-- **LAT.ETH Identity**: Cultural, historical, and identity domain for Latino community
-- **Scalable Model**: Serbia as pilot, then expansion to Croatia, Bosnia, Montenegro, Albania, Macedonia, Kosovo
+- **Educational Focus**: Primary objective is blockchain education, not cultural preservation
+- **Cultural Engagement**: Dance events as tools to attract participants to learning
+- **Replicable Model**: Serbia pilot with clear expansion to 6 Balkan countries
+- **Progressive Funding**: Educational milestone-based unlock system (3,000 USDC per month)
+- **POAP Integration**: Educational recognition tokens for learning participation
+- **LAT.ETH as Educational Tool**: Gateway to web3 learning through hands-on experience
+- **Scalable Model**: Serbia as pilot, then expansion to Croatia, Bosnia, Montenegro, Albania, North Macedonia, Kosovo
 
 ---
 
 ## 💰 **Budget Request: 15,000 USDC (Progressive Funding)**
 
-### **Cultural Milestone Unlock System (Serbia Pilot)**
+### **Educational Milestone Unlock System (Serbia Pilot)**
 
-| Cultural Milestone | Events | Participants | Funding Unlock |
-|-------------------|--------|--------------|----------------|
-| **Month 1** | 4 events | 200 Latino identities | 3,000 USDC |
-| **Month 2** | 8 events | 400 Latino identities | 3,000 USDC |
-| **Month 3** | 12 events | 600 Latino identities | 3,000 USDC |
-| **Month 4** | 16 events | 800 Latino identities | 3,000 USDC |
-| **Month 5** | 20 events | 1000 Latino identities | 3,000 USDC |
+| Educational Milestone | Events | Participants | Funding Unlock |
+|----------------------|--------|--------------|----------------|
+| **Month 1** | 4 events | 200 educated users | 3,000 USDC |
+| **Month 2** | 8 events | 400 educated users | 3,000 USDC |
+| **Month 3** | 12 events | 600 educated users | 3,000 USDC |
+| **Month 4** | 16 events | 800 educated users | 3,000 USDC |
+| **Month 5** | 20 events | 1000 educated users | 3,000 USDC |
 
-**🌍 Future Expansion**: After Serbia success, expand to Croatia, Bosnia, Montenegro, Albania, Macedonia, Kosovo
+**🌍 Future Expansion**: After Serbia success, expand to Croatia, Bosnia, Montenegro, Albania, North Macedonia, Kosovo
 
 ---
 
-## 💃 **Event Structure: Latin Dance + ENS Onboarding**
+## 🎓 **Event Structure: Blockchain Education + Cultural Engagement**
 
-### **Cultural Integration Approach**
-1. **Latin Dance Workshops**: Salsa, Reggaetón, Bachata, Merengue
-2. **Cultural Connection**: Spanish language and Latino heritage celebration
-3. **ENS Education**: Blockchain basics and web3 introduction
+### **Educational Integration Approach**
+1. **Cultural Engagement**: Latin dance workshops to attract participants
+2. **Blockchain Education**: Comprehensive web3 and ENS learning
+3. **Hands-on Learning**: Wallet setup and ENS subdomain creation
 4. **LAT.ETH Onboarding**: Free subdomain claiming (e.g., maria.lat.eth)
-5. **POAP Recognition**: Cultural participation tokens
+5. **POAP Recognition**: Educational participation tokens
 
-### **Why LAT.ETH Matters: Cultural Identity Revolution**
-**LAT.ETH is not just any subdomain** - it represents:
-- **LATino**: Individual Latino identity
-- **LATinoamérica**: Latin American heritage
-- **LATina**: Latina feminine identity
-- **LATinos**: Latino masculine identity
-- **LATinas**: Latina feminine identity
+### **Why LAT.ETH as Educational Gateway**
+**LAT.ETH serves as an educational tool that:**
+- **Makes blockchain accessible**: Easy-to-understand domain structure
+- **Provides hands-on learning**: Direct interaction with ENS technology
+- **Creates memorable experiences**: Cultural activities make learning stick
+- **Builds practical skills**: Real-world application of web3 concepts
+- **Offers free education**: No cost barriers to learning blockchain
 
 **When someone claims `maria.lat.eth`:**
-- They're claiming their **cultural identity in the digital world**
-- They're **defending their Spanish language heritage**
+- They're **learning about blockchain technology** through hands-on experience
+- They're **understanding ENS domains** and their practical applications
+- They're **gaining web3 skills** in an engaging, supportive environment
 - They're **creating a permanent digital identity** (no expiration date)
-- They're **paying zero dollars** for their cultural identity
+- They're **accessing free blockchain education** with cultural engagement
 
 ---
 
 ## 🌟 **ENS DAO Alignment**
 
 ### **Perfect Fit for Public Goods Working Group**
-- **User Onboarding**: Bringing 1000 Spanish speakers to ENS ecosystem in Serbia
-- **Regional Expansion**: Pilot in Serbia, then expand to 6 more Balkan countries
-- **Global Accessibility**: Expanding to underrepresented regions (Balkans)
-- **Cultural Diversity**: Defending Spanish language and Latino identity through web3
-- **Public Good**: Cultural preservation as a public good for the ENS ecosystem
-- **Scalable Model**: Replicable approach for other regions worldwide
+- **User Onboarding**: Bringing 1000 new users into the ENS ecosystem through education
+- **Educational Initiatives**: Hands-on blockchain learning experiences
+- **Global Accessibility**: Expanding to underrepresented region (Balkans)
+- **Ecosystem Growth**: Building sustainable web3 learning communities
+- **Innovation**: Creating replicable educational models for other regions
 
-### **Measurable Impact**
-- **1000 new ENS users** preserving Latino heritage in Serbia
-- **1000+ cultural identity subdomains** under LAT.ETH
-- **Cultural community building** in Serbia (pilot region)
-- **Spanish language preservation** through blockchain technology
-- **Scalable model** for expansion to 6 additional Balkan countries
-- **Regional Latino ENS network** across the Balkans
+### **Measurable Educational Impact**
+- **1000 new ENS users** educated about blockchain technology
+- **1000+ educational subdomains** created under LAT.ETH
+- **Blockchain learning communities** in Serbia (pilot region)
+- **Replicable educational model** for expansion to 6 additional Balkan countries
+- **Regional web3 education network** across the Balkans
 
 ---
 
 ## 🤝 **Community Feedback Requested**
 
 ### **Questions for ENS DAO Community:**
-1. **Cultural Approach**: Does the cultural defense mission align with ENS DAO values?
+1. **Educational Approach**: Does the educational focus align with ENS DAO values?
 2. **Progressive Funding**: Is the milestone-based unlock system appropriate?
-3. **Scale & Impact**: Is 1000 new ENS users in Serbia a meaningful contribution?
+3. **Scale & Impact**: Is 1000 educated users in Serbia a meaningful contribution?
 4. **Regional Strategy**: Does the Serbia-first approach with Balkan expansion make sense?
-5. **Cultural Integration**: How can we better integrate Latino cultural expression with ENS adoption?
+5. **Cultural Engagement**: How can we better use cultural activities to attract learners?
 6. **Expansion Timeline**: What's the ideal timeline for expanding to other Balkan countries?
 
 ---
@@ -93,16 +92,16 @@
 ### **Repository**: https://github.com/imrulo/lat.eth
 
 **Essential Documents:**
-- **Main Proposal**: `/docs/main-proposal.md` - Complete cultural defense grant application
+- **Main Proposal**: `/docs/main-proposal.md` - Complete educational grant application
 - **Budget Details**: `/budgets/detailed-budget.md` - 15,000 USDC breakdown
-- **Risk Assessment**: `/docs/risk-assessment.md` - Comprehensive risk analysis
-- **POAP Integration**: `/docs/poap-integration.md` - Cultural recognition strategy
+- **Replicable Model**: `/docs/replicable-pilot-model.md` - Serbia pilot with Balkan expansion
+- **Visual Diagrams**: `/visuals/project-diagrams.md` - Mermaid diagrams for all aspects
 
 ---
 
 ## 📞 **Contact & Next Steps**
 
-**Initiative**: LAT.ETH Cultural Defense Initiative
+**Initiative**: LAT.ETH Educational Initiative
 **Lead**: imrulo.eth (Rulán Ferrales)
 **Repository**: https://github.com/imrulo/lat.eth
 
@@ -110,8 +109,8 @@
 
 ---
 
-**🌍 "Evangelizing ENS to Latinos Across the Balkans Through Latin Dance - Starting with Serbia"**
+**🎓 "Advancing ENS Adoption Through Blockchain Education - Starting with Serbia"**
 
 ---
 
-*This proposal represents a revolutionary approach to regional ENS evangelization that combines Latin dance with blockchain technology to defend Spanish language and Latino identity across the Balkans, starting with Serbia as our pilot region.*
+*This proposal represents a revolutionary approach to blockchain education that combines engaging cultural activities with comprehensive web3 learning to advance ENS adoption across the Balkans, starting with Serbia as our pilot region.*

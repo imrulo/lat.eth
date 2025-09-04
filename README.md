@@ -1,12 +1,12 @@
-# LAT.ETH Cultural Defense Initiative - ENS Grant Proposal
+# LAT.ETH Educational Initiative - ENS Grant Proposal
 
 [![ENS DAO](https://img.shields.io/badge/ENS-DAO-blue?style=for-the-badge&logo=ethereum)](https://ens.domains/)
-[![Cultural Defense](https://img.shields.io/badge/Cultural-Defense-red?style=for-the-badge)](https://github.com/imrulo/lat.eth)
-[![Latin Dance](https://img.shields.io/badge/Latin-Dance-orange?style=for-the-badge)](https://github.com/imrulo/lat.eth)
+[![Blockchain Education](https://img.shields.io/badge/Blockchain-Education-green?style=for-the-badge)](https://github.com/imrulo/lat.eth)
+[![Cultural Engagement](https://img.shields.io/badge/Cultural-Engagement-orange?style=for-the-badge)](https://github.com/imrulo/lat.eth)
 [![Balkans](https://img.shields.io/badge/Balkans-Green?style=for-the-badge)](https://github.com/imrulo/lat.eth)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**🌍 Advancing ENS adoption across the Balkans through Latin dance, preserving Spanish language and Latino identity through blockchain technology.**
+**🎓 Advancing ENS adoption through blockchain education, using engaging cultural activities to attract participants to web3 learning.**
 
 ## 🚀 **Quick Links**
 
@@ -17,17 +17,16 @@
 - **[Interactive Visuals](visuals/)** - Charts and flowcharts
 
 ## Project Overview
-**LAT.ETH Cultural Defense Initiative** (led by imrulo.eth) is seeking funding from the ENS DAO to organize **20 interactive Latin dance workshops** in Serbia over 5 months, with integrated ENS ecosystem onboarding specifically designed to **advance ENS adoption among Latinos across the Balkans**. This pilot project in Serbia will establish a scalable model for expansion to Croatia, Bosnia, Montenegro, Albania, Macedonia, and Kosovo.
+**LAT.ETH Educational Initiative** (led by imrulo.eth) is seeking funding from the ENS DAO to organize **20 educational workshops** in Serbia over 5 months, combining blockchain education with engaging cultural activities specifically designed to **advance ENS adoption through learning**. This pilot project in Serbia will establish a scalable educational model for expansion to Croatia, Bosnia, Montenegro, Albania, North Macedonia, and Kosovo.
 
-## Cultural Mission
-This is not just another ENS onboarding project. This is a **regional adoption initiative** that uses blockchain technology to:
-- **Advance ENS adoption** among Latinos across the Balkans, starting with Serbia
-- **Preserve Spanish language** in the digital age
-- **Strengthen Latino identity** through web3 technology
-- **Connect Spanish speakers** to their cultural heritage
-- **Create digital spaces** for Latino cultural expression
-- **Defend cultural identity** against digital homogenization
-- **Build regional networks** across Balkan countries
+## Educational Mission
+This is not just another ENS onboarding project. This is an **educational initiative** that uses engaging cultural activities to:
+- **Advance ENS adoption** through blockchain education, starting with Serbia
+- **Teach blockchain technology** in an accessible, engaging way
+- **Connect participants** to web3 technology through familiar cultural activities
+- **Create educational spaces** for blockchain learning
+- **Make web3 technology accessible** to broader audiences
+- **Build sustainable learning communities** across Balkan countries
 
 ## Repository Structure
 ```
@@ -51,80 +50,82 @@ lat.eth/
 6. **Submit to ENS DAO**: Follow the guide in `/docs/submission-guide.md`
 
 ## Key Project Details
-- **Target**: 1000 participants across 20 events in Serbia (pilot)
+- **Target**: 1000 educated participants across 20 events in Serbia (pilot)
 - **Location**: Belgrade, Serbia (pilot region for Balkan expansion)
 - **Budget**: 15,000 USDC (progressive unlock system)
 - **Timeline**: 5 months (4 events per month)
-- **Focus**: **Advancing ENS adoption among Latinos across the Balkans** starting with Serbia
-- **Innovation**: POAP integration for cultural recognition and community building
-- **Expansion**: Scalable model for Croatia, Bosnia, Montenegro, Albania, Macedonia, Kosovo
+- **Focus**: **Advancing ENS adoption through blockchain education** starting with Serbia
+- **Innovation**: POAP integration for educational recognition and community building
+- **Expansion**: Scalable educational model for Croatia, Bosnia, Montenegro, Albania, North Macedonia, Kosovo
 
-## Why LAT.ETH Matters: Cultural Identity Revolution
+## Why LAT.ETH Matters: Educational Gateway
 
-**LAT.ETH is not just any subdomain** - it represents:
-- **LATino**: Individual Latino identity
-- **LATinoamérica**: Latin American heritage  
-- **LATina**: Latina feminine identity
-- **LATinos**: Latino masculine identity
-- **LATinas**: Latina feminine identity
+**LAT.ETH serves as an educational tool that:**
+- **Makes blockchain accessible**: Easy-to-understand domain structure
+- **Provides hands-on learning**: Direct interaction with ENS technology
+- **Creates memorable experiences**: Cultural activities make learning stick
+- **Builds practical skills**: Real-world application of web3 concepts
+- **Offers free education**: No cost barriers to learning blockchain
 
 **When someone claims `maria.lat.eth`:**
-- They're claiming their **cultural identity in the digital world**
-- They're **defending their Spanish language heritage**
-- They're **preserving their Latino cultural roots**
+- They're **learning about blockchain technology** through hands-on experience
+- They're **understanding ENS domains** and their practical applications
+- They're **gaining web3 skills** in an engaging, supportive environment
 - They're **creating a permanent digital identity** (no expiration date)
-- They're **paying zero dollars** for their cultural identity
+- They're **accessing free blockchain education** with cultural engagement
 
 ## ENS DAO Alignment
-This project aligns with ENS DAO's Public Goods Working Group goals while **advancing ENS adoption across the Balkans**:
-- User onboarding and ecosystem growth (1000 new users in Serbia pilot)
+This project aligns with ENS DAO's Public Goods Working Group goals through **educational advancement**:
+- User onboarding and ecosystem growth (1000 educated users in Serbia pilot)
 - Regional expansion strategy (7 Balkan countries total)
 - Global accessibility and adoption
-- **Cultural diversity preservation** through Spanish language defense
-- Educational initiatives in cultural context
-- Progressive funding for cultural accountability
-- Scalable model for other regions worldwide
+- **Educational initiatives** through engaging cultural activities
+- Blockchain education in accessible context
+- Progressive funding for educational accountability
+- Scalable educational model for other regions worldwide
 
 ## Progressive Funding Structure
-**Milestone-based unlock system ensures cultural accountability (Serbia Pilot):**
+**Milestone-based unlock system ensures educational accountability (Serbia Pilot):**
 
-| Cultural Milestone | Events | Participants | Funding Unlock |
-|-------------------|--------|--------------|----------------|
-| **Month 1** | 4 events | 200 Latino identities | 3,000 USDC |
-| **Month 2** | 8 events | 400 Latino identities | 3,000 USDC |
-| **Month 3** | 12 events | 600 Latino identities | 3,000 USDC |
-| **Month 4** | 16 events | 800 Latino identities | 3,000 USDC |
-| **Month 5** | 20 events | 1000 Latino identities | 3,000 USDC |
+| Educational Milestone | Events | Participants | Funding Unlock |
+|----------------------|--------|--------------|----------------|
+| **Month 1** | 4 events | 200 educated users | 3,000 USDC |
+| **Month 2** | 8 events | 400 educated users | 3,000 USDC |
+| **Month 3** | 12 events | 600 educated users | 3,000 USDC |
+| **Month 4** | 16 events | 800 educated users | 3,000 USDC |
+| **Month 5** | 20 events | 1000 educated users | 3,000 USDC |
 
-## Cultural Activities
-- **Salsa, reggaetón, bachata, merengue** - the music of Latino identity
-- **Spanish language immersion** through cultural activities
-- **Heritage connection** through dance and music
-- **Blockchain education** in Spanish cultural context
-- **Cultural identity claiming** under LAT.ETH
+## Educational Activities
+- **Salsa, reggaetón, bachata, merengue** - engaging cultural activities to attract participants
+- **Community building** and social interaction through dance
+- **Ice-breaking activities** to create comfortable learning environment
+- **Blockchain education** in accessible, engaging context
+- **Hands-on learning** with ENS subdomain claiming
 
 ## POAP Integration
-- **Cultural Recognition**: POAPs celebrating Latino cultural participation
-- **Identity Achievement**: Special POAPs for cultural identity preservation
-- **Community Building**: POAP collection encourages ongoing cultural engagement
-- **Verifiable Participation**: Blockchain-based proof of cultural participation
+- **Educational Recognition**: POAPs celebrating blockchain learning participation
+- **Learning Achievement**: Special POAPs for educational milestones
+- **Community Building**: POAP collection encourages ongoing learning engagement
+- **Verifiable Participation**: Blockchain-based proof of educational participation
 
 ## 📊 Interactive Visualizations
 
 This project includes comprehensive interactive visualizations:
 
 - **Budget Flow Diagram**: Interactive Mermaid-based budget visualization with pie charts and timeline
-- **Project Flow Diagrams**: Complete project structure and cultural onboarding flow
+- **Project Flow Diagrams**: Complete educational project structure and onboarding flow
 - **Risk Matrix**: Comprehensive risk analysis with mitigation strategies
-- **Timeline Visualization**: 5-month cultural preservation schedule
-- **ENS Onboarding Flow**: Step-by-step cultural integration process
+- **Timeline Visualization**: 5-month educational implementation schedule
+- **ENS Onboarding Flow**: Step-by-step educational integration process
+- **Participant Journey**: Complete learning experience from awareness to engagement
+- **Balkan Expansion**: Regional scaling timeline and strategy
 
 All visualizations are professionally designed and ready for grant presentation.
 
 ## Contact & Support
-For questions about this **cultural defense initiative**, contact imrulo.eth (Rulán Ferrales) or refer to the detailed documentation in the `/docs` folder.
+For questions about this **educational initiative**, contact imrulo.eth (Rulán Ferrales) or refer to the detailed documentation in the `/docs` folder.
 
 ---
-**Cultural Mission: Advancing ENS Adoption Among Latinos Across the Balkans - Starting with Serbia**
+**Educational Mission: Advancing ENS Adoption Through Blockchain Education - Starting with Serbia**
 
 *This proposal is designed for submission to the ENS DAO Small Grants program via discuss.ens.domains*
