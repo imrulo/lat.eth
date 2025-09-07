@@ -1,116 +1,178 @@
 # Temperature Check: LAT.ETH Educational Initiative - 12,000 Latin Lovers Through Cultural Engagement in Serbia and Balkans
 
-## 🎓 **Misión Educativa: Avanzando en la Adopción de ENS a través de la Educación Blockchain**
+## 🎓 **Educational Mission: Advancing ENS Adoption Through Blockchain Education**
 
-**LAT.ETH Educational Initiative** (liderado por imrulo.eth) propone avanzar en la adopción de ENS en Serbia a través de la educación blockchain combinada con actividades culturales atractivas, comenzando con Serbia como nuestra región piloto. Utilizaremos el baile latino (salsa, reggaetón, bachata, merengue) como herramientas de compromiso para atraer a los Latin Lovers a sesiones educativas sobre Ethereum, tecnología blockchain, dominios ENS y wallets descentralizados, con una estrategia clara de expansión a otros países balcánicos.
+**LAT.ETH Educational Initiative** (led by imrulo.eth) proposes advancing ENS adoption in Serbia through blockchain education combined with engaging cultural activities, starting with Serbia as our pilot region. We will use Latin dance (salsa, reggaetón, bachata, merengue) as engagement tools to attract Latin Lovers to educational sessions about Ethereum, blockchain technology, ENS domains, and decentralized wallets, with a clear strategy for expansion to other Balkan countries.
 
-### **🎯 Lo que Hace Esto Especial**
-- **Enfoque Educativo**: El objetivo principal es la educación blockchain, no la preservación cultural
-- **Compromiso Cultural**: Eventos de baile como herramientas para atraer a los Latin Lovers al aprendizaje
-- **Modelo Replicable**: Piloto Serbia con expansión clara a 6 países balcánicos
-- **Financiación Progresiva**: Sistema de desbloqueo basado en hitos educativos (3,000 USDC por mes)
-- **Integración POAP**: Tokens de reconocimiento educativo para participación en el aprendizaje
-- **LAT.ETH como Herramienta Educativa**: Puerta de entrada al aprendizaje web3 a través de experiencia práctica
-- **Modelo Escalable**: Serbia como piloto, luego expansión a Croacia, Bosnia, Montenegro, Albania, Macedonia del Norte, Kosovo
-
----
-
-## 💰 **Solicitud de Presupuesto: 15,000 USDC (Financiación Progresiva)**
-
-### **Sistema de Desbloqueo de Hitos Educativos (Piloto Serbia)**
-
-| Hito Educativo | Eventos | Participantes | Desbloqueo de Financiación |
-|----------------|---------|---------------|----------------------------|
-| **Mes 1** | 4 eventos | 160 Latin Lovers educados | 3,000 USDC |
-| **Mes 2** | 8 eventos | 320 Latin Lovers educados | 3,000 USDC |
-| **Mes 3** | 12 eventos | 480 Latin Lovers educados | 3,000 USDC |
-| **Mes 4** | 16 eventos | 640 Latin Lovers educados | 3,000 USDC |
-| **Mes 5** | 20 eventos | 800 Latin Lovers educados | 3,000 USDC |
-
-**🌍 Expansión Futura**: Después del éxito en Serbia, expandir a Croacia, Bosnia, Montenegro, Albania, Macedonia del Norte, Kosovo
+### **🎯 What Makes This Special**
+- **Educational Focus**: The main goal is blockchain education, not cultural preservation
+- **Cultural Engagement**: Dance events as tools to attract Latin Lovers to learning
+- **Replicable Model**: Serbia pilot with clear expansion to 6 Balkan countries
+- **Progressive Funding**: Milestone-based unlock system (3,000 USDC per quarter)
+- **POAP Integration**: Educational recognition tokens for learning participation
+- **LAT.ETH as Educational Tool**: Gateway to web3 learning through hands-on experience
+- **Scalable Model**: Serbia as pilot, then expansion to Croatia, Bosnia, Montenegro, Albania, North Macedonia, Kosovo
 
 ---
 
-## 🎓 **Estructura del Evento: Educación Blockchain + Compromiso Cultural**
+## 💰 **Budget Request: 15,000 USDC (Progressive Funding)**
 
-### **Enfoque de Integración Educativa**
-1. **Compromiso Cultural**: Talleres de baile latino para atraer a los Latin Lovers
-2. **Educación Blockchain**: Aprendizaje integral de web3 y ENS
-3. **Aprendizaje Práctico**: Configuración de wallets y creación de subdominios ENS
-4. **Onboarding LAT.ETH**: Reclamación gratuita de subdominios (ej., maria.lat.eth)
-5. **Reconocimiento POAP**: Tokens de participación educativa
+### **Educational Milestone Unlock System**
 
-### **Por qué LAT.ETH como Puerta de Entrada Educativa**
-**LAT.ETH sirve como una herramienta educativa que:**
-- **Hace blockchain accesible**: Estructura de dominio fácil de entender
-- **Proporciona aprendizaje práctico**: Interacción directa con la tecnología ENS
-- **Crea experiencias memorables**: Las actividades culturales hacen que el aprendizaje perdure
-- **Construye habilidades prácticas**: Aplicación del mundo real de conceptos web3
-- **Ofrece educación gratuita**: Sin barreras de costo para aprender blockchain
+| Educational Milestone | Events | Participants | Funding Unlock |
+|----------------------|--------|--------------|----------------|
+| **Month 3** | 12 events | 3,000 Latin Lovers educated | 3,000 USDC |
+| **Month 6** | 24 events | 6,000 Latin Lovers educated | 3,000 USDC |
+| **Month 9** | 36 events | 9,000 Latin Lovers educated | 3,000 USDC |
+| **Month 12** | 48 events | 12,000 Latin Lovers educated | 6,000 USDC |
 
-**Cuando alguien reclama `maria.lat.eth`:**
-- Está **aprendiendo sobre tecnología blockchain** a través de experiencia práctica
-- Está **entendiendo los dominios ENS** y sus aplicaciones prácticas
-- Está **adquiriendo habilidades web3** en un ambiente atractivo y de apoyo
-- Está **creando una identidad digital permanente** (sin fecha de expiración)
-- Está **accediendo a educación blockchain gratuita** con compromiso cultural
+### **Budget Allocation**
+- **Instructor Payments**: $70/event (lead + 2 instructors)
+- **Transportation & Logistics**: Regional travel and event setup
+- **Marketing & Outreach**: Campaigns to attract Latin Lovers
+- **POAP Gas Fees**: Educational recognition tokens
+- **Souvenirs & Materials**: Reflective materials for participants
+- **Administrative & Contingency**: Project management and emergency fund
 
 ---
 
-## 🌟 **Alineación con ENS DAO**
+## 🎯 **Event Structure: Education Through Culture**
 
-### **Ajuste Perfecto para Public Goods Working Group**
-- **Onboarding de Usuarios**: Llevando 800 nuevos usuarios al ecosistema ENS a través de la educación
-- **Iniciativas Educativas**: Experiencias de aprendizaje blockchain prácticas
-- **Accesibilidad Global**: Expandiendo a región subrepresentada (Balcanes)
-- **Crecimiento del Ecosistema**: Construyendo comunidades de aprendizaje web3 sostenibles
-- **Innovación**: Creando modelos educativos replicables para otras regiones
+### **Monthly Event Schedule (4 events/month)**
+- **Serbia**: 40 events (Belgrade, Novi Sad, Niš)
+- **Balkan Countries**: 8 events (Croatia, Bosnia, Montenegro, Albania, North Macedonia, Kosovo)
 
-### **Impacto Educativo Medible**
-- **800 nuevos usuarios ENS** educados sobre tecnología blockchain
-- **800+ subdominios educativos** creados bajo LAT.ETH
-- **Comunidades de aprendizaje blockchain** en Serbia (región piloto)
-- **Modelo educativo replicable** para expansión a 6 países balcánicos adicionales
-- **Red de educación web3 regional** a través de los Balcanes
+### **Event Format (250 participants/event)**
+1. **Cultural Engagement** (30 min)
+   - Latin dance warm-up (salsa, bachata, merengue, reggaetón)
+   - Community building and ice-breaking activities
 
----
+2. **Blockchain Education** (60 min)
+   - Introduction to Ethereum and blockchain technology
+   - ENS domains and their educational potential
+   - Wallet setup and security best practices
+   - Hands-on subdomain claiming (.lat.eth)
 
-## 🤝 **Se Solicita Retroalimentación de la Comunidad**
+3. **Practical Application** (30 min)
+   - Individual wallet creation assistance
+   - Subdomain claiming with gas fee coverage
+   - POAP minting for educational participation
 
-### **Preguntas para la Comunidad ENS DAO:**
-1. **Enfoque Educativo**: ¿El enfoque educativo se alinea con los valores del ENS DAO?
-2. **Financiación Progresiva**: ¿El sistema de desbloqueo basado en hitos es apropiado?
-3. **Escala e Impacto**: ¿Son 800 Latin Lovers educados en Serbia una contribución significativa?
-4. **Estrategia Regional**: ¿El enfoque Serbia-primero con expansión balcánica tiene sentido?
-5. **Compromiso Cultural**: ¿Cómo podemos usar mejor las actividades culturales para atraer a los Latin Lovers?
-6. **Cronograma de Expansión**: ¿Cuál es el cronograma ideal para expandir a otros países balcánicos?
-
----
-
-## 📚 **Complete Documentation**
-
-### **Repository**: https://github.com/imrulo/lat.eth
-
-**Essential Documents:**
-- **Main Proposal**: `/docs/main-proposal.md` - Complete educational grant application
-- **Budget Details**: `/budgets/detailed-budget.md` - 15,000 USDC breakdown
-- **Replicable Model**: `/docs/replicable-pilot-model.md` - Serbia pilot with Balkan expansion
-- **Visual Diagrams**: `/visuals/project-diagrams.md` - Mermaid diagrams for all aspects
+4. **Community Building** (30 min)
+   - Q&A session and continued learning
+   - Community formation and future engagement
+   - Next steps and ongoing education
 
 ---
 
-## 📞 **Contacto y Próximos Pasos**
+## 🌍 **LAT.ETH: Educational Gateway**
 
-**Iniciativa**: LAT.ETH Educational Initiative
-**Líder**: imrulo.eth (Rulán Ferrales)
-**Repositorio**: https://github.com/imrulo/lat.eth
+**LAT.ETH serves as an educational tool that:**
+- **Makes blockchain accessible**: Easy-to-understand domain structure
+- **Creates learning opportunities**: Hands-on experience with ENS technology
+- **Builds community**: Shared cultural experiences around technology
+- **Enables practical learning**: Real-world application of web3 concepts
+- **Fosters engagement**: Cultural activities as learning catalysts
 
-**Listo para proceder con propuesta formal basada en retroalimentación de la comunidad.**
+### **Educational Benefits**
+- **12,000 Latin Lovers** educated in blockchain and ENS
+- **12,000+ ENS subdomains** created (1:1 ratio with participants)
+- **10,200 wallets** successfully created (85% success rate)
+- **10,800 participants** with blockchain understanding (90% success rate)
+- **48 educational workshops** across the region
+- **Scalable model** for replication worldwide
 
 ---
 
-**🎓 "Avanzando en la Adopción de ENS a través de la Educación Blockchain - Comenzando con Serbia"**
+## 🎯 **ENS DAO Alignment**
+
+### **Direct ENS Adoption**
+- **12,000 new ENS users** through educational workshops
+- **12,000+ subdomain claims** (.lat.eth)
+- **10,200 active wallets** with ENS integration
+- **Educational content** promoting ENS technology
+
+### **Community Building**
+- **Latin Lovers community** engaged with ENS ecosystem
+- **Educational resources** for continued learning
+- **Cultural engagement** as gateway to web3 adoption
+- **Regional expansion** model for other communities
+
+### **Innovation & Education**
+- **First cultural-educational approach** to ENS adoption
+- **Scalable model** for other regions and communities
+- **Educational methodology** combining culture and technology
+- **Community-driven learning** approach
 
 ---
 
-*Esta propuesta representa un enfoque revolucionario para la educación blockchain que combina actividades culturales atractivas con aprendizaje web3 integral para avanzar en la adopción de ENS a través de los Balcanes, comenzando con Serbia como nuestra región piloto.*
+## 🚀 **Expansion Strategy**
+
+### **Phase 1: Serbia Pilot (Months 1-12)**
+- **40 events** in major Serbian cities
+- **10,000 participants** educated
+- **Model validation** and refinement
+
+### **Phase 2: Balkan Expansion (Months 7-12)**
+- **8 events** in other Balkan countries
+- **2,000 additional participants**
+- **Regional network** establishment
+
+### **Phase 3: International Scale (Year 2+)**
+- **Replicable model** for other regions
+- **Global expansion** strategy
+- **Educational methodology** sharing
+
+---
+
+## 📊 **Success Metrics**
+
+### **Educational Impact**
+- **12,000 Latin Lovers** educated in blockchain technology
+- **90% understanding rate** of basic blockchain concepts
+- **85% wallet creation success** rate
+- **48 educational workshops** completed
+
+### **ENS Adoption**
+- **12,000+ ENS subdomains** claimed
+- **10,200 active wallets** with ENS integration
+- **Community engagement** in ENS ecosystem
+- **Educational content** promoting ENS technology
+
+### **Community Building**
+- **Active learning communities** established
+- **Cultural-educational model** validated
+- **Scalable methodology** developed
+- **Regional network** formed
+
+---
+
+## 🤝 **Community Feedback**
+
+### **Questions for ENS DAO Community**
+1. **Educational Approach**: Does the cultural-educational model align with ENS DAO's vision?
+2. **Budget Allocation**: Is the 15,000 USDC request reasonable for the proposed impact?
+3. **Expansion Strategy**: Should we focus on Serbia first or include Balkan expansion from the start?
+4. **POAP Integration**: How can we best use POAPs for educational recognition?
+5. **Community Building**: What additional resources would help build sustainable learning communities?
+
+### **Feedback Channels**
+- **GitHub Issues**: [github.com/imrulo/lat.eth/issues](https://github.com/imrulo/lat.eth/issues)
+- **ENS DAO Forum**: [discourse.ens.domains](https://discourse.ens.domains)
+- **Direct Contact**: imrulo.eth
+
+---
+
+## 🎯 **Next Steps**
+
+1. **Community Feedback**: Gather input from ENS DAO community
+2. **Proposal Refinement**: Incorporate feedback into final proposal
+3. **Grant Application**: Submit formal application to ENS DAO
+4. **Project Launch**: Begin educational workshops in Serbia
+5. **Expansion Planning**: Prepare for Balkan and international expansion
+
+---
+
+**Ready to advance ENS adoption through education?** 🚀
+
+[View Complete Proposal](docs/main-proposal.md) | [Check Budget Details](budgets/detailed-budget.md) | [See Interactive Visuals](visuals/)

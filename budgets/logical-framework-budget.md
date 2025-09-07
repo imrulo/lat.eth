@@ -1,236 +1,157 @@
-# Matriz de Marco Lógico - Estructura de Fondos
-## Propuesta de Grant ENS Livadance - Iniciativa Educativa LAT.ETH
+# Logical Framework Matrix - Fund Structure
+## ENS Grant Proposal Livadance - LAT.ETH Educational Initiative
 
-**Enfoque:** Matriz de Marco Lógico para gestión de fondos  
-**Proyecto:** Iniciativa Educativa LAT.ETH  
-**Duración:** 12 meses  
-**Presupuesto Total:** 15,000 USDC  
+**Focus:** Logical Framework Matrix for fund management  
+**Project:** LAT.ETH Educational Initiative  
+**Duration:** 12 months  
+**Total Budget:** 15,000 USDC  
 
 ---
 
 ## Logical Framework Structure
 
-### Nivel 1: OBJETIVO (Objetivo de Desarrollo)
-**Avanzar en la adopción de ENS y educación blockchain en Serbia y los Balcanes**
+### Level 1: GOAL (Development Objective)
+**Advance ENS adoption and blockchain education in Serbia and the Balkans**
 
-| Componente | Indicador | Meta | Fuente de Verificación | Fondos Asignados |
-|------------|-----------|------|----------------------|------------------|
-| **Impacto Educativo** | % de Latin Lovers que entienden conceptos básicos de blockchain | 90% | Evaluaciones pre/post evento | 2,250 USDC (15%) |
-| **Adopción ENS** | Nuevos usuarios ENS con subdominios LAT.ETH | 800 usuarios | Registro blockchain + POAPs | 3,000 USDC (20%) |
-| **Impacto Comunitario** | Comunidades web3 activas establecidas | 5 comunidades | Métricas Discord + eventos | 1,500 USDC (10%) |
+| Component | Indicator | Target | Verification Source | Funds Allocated |
+|-----------|-----------|--------|-------------------|-----------------|
+| **Educational Impact** | % of Latin Lovers who understand basic blockchain concepts | 90% | Pre/post event evaluations | 2,250 USDC (15%) |
+| **ENS Adoption** | New ENS users with LAT.ETH subdomains | 12,000 users | Blockchain registry + POAPs | 3,000 USDC (20%) |
+| **Community Impact** | Active web3 communities established | 5 communities | Discord metrics + events | 1,500 USDC (10%) |
 
-**Total Nivel OBJETIVO: 4,500 USDC (30%)**
+### Level 2: PURPOSE (Project Objective)
+**Create a sustainable educational model for ENS onboarding using cultural engagement**
 
----
+| Component | Indicator | Target | Verification Source | Funds Allocated |
+|-----------|-----------|--------|-------------------|-----------------|
+| **Educational Model** | Replicable methodology developed | 1 model | Documentation + training | 2,100 USDC (14%) |
+| **Cultural Integration** | Events combining culture and education | 48 events | Event reports + attendance | 3,000 USDC (20%) |
+| **Technology Adoption** | Wallets created successfully | 10,200 wallets | Blockchain verification | 1,800 USDC (12%) |
 
-### Nivel 2: PROPÓSITO (Objetivo del Proyecto)
-**Crear un modelo educativo sostenible para onboarding ENS usando compromiso cultural**
+### Level 3: COMPONENTS (Products/Results)
+**Educational infrastructure, specialized personnel, ENS technology and marketing**
 
-| Componente | Indicador | Meta | Fuente de Verificación | Fondos Asignados |
-|------------|-----------|------|----------------------|------------------|
-| **Personal Especializado** | Instructores de baile y educador ENS | 3 instructores + imrulo.eth | Contratos y certificaciones | 4,500 USDC (30%) |
-| **Onboarding Técnico** | Tasa de éxito en creación de wallets | 85% | Métricas técnicas + soporte | Incluido en personal |
-| **Educación Blockchain** | Comprensión básica de ENS post-evento | 80% | Evaluaciones de conocimiento | Incluido en personal |
+| Component | Indicator | Target | Verification Source | Funds Allocated |
+|-----------|-----------|--------|-------------------|-----------------|
+| **Educational Infrastructure** | Venues and equipment operational | 48 events | Event reports | 3,750 USDC (25%) |
+| **Specialized Personnel** | Instructors trained and effective | 4 instructors | Performance evaluations | 6,000 USDC (40%) |
+| **ENS Technology** | Subdomain claiming system | 12,000 subdomains | Blockchain registry | 3,000 USDC (20%) |
+| **Marketing** | Community engagement campaigns | 5 campaigns | Reach metrics | 2,250 USDC (15%) |
 
-**Total Nivel PROPÓSITO: 4,500 USDC (30%)**
+### Level 4: ACTIVITIES (Specific Tasks)
+**Detailed breakdown of all project activities**
 
----
-
-### Nivel 3: COMPONENTES (Productos/Resultados)
-**Actividades específicas que generan productos del proyecto**
-
-#### Componente 1: Logística de Eventos
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Alquiler de Venues** | Eventos realizados en espacios culturales | 20 eventos | 6,000 USDC |
-
-#### Componente 2: Equipamiento Móvil y Transporte
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Sistema de Sonido Móvil** | Equipamiento portátil profesional | 100% funcional | 2,250 USDC |
-| **Transporte y Logística** | Vehículo, combustible, estacionamiento | 20 eventos | Incluido en equipamiento |
-| **Refrigerios y Suministros** | Comodidad de participantes | 800+ Latin Lovers | Incluido en equipamiento |
-
-#### Componente 3: Marketing y Alcance
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Marketing Digital** | Campañas de redes sociales | 10,000+ alcance | 1,500 USDC |
-
-#### Componente 4: Administración y Gestión de Proyecto
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Gestión de Proyecto** | Coordinación y reportes | 5 meses | 1,500 USDC |
-
-#### Componente 5: Tecnología ENS y Tarifas de Gas
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Dominio LAT.ETH** | Configuración y mantenimiento | 1 dominio activo | 1,090 USDC |
-| **Tarifas de Gas** | Transacciones GRATUITAS de subdominios | 800+ transacciones | Incluido en dominio |
-
-#### Componente 6: Fondo de Contingencia y Emergencia
-| Actividad | Indicador | Meta | Fondos Asignados |
-|-----------|-----------|------|------------------|
-| **Fondo de Emergencia** | Contingencias y reparaciones | 100% cobertura | 860 USDC |
-
-**Total Nivel COMPONENTES: 6,000 USDC (40%)**
+| Activity | Indicator | Target | Verification Source | Funds Allocated |
+|----------|-----------|--------|-------------------|-----------------|
+| **Event Planning** | Workshops scheduled and executed | 48 events | Event calendar + reports | 1,200 USDC (8%) |
+| **Educational Delivery** | Participants educated | 12,000 participants | Attendance records | 4,800 USDC (32%) |
+| **Cultural Activities** | Dance sessions conducted | 48 sessions | Event reports | 2,400 USDC (16%) |
+| **Technology Integration** | Subdomains claimed | 12,000 subdomains | Blockchain verification | 2,400 USDC (16%) |
+| **Community Building** | Communities established | 5 communities | Community metrics | 1,200 USDC (8%) |
+| **Marketing** | Outreach campaigns | 5 campaigns | Reach metrics | 1,200 USDC (8%) |
+| **Administration** | Project management | 12 months | Progress reports | 1,800 USDC (12%) |
 
 ---
 
-### Nivel 4: ACTIVIDADES (Tareas Específicas)
-**Desglose detallado de todas las actividades del proyecto**
+## Funding Structure
 
-#### Actividades de Preparación (Mes 1)
-| Actividad | Responsable | Duración | Costo | Indicador de Éxito |
-|-----------|-------------|----------|-------|-------------------|
-| **Contratación de Personal** | Gerente de Proyecto | 2 semanas | 500 USDC | 100% del equipo contratado |
-| **Alianzas Estratégicas** | Coordinador Cultural | 3 semanas | 300 USDC | 5+ alianzas confirmadas |
-| **Desarrollo de Materiales** | Especialista ENS | 4 semanas | 400 USDC | Materiales listos para impresión |
-| **Reserva de Venues** | Coordinador de Logística | 2 semanas | 200 USDC | 20 venues confirmados |
+### Progressive Funding Unlock
+| Milestone | Events | Participants | Funding Unlock | Cumulative |
+|-----------|--------|--------------|----------------|------------|
+| **Month 3** | 12 events | 3,000 educated | 3,000 USDC | 3,000 USDC |
+| **Month 6** | 24 events | 6,000 educated | 3,000 USDC | 6,000 USDC |
+| **Month 9** | 36 events | 9,000 educated | 3,000 USDC | 9,000 USDC |
+| **Month 12** | 48 events | 12,000 educated | 6,000 USDC | 15,000 USDC |
 
-#### Actividades de Ejecución (Meses 2-5)
-| Actividad | Responsable | Frecuencia | Costo | Indicador de Éxito |
-|-----------|-------------|------------|-------|-------------------|
-| **Talleres de Baile** | Instructor Principal | 4 eventos/mes | 2,000 USDC/mes | 40+ Latin Lovers/evento |
-| **Onboarding ENS** | Especialista Técnico | 4 eventos/mes | 800 USDC/mes | 80%+ éxito en creación de wallets |
-| **Soporte Cultural** | Coordinador Cultural | 4 eventos/mes | 600 USDC/mes | 90%+ satisfacción cultural |
-| **Documentación** | Gerente de Proyecto | Continuo | 200 USDC/mes | Reportes mensuales completos |
-
-#### Actividades de Evaluación (Mes 5)
-| Actividad | Responsable | Duración | Costo | Indicador de Éxito |
-|-----------|-------------|----------|-------|-------------------|
-| **Evaluación de Impacto** | Equipo Completo | 2 semanas | 500 USDC | Reporte final completo |
-| **Análisis de Métricas** | Especialista ENS | 1 semana | 200 USDC | Dashboard de métricas |
-| **Plan de Sostenibilidad** | Gerente de Proyecto | 1 semana | 300 USDC | Plan de continuidad |
+### Fund Allocation by Component
+| Component | Amount | Percentage | Purpose |
+|-----------|--------|------------|---------|
+| **Educational Infrastructure** | 3,750 USDC | 25% | Venues, equipment, technology |
+| **Specialized Personnel** | 6,000 USDC | 40% | Instructors, support staff |
+| **ENS Technology** | 3,000 USDC | 20% | Subdomain claiming, POAPs |
+| **Marketing & Outreach** | 2,250 USDC | 15% | Community engagement, campaigns |
 
 ---
 
-## Estructura de Financiación del Marco Lógico
+## Indicators and Funds Matrix
 
-### Financiación Progresiva por Niveles
+### Quantitative Indicators
+| Indicator | Target | Measurement | Funds Tied |
+|-----------|--------|-------------|------------|
+| **Participants Educated** | 12,000 | Attendance records | 4,800 USDC |
+| **ENS Subdomains Created** | 12,000 | Blockchain registry | 3,000 USDC |
+| **Wallets Created** | 10,200 | Wallet verification | 1,800 USDC |
+| **Events Completed** | 48 | Event reports | 1,200 USDC |
 
-#### Nivel OBJETIVO (30% - 4,500 USDC)
-- **Desbloqueo:** Al completar 90% de los objetivos educativos
-- **Indicadores Clave:** 
-  - 720+ Latin Lovers con comprensión de blockchain
-  - 720+ subdominios LAT.ETH creados
-  - 4+ comunidades web3 activas
-
-#### Nivel PROPÓSITO (30% - 4,500 USDC)
-- **Desbloqueo:** Al completar 80% de eventos y onboarding
-- **Indicadores Clave:**
-  - 16+ eventos completados
-  - 640+ wallets creados exitosamente
-  - 80%+ comprensión de ENS
-
-#### Nivel COMPONENTES (40% - 6,000 USDC)
-- **Desbloqueo:** Al completar infraestructura y personal
-- **Indicadores Clave:**
-  - 100% del equipo contratado
-  - 100% de venues confirmados
-  - 100% de materiales desarrollados
+### Qualitative Indicators
+| Indicator | Target | Measurement | Funds Tied |
+|-----------|--------|-------------|------------|
+| **Educational Understanding** | 90% | Pre/post evaluations | 2,250 USDC |
+| **Community Engagement** | Active | Community metrics | 1,500 USDC |
+| **Cultural Integration** | Successful | Event feedback | 2,400 USDC |
+| **Technology Adoption** | 85% | Usage statistics | 1,800 USDC |
 
 ---
 
-## Matriz de Indicadores y Fondos
+## Risk Management
 
-### Indicadores Cuantitativos
-| Indicador | Línea Base | Meta | Fondos Vinculados | Frecuencia de Medición |
-|-----------|------------|------|-------------------|----------------------|
-| **Total de Participantes** | 0 | 800 | 3,000 USDC | Mensual |
-| **Subdominios LAT.ETH** | 0 | 800 | 2,250 USDC | Por evento |
-| **Eventos Completados** | 0 | 20 | 6,000 USDC | Mensual |
-| **Wallets Creados** | 0 | 680 | 1,500 USDC | Por evento |
-| **POAPs Distribuidos** | 0 | 800 | 750 USDC | Por evento |
+### Financial Risks
+- **Budget overrun**: Contingency fund (1,350 USDC)
+- **Low participation**: Marketing adjustment
+- **Technical issues**: Support fund allocation
 
-### Indicadores Cualitativos
-| Indicador | Método de Medición | Fondos Vinculados | Frecuencia |
-|-----------|-------------------|-------------------|-----------|
-| **Satisfacción Cultural** | Encuestas NPS | 1,500 USDC | Post-evento |
-| **Comprensión ENS** | Evaluaciones | 1,500 USDC | Post-evento |
-| **Comprensión Blockchain** | Entrevistas | 2,250 USDC | Final del proyecto |
-| **Impacto Comunitario** | Grupos Focales | 1,500 USDC | Mensual |
+### Mitigation Strategies
+- **Regular monitoring** of fund utilization
+- **Flexible allocation** based on performance
+- **Community feedback** integration
+- **Transparent reporting** to stakeholders
 
 ---
 
-## Gestión de Riesgos por Marco Lógico
+## Disbursement Schedule
 
-### Riesgos Nivel OBJETIVO
-| Riesgo | Probabilidad | Impacto | Mitigación | Fondos de Contingencia |
-|--------|--------------|---------|------------|----------------------|
-| **Baja Adopción Cultural** | Medio | Alto | Marketing cultural intensivo | 500 USDC |
-| **Resistencia Tecnológica** | Bajo | Medio | Soporte técnico bilingüe | 300 USDC |
+### Quarterly Disbursements
+| Quarter | Events | Participants | Amount | Purpose |
+|---------|--------|--------------|--------|---------|
+| **Q1** | 12 events | 3,000 | 3,000 USDC | Foundation and initial events |
+| **Q2** | 24 events | 6,000 | 3,000 USDC | Expansion and growth |
+| **Q3** | 36 events | 9,000 | 3,000 USDC | Regional expansion |
+| **Q4** | 48 events | 12,000 | 6,000 USDC | Completion and scaling |
 
-### Riesgos Nivel PROPÓSITO
-| Riesgo | Probabilidad | Impacto | Mitigación | Fondos de Contingencia |
-|--------|--------------|---------|------------|----------------------|
-| **Baja Asistencia** | Medio | Alto | Alianzas estratégicas | 400 USDC |
-| **Problemas Técnicos** | Bajo | Medio | Infraestructura redundante | 200 USDC |
-
-### Riesgos Nivel COMPONENTES
-| Riesgo | Probabilidad | Impacto | Mitigación | Fondos de Contingencia |
-|--------|--------------|---------|------------|----------------------|
-| **Disponibilidad de Personal** | Bajo | Medio | Contratos anticipados | 300 USDC |
-| **Problemas de Venues** | Medio | Medio | Venues de respaldo | 200 USDC |
-
-**Total Fondos de Contingencia: 1,900 USDC (12.7%)**
+### Monthly Reporting
+- **Financial utilization** reports
+- **Educational progress** metrics
+- **Community engagement** statistics
+- **Technology adoption** rates
 
 ---
 
-## Cronograma de Desembolso
+## Responsibility Matrix
 
-### Mes 1: Infraestructura (3,000 USDC)
-- Personal y contratación: 1,200 USDC
-- Venues y equipamiento: 1,500 USDC
-- Materiales y desarrollo: 300 USDC
+### Project Lead (imrulo.eth)
+- **Overall project management**
+- **Fund allocation oversight**
+- **Community engagement**
+- **Educational content development**
 
-### Mes 2: Primeros Eventos (3,000 USDC)
-- Eventos 1-4: 2,000 USDC
-- Marketing inicial: 500 USDC
-- Soporte técnico: 500 USDC
+### Livadance DOO
+- **Event execution**
+- **Instructor management**
+- **Venue coordination**
+- **Administrative support**
 
-### Mes 3: Escalamiento (3,000 USDC)
-- Eventos 5-8: 2,000 USDC
-- Expansión de marketing: 500 USDC
-- Optimización de procesos: 500 USDC
-
-### Mes 4: Consolidación (3,000 USDC)
-- Eventos 9-12: 2,000 USDC
-- Marketing avanzado: 500 USDC
-- Desarrollo comunitario: 500 USDC
-
-### Mes 5: Finalización (3,000 USDC)
-- Eventos 13-20: 2,000 USDC
-- Evaluación y reportes: 500 USDC
-- Plan de sostenibilidad: 500 USDC
+### ENS DAO Community
+- **Progress monitoring**
+- **Feedback provision**
+- **Community support**
+- **Knowledge sharing**
 
 ---
 
-## Matriz de Responsabilidades
+## Conclusions
 
-### Responsabilidades por Nivel
-| Nivel | Responsable Principal | Responsable Técnico | Responsable Financiero |
-|-------|----------------------|---------------------|----------------------|
-| **OBJETIVO** | Gerente de Proyecto | Especialista ENS | Coordinador Financiero |
-| **PROPÓSITO** | Coordinador Cultural | Especialista Técnico | Gerente de Proyecto |
-| **COMPONENTES** | Coordinador de Logística | Especialista ENS | Coordinador Financiero |
-| **ACTIVIDADES** | Equipo Operativo | Soporte Técnico | Gerente de Proyecto |
+This Logical Framework Matrix provides a comprehensive structure for managing the LAT.ETH Educational Initiative funds, ensuring accountability, transparency, and educational impact. The progressive funding system aligns with educational milestones while the detailed breakdown enables effective resource allocation.
 
----
+**Ready to advance ENS adoption through education?** 🚀
 
-## Conclusiones del Marco Lógico
-
-### Ventajas de esta Estructura
-1. **Claridad de Objetivos:** Cada nivel tiene indicadores específicos y medibles
-2. **Gestión de Riesgos:** Fondos de contingencia distribuidos por nivel de riesgo
-3. **Responsabilidad:** Matriz de responsabilidades clara por nivel
-4. **Flexibilidad:** Estructura adaptable a cambios del proyecto
-5. **Transparencia:** Indicadores claros para evaluación continua
-
-### Beneficios de Implementación
-- **Gestión Profesional de Proyectos:** Enfoque estructurado para asignación de fondos
-- **Preservación de la Misión Educativa:** Cada USDC contribuye a la educación blockchain
-- **Excelencia Técnica:** Integración ENS con actividades culturales
-- **Modelo Escalable:** Marco aplicable a otras regiones y comunidades
-- **Preparación para Grants:** Estructura profesional adecuada para evaluación internacional
-
-**Presupuesto Total del Proyecto: 15,000 USDC - Implementación Completa del Marco Lógico**
+[View Main Proposal](docs/main-proposal.md) | [See Interactive Visuals](visuals/) | [Check Project Overview](docs/project-overview.md)

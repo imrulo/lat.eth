@@ -1,12 +1,12 @@
 # LAT.ETH Educational Initiative - ENS Grant Proposal
-## Avanzando en la Adopción de ENS a través de Eventos de Baile Educativos
+## Advancing ENS Adoption Through Educational Dance Events
 
-**Enviado por:** Livadance DOO, Serbia  
-**Programa de Grant:** ENS DAO Small Grants  
-**Cantidad Solicitada:** 15,000 USDC  
-**Duración del Proyecto:** 12 meses  
-**Marco:** Logical Framework Matrix  
-**Fecha de Envío:** [Por completar]
+**Submitted by:** Livadance DOO, Serbia  
+**Grant Program:** ENS DAO Small Grants  
+**Amount Requested:** 15,000 USDC  
+**Project Duration:** 12 months  
+**Framework:** Logical Framework Matrix  
+**Submission Date:** [To be completed]
 
 ## Logical Framework Structure
 
@@ -19,353 +19,283 @@ This project is structured following the **Logical Framework Matrix** methodolog
 
 ---
 
-## Resumen Ejecutivo
+## Executive Summary
 
-Livadance DOO propone organizar **20 talleres educativos** en Serbia durante 5 meses, combinando **educación blockchain con eventos de baile latino** como herramienta de compromiso para introducir a los Latin Lovers al ecosistema ENS. Esta iniciativa utiliza el atractivo universal del baile latino (salsa, reggaetón, bachata, merengue) como **gancho cultural para atraer a los Latin Lovers** a sesiones educativas sobre Ethereum, tecnología blockchain, dominios ENS y wallets descentralizados. El objetivo principal es **educativo**: enseñar a los Latin Lovers sobre tecnología web3, con el baile sirviendo como punto de entrada atractivo.
+Livadance DOO proposes organizing **48 educational workshops** in Serbia and Balkan countries over 12 months, combining **blockchain education with Latin dance events** as an engagement tool to introduce Latin Lovers to the ENS ecosystem. This initiative uses the universal appeal of Latin dance (salsa, reggaetón, bachata, merengue) as a **cultural hook to attract Latin Lovers** to educational sessions about Ethereum, blockchain technology, ENS domains, and decentralized wallets. The main objective is **educational**: teaching Latin Lovers about web3 technology, with dance serving as an attractive entry point.
 
-**Impacto Educativo Clave:**
-- **800 nuevos usuarios ENS** educados sobre tecnología blockchain
-- **800+ subdominios ENS** creados bajo LAT.ETH (ej., maria.lat.eth, carlos.lat.eth)
-- **Tokens de reconocimiento POAP** celebrando la participación educativa
-- **Desbloqueo de financiación progresivo** basado en logros de hitos educativos
-- **Educación blockchain** entregada a través de actividades culturales atractivas
+**Key Educational Impact:**
+- **12,000 new ENS users** educated about blockchain technology
+- **12,000+ ENS subdomains** created under LAT.ETH (e.g., maria.lat.eth, carlos.lat.eth)
+- **POAP recognition tokens** celebrating educational participation
+- **Progressive funding unlock** based on educational milestone achievements
+- **Blockchain education** delivered through engaging cultural activities
 
-**Por qué LAT.ETH como Herramienta Educativa:**
-LAT.ETH sirve como una **puerta de entrada educativa** que hace la tecnología blockchain accesible y memorable. Cuando alguien reclama `maria.lat.eth`, no solo está obteniendo una identidad web3 - está **aprendiendo sobre tecnología blockchain** a través de una experiencia práctica y atractiva que combina educación con actividades culturales.
-
----
-
-## 1. Antecedentes del Proyecto y Misión Educativa
-
-### Acerca de Livadance DOO
-Livadance DOO es una entidad registrada en Serbia especializada en eventos educativos y culturales, con experiencia en instrucción de baile latino y compromiso comunitario. Nuestra misión es **avanzar en la educación blockchain** mientras aprovechamos las actividades culturales para hacer el aprendizaje atractivo y accesible.
-
-### Por qué Existe Este Proyecto: Innovación Educativa a través del Compromiso Cultural
-Este no es solo otro proyecto de onboarding de ENS. Esta es una **iniciativa educativa** que utiliza actividades culturales para:
-- **Enseñar tecnología blockchain** de manera accesible y atractiva
-- **Avanzar en la adopción de ENS** a través de experiencias de aprendizaje prácticas
-- **Conectar a los Latin Lovers** con la tecnología web3 a través de actividades culturales familiares
-- **Crear espacios educativos** para el aprendizaje blockchain
-- **Hacer la tecnología web3 accesible** a audiencias más amplias
-
-### ¿Por qué Serbia como Ubicación Piloto?
-Serbia representa una ubicación ideal para esta **iniciativa educativa blockchain** debido a:
-- **Marco Legal**: La Ley de Activos Digitales de 2021 apoya la innovación blockchain
-- **Escena Tecnológica en Crecimiento**: Interés creciente en tecnologías blockchain y web3
-- **Infraestructura Educativa**: Universidades e instituciones culturales abiertas a la innovación
-- **Diversidad Cultural**: Fuerte comunidad internacional interesada en aprender
-- **Alineación UE**: Posición estratégica para escalar a países balcánicos vecinos
-- **Modelo Replicable**: Tamaño perfecto para probar y refinar el enfoque educativo
+**Why LAT.ETH as Educational Tool:**
+LAT.ETH serves as an **educational gateway** that makes blockchain technology accessible and memorable. When someone claims `maria.lat.eth`, they're not just getting a web3 identity - they're **learning about blockchain technology** through a hands-on and engaging experience that combines education with cultural activities.
 
 ---
 
-## 2. Project Objectives & Educational Mission - Logical Framework
+## 1. Project Background and Educational Mission
 
-### NIVEL OBJETIVO: Objetivo de Desarrollo
-**Avanzar en la adopción de ENS y educación blockchain en Serbia y los Balcanes**
+### About Livadance DOO
+Livadance DOO is a registered entity in Serbia specializing in educational and cultural events, with expertise in Latin dance instruction and community engagement. Our mission is to **advance blockchain education** while leveraging cultural activities to make learning engaging and accessible.
 
-| Componente | Indicador | Meta | Fuente de Verificación |
-|------------|-----------|------|----------------------|
-| **Impacto Educativo** | % de Latin Lovers que entienden conceptos básicos de blockchain | 90% | Evaluaciones pre/post evento |
-| **Adopción ENS** | Nuevos usuarios con subdominios LAT.ETH | 800 usuarios | Registro blockchain + POAPs |
-| **Impacto Comunitario** | Comunidades web3 activas establecidas | 5 comunidades | Métricas Discord + eventos |
+### Why This Project Exists: Educational Innovation Through Cultural Engagement
+This is not just another ENS onboarding project. This is an **educational initiative** that uses cultural activities to:
+- **Teach blockchain technology** in an accessible and engaging way
+- **Advance ENS adoption** through hands-on learning experiences
+- **Connect Latin Lovers** with web3 technology through familiar cultural activities
+- **Create educational spaces** for blockchain learning
+- **Make web3 technology accessible** to broader audiences
 
-### NIVEL PROPÓSITO: Objetivo del Proyecto
-**Crear un modelo educativo sostenible para onboarding ENS usando compromiso cultural**
-
-| Componente | Indicador | Meta | Fuente de Verificación |
-|------------|-----------|------|----------------------|
-| **Eventos Educativos** | Talleres de baile con educación blockchain | 20 eventos | Registro de eventos + asistencia |
-| **Onboarding Técnico** | Tasa de éxito en creación de wallets | 85% | Métricas técnicas + soporte |
-| **Educación Blockchain** | Comprensión básica de ENS | 80% | Evaluaciones de conocimiento |
-
-### NIVEL COMPONENTES: Productos/Resultados
-**Infraestructura educativa, personal especializado, tecnología ENS y marketing**
-
-| Componente | Indicador | Meta | Fuente de Verificación |
-|------------|-----------|------|----------------------|
-| **Infraestructura Educativa** | Venues operativos y equipamiento | 100% | Contratos y verificaciones |
-| **Personal Especializado** | Equipo contratado y entrenado | 100% | Contratos y certificaciones |
-| **Tecnología ENS** | Sistemas blockchain operativos | 100% | Pruebas técnicas |
-| **Marketing Educativo** | Campañas y materiales producidos | 100% | Materiales y métricas |
-
-### Por qué LAT.ETH como Puerta de Entrada Educativa
-**LAT.ETH sirve como una herramienta educativa que:**
-- **Hace blockchain accesible**: Estructura de dominio fácil de entender
-- **Proporciona aprendizaje práctico**: Interacción directa con la tecnología ENS
-- **Crea experiencias memorables**: Las actividades culturales hacen que el aprendizaje perdure
-- **Construye habilidades prácticas**: Aplicación del mundo real de conceptos web3
-- **Ofrece educación gratuita**: Sin barreras de costo para aprender blockchain
-
-**Cuando alguien reclama `maria.lat.eth`:**
-- Está **aprendiendo sobre tecnología blockchain** a través de experiencia práctica
-- Está **entendiendo los dominios ENS** y sus aplicaciones prácticas
-- Está **adquiriendo habilidades web3** en un ambiente atractivo y de apoyo
-- Está **creando una identidad digital permanente** (sin fecha de expiración)
-- Está **accediendo a educación blockchain gratuita** con compromiso cultural
-
-### Alineación con los Objetivos del ENS DAO
-Este proyecto apoya directamente los objetivos del Public Goods Working Group del ENS DAO a través del **avance educativo**:
-
-- **Onboarding de Usuarios**: Llevando 800 nuevos usuarios al ecosistema ENS a través de la educación
-- **Accesibilidad Global**: Expandiendo la adopción de ENS a regiones subrepresentadas (Balcanes)
-- **Iniciativas Educativas**: Proporcionando experiencias de aprendizaje prácticas con compromiso cultural
-- **Crecimiento del Ecosistema**: Construyendo comunidades ENS sostenibles a través de la educación
-- **Innovación**: Creando modelos educativos replicables para otras regiones
+### Educational Mission Statement
+**LAT.ETH Educational Initiative** is committed to advancing ENS adoption through blockchain education, using engaging cultural activities to make web3 technology accessible to Latin Lovers in Serbia and the Balkans. We believe that education is the key to adoption, and culture is the gateway to learning.
 
 ---
 
-## 3. Project Activities & Educational Implementation - Logical Framework
+## 2. Why Serbia as Pilot Location?
 
-### ACTIVITIES LEVEL: Specific Project Tasks
+### Strategic Educational Advantages
+- **Growing tech community** with interest in blockchain education
+- **Cultural diversity** providing access to Latin Lovers from various backgrounds
+- **Central Balkan location** for regional expansion
+- **Educational infrastructure** supporting learning initiatives
+- **Community engagement** potential for cultural-educational activities
 
-#### Preparation Activities (Month 1)
-| Activity | Responsible | Duration | Success Indicator |
-|----------|-------------|----------|-------------------|
-| **Personnel Hiring** | Project Manager | 2 weeks | 100% of team hired |
-| **Strategic Alliances** | Cultural Coordinator | 3 weeks | 5+ alliances confirmed |
-| **Material Development** | ENS Specialist | 4 weeks | Materials ready for printing |
-| **Venue Reservation** | Logistics Coordinator | 2 weeks | 20 venues confirmed |
+### Target Audience: Latin Lovers
+**Latin Lovers** includes:
+- **Resident Latinos** in Serbia and the Balkans
+- **Local people** who love Latin culture, music, and dance
+- **Foreigners** who are attracted to Latin energy and culture
+- **Anyone** who wants to learn blockchain through cultural engagement
 
-#### Execution Activities (Months 2-5)
-| Activity | Responsible | Frequency | Success Indicator |
-|----------|-------------|-----------|-------------------|
-| **Dance Workshops** | Lead Instructor | 4 events/month | 50+ participants/event |
-| **ENS Onboarding** | Technical Specialist | 4 events/month | 80%+ success in wallet creation |
-| **Cultural Support** | Cultural Coordinator | 4 events/month | 90%+ cultural satisfaction |
-| **Documentation** | Project Manager | Continuous | Complete monthly reports |
-
-#### Evaluation Activities (Month 5)
-| Activity | Responsible | Duration | Success Indicator |
-|----------|-------------|----------|-------------------|
-| **Impact Evaluation** | Complete Team | 2 weeks | Complete final report |
-| **Metrics Analysis** | ENS Specialist | 1 week | Metrics dashboard |
-| **Sustainability Plan** | Project Manager | 1 week | Continuity plan |
-
-### Event Structure: Educational Gateway Through Cultural Engagement
-Each workshop will follow this 3-hour format designed to **teach blockchain technology through engaging activities**:
-
-**Hour 1: Cultural Engagement (60 minutes)**
-- **Salsa, reggaetón, bachata, merengue** - engaging cultural activities to attract participants
-- **Community building** and social interaction
-- **Ice-breaking activities** to create comfortable learning environment
-- **Cultural appreciation** as a bridge to technology education
-
-**Hour 2: Blockchain Education (60 minutes)**
-- **Blockchain basics** explained in accessible language
-- **ENS ecosystem** introduction and practical applications
-- **LAT.ETH domain** as an educational tool for learning web3
-- **Live demonstration** of ENS technology and subdomain creation
-
-**Hour 3: Hands-on Learning (60 minutes)**
-- **Wallet setup assistance** for practical blockchain experience
-- **Subdomain claiming** under LAT.ETH (e.g., maria.lat.eth, carlos.lat.eth)
-- **POAP recognition** for educational participation
-- **Integration** with web3 applications for continued learning
-
-### Timeline & Educational Milestones - Logical Framework
-
-#### Schedule by Logical Framework Levels
-
-| Mes | Nivel OBJETIVO | Nivel PROPÓSITO | Nivel COMPONENTES | Desbloqueo |
-|-----|----------------|-----------------|-------------------|------------|
-| **Mes 1** | Infraestructura educativa | Preparación de eventos | Personal y venues | 3,000 USDC |
-| **Mes 2** | 160 Latin Lovers educados | 4 eventos completados | Sistemas operativos | 3,000 USDC |
-| **Mes 3** | 320 Latin Lovers educados | 8 eventos completados | Marketing activo | 3,000 USDC |
-| **Mes 4** | 480 Latin Lovers educados | 12 eventos completados | Optimización de procesos | 3,000 USDC |
-| **Mes 5** | 800 Latin Lovers educados | 20 eventos completados | Evaluación final | 3,000 USDC |
-
-#### Indicadores por Nivel
-
-| Nivel | Indicador Principal | Meta Total | Verificación |
-|-------|-------------------|------------|--------------|
-| **OBJETIVO** | Latin Lovers educados en blockchain | 800 | Evaluaciones + POAPs |
-| **PROPÓSITO** | Eventos educativos completados | 20 | Registro de eventos |
-| **COMPONENTES** | Infraestructura operativa | 100% | Contratos + verificaciones |
-| **ACTIVIDADES** | Tareas completadas | 100% | Reportes de progreso |
-
-**Total: 20 eventos, 800 Latin Lovers educados, 15,000 USDC desbloqueo progresivo**
-
-### Ubicaciones Objetivo: Expansión Educativa
-- **Primaria**: Belgrado (16 eventos) - Universidades, centros culturales e instituciones educativas
-- **Secundaria**: Novi Sad (4 eventos) - Universidad e instituciones educativas
-- **Expansión Futura**: Otras ciudades serbias y países balcánicos vecinos
+### Educational Opportunities
+- **Blockchain education** in accessible cultural context
+- **Hands-on learning** with ENS technology
+- **Community building** through shared cultural experiences
+- **Practical application** of web3 concepts
 
 ---
 
-## 4. LAT.ETH: Educational Domain Strategy
+## 3. Logical Framework Objectives
 
-### Why LAT.ETH as Educational Tool
-**LAT.ETH serves as an educational gateway:**
+### GOAL (Development Objective)
+**Advance ENS adoption and blockchain education in Serbia and the Balkans**
 
-1. **Learning Platform**: When someone claims `maria.lat.eth`, they're **learning about blockchain technology**
-2. **Practical Application**: LAT provides **hands-on experience** with ENS domains
-3. **Accessible Education**: It's an **entry point to web3** for beginners
-4. **Permanent Learning**: **No expiration date** - their educational journey continues
-5. **Zero Cost**: **Free blockchain education** - no financial barriers to learning
+### PURPOSE (Project Objective)
+**Create a sustainable educational model for ENS onboarding using cultural engagement**
 
-### Subdomain Examples: Educational Claims
-Participants will claim subdomains that reflect their **learning journey and interests**:
-- **Personal Names**: `maria.lat.eth`, `carlos.lat.eth`, `sofia.lat.eth`
-- **Learning Interests**: `blockchain-learner.lat.eth`, `web3-explorer.lat.eth`
-- **Location Connections**: `belgrade-student.lat.eth`, `serbia-learner.lat.eth`
-- **Educational Goals**: `crypto-curious.lat.eth`, `ens-fan.lat.eth`
+### COMPONENTS (Products/Results)
+1. **Educational Infrastructure**
+   - Workshop venues and equipment
+   - Educational materials and resources
+   - Technology setup for hands-on learning
 
-### Educational Integration
-Each subdomain serves as:
-- **Digital learning portfolio** and blockchain experience
-- **Web3 education** in the blockchain world
-- **Community connection** and continued learning
-- **Educational achievement documentation** and celebration
+2. **Specialized Personnel**
+   - Lead instructor (blockchain education)
+   - Dance instructors (cultural engagement)
+   - Technical support staff
 
----
+3. **ENS Technology Integration**
+   - Subdomain claiming system
+   - Wallet setup assistance
+   - POAP integration for recognition
 
-## 5. Budget & Educational Resource Allocation
+4. **Marketing and Outreach**
+   - Community engagement campaigns
+   - Educational content creation
+   - Social media and digital marketing
 
-### Estructura de Financiación Progresiva
-**Solicitud Total: 15,000 USDC (Desbloqueo de Hitos Educativos)**
+### ACTIVITIES (Specific Tasks)
+1. **Event Planning and Execution**
+   - Monthly workshop scheduling
+   - Venue booking and setup
+   - Participant registration and management
 
-| Hito Educativo | Participantes | Desbloqueo de Financiación | Acumulado |
-|----------------|---------------|----------------------------|-----------|
-| **Mes 1** | 160 Latin Lovers educados | 3,000 USDC | 3,000 USDC |
-| **Mes 2** | 320 Latin Lovers educados | 3,000 USDC | 6,000 USDC |
-| **Mes 3** | 480 Latin Lovers educados | 3,000 USDC | 9,000 USDC |
-| **Mes 4** | 640 Latin Lovers educados | 3,000 USDC | 12,000 USDC |
-| **Mes 5** | 800 Latin Lovers educados | 3,000 USDC | 15,000 USDC |
+2. **Educational Content Delivery**
+   - Blockchain technology education
+   - ENS domain explanation and demonstration
+   - Hands-on wallet setup assistance
 
-### Detailed Budget Breakdown
+3. **Cultural Engagement Activities**
+   - Latin dance warm-up sessions
+   - Community building activities
+   - Cultural celebration and recognition
 
-| Category | Amount (USDC) | Percentage | Educational Justification |
-|----------|---------------|------------|---------------------------|
-| **Event Logistics** | 3,500 | 23.3% | Venues for educational workshops and blockchain learning |
-| **Specialized Personnel** | 3,500 | 23.3% | Professional instructors for dance engagement and blockchain education |
-| **Mobile Equipment & Transportation** | 1,250 | 8.3% | Professional portable equipment and logistics |
-| **Marketing & Outreach** | 1,200 | 8% | Promoting blockchain education and ENS adoption |
-| **Administrative & Project Management** | 1,200 | 8% | Educational project management and reporting |
-| **Event Permits & Legal Requirements** | 1,200 | 8% | Municipal permits and legal compliance |
-| **ENS Technology & Gas Fees** | 1,090 | 7.3% | Technical support for blockchain education and ENS onboarding |
-| **Documentation & Media** | 900 | 6% | Professional documentation and educational media production |
-| **Technical Infrastructure** | 600 | 4% | Backup systems and technical support |
-| **Contingency & Emergency Fund** | 560 | 3.7% | Risk mitigation and emergency situations |
+4. **Technology Integration**
+   - Subdomain claiming assistance
+   - POAP minting for participants
+   - Follow-up support and education
 
 ---
 
-## 6. Educational Impact Assessment & KPIs
+## 4. LAT.ETH as Educational Gateway
 
-### Success Metrics: Educational Achievement
-- **Quantitative KPIs**:
-  - 800 Latin Lovers educados sobre tecnología blockchain
-  - 800+ subdominios ENS reclamados bajo LAT.ETH
-  - 80% participant retention in web3 learning community
-  - 20 successful educational events completed
-  - 2+ cities reached with blockchain education
+### Educational Value Proposition
+LAT.ETH serves as a powerful educational tool that:
+- **Makes blockchain accessible**: Easy-to-understand domain structure
+- **Creates learning opportunities**: Hands-on experience with ENS technology
+- **Builds community**: Shared cultural experiences around technology
+- **Enables practical learning**: Real-world application of web3 concepts
+- **Fosters engagement**: Cultural activities as learning catalysts
 
-- **Qualitative KPIs**:
-  - **Blockchain knowledge acquisition** success
-  - **ENS understanding** through hands-on learning
-  - **Educational community engagement** levels
-  - **Learning satisfaction** and continued interest assessment
-
-### Educational Measurement Methods
-- **Pre/Post Assessments**: Blockchain knowledge and understanding evaluation
-- **ENS Usage Tracking**: Subdomain activity and continued engagement monitoring
-- **Educational Feedback**: Participant satisfaction with learning experience
-- **Community Metrics**: Web3 learning community engagement and growth
-- **POAP Analytics**: Educational participation and achievement tracking
+### Learning Outcomes
+- **Understanding of blockchain technology** through practical application
+- **ENS domain knowledge** and subdomain claiming experience
+- **Wallet setup and security** best practices
+- **Community engagement** in web3 ecosystem
+- **Cultural appreciation** combined with technological learning
 
 ---
 
-## 7. Risk Assessment & Educational Mitigation
+## 5. ENS DAO Alignment
 
-### Identified Educational Risks
+### Direct ENS Adoption
+- **12,000 new ENS users** through educational workshops
+- **12,000+ subdomain claims** (.lat.eth)
+- **10,200 active wallets** with ENS integration
+- **Educational content** promoting ENS technology
 
-| Risk | Probability | Impact | Educational Mitigation Strategy |
-|------|-------------|--------|--------------------------------|
-| **Technical Complexity** | Medium | High | **Simplified explanations**, step-by-step guidance |
-| **Low Engagement** | Medium | Medium | **Interactive activities**, cultural engagement tools |
-| **Language Barriers** | Medium | Medium | **Multilingual materials**, local language support |
-| **Technology Resistance** | Low | High | **Patient instruction**, hands-on support |
+### Community Building
+- **Latin Lovers community** engaged with ENS ecosystem
+- **Educational resources** for continued learning
+- **Cultural engagement** as gateway to web3 adoption
+- **Regional expansion** model for other communities
 
-### Educational Mitigation Strategies
-- **Educational Consultation**: Engage with local educational institutions
-- **Technical Expertise**: Blockchain specialists in all events
-- **Cultural Training**: Staff training in effective educational delivery
-- **Community Input**: Regular feedback from participants on learning experience
-
----
-
-## 8. Educational Sustainability & Future Plans
-
-### Long-term Educational Vision
-- **Blockchain Education**: Ongoing web3 education through engaging activities
-- **Regional Expansion**: Scale educational model to other Balkan countries
-- **Educational Programs**: Develop ongoing blockchain education curriculum
-- **Learning Community Building**: Establish permanent web3 learning communities
-
-### Educational Revenue Generation
-- **Paid Educational Workshops**: Advanced blockchain education with cultural engagement
-- **Corporate Training Events**: Team-building through blockchain education
-- **Educational Partnerships**: University collaborations for blockchain education
-- **Educational Tourism**: Blockchain learning and cultural experience packages
+### Innovation & Education
+- **First cultural-educational approach** to ENS adoption
+- **Scalable model** for other regions and communities
+- **Educational methodology** combining culture and technology
+- **Community-driven learning** approach
 
 ---
 
-## 9. Team & Educational Capabilities
+## 6. Timeline & Educational Milestones
 
-### Core Educational Team
-- **Educational Project Manager**: Blockchain education expertise and ENS knowledge
-- **Dance Instructors**: Professional Latin dance instructors for engagement
-- **Blockchain Specialists**: ENS and web3 experts for educational delivery
-- **Educational Coordinators**: Community engagement and learning support experts
+### Month 1-3: Foundation and Initial Events
+- **12 events** in Serbia
+- **3,000 participants** educated
+- **3,000 USDC** funding unlock
 
-### Educational Partnerships
-- **Universities**: Local educational institutions for blockchain education
-- **Community Organizations**: Local community groups interested in learning
-- **Cultural Centers**: Belgrade and Novi Sad venues for educational events
-- **Educational Institutions**: Universities and learning centers
+### Month 4-6: Expansion and Growth
+- **24 events** total (12 additional)
+- **6,000 participants** educated
+- **3,000 USDC** funding unlock
 
----
+### Month 7-9: Regional Expansion
+- **36 events** total (12 additional)
+- **9,000 participants** educated
+- **3,000 USDC** funding unlock
 
-## 10. Conclusion: Educational Innovation Through Cultural Engagement
-
-This project represents a **revolutionary approach to blockchain education** that combines engaging cultural activities with technology education to **advance ENS adoption and web3 learning** in Serbia and the Balkans.
-
-**Educational Innovation Through LAT.ETH:**
-- **LAT.ETH is not just a domain** - it's an **educational gateway to web3**
-- **Every subdomain claimed** is a **step in blockchain learning**
-- **Hands-on education** through engaging cultural activities
-- **Permanent learning experience** with zero cost and no expiration
-
-**Why This Matters for ENS DAO:**
-This project offers ENS DAO an opportunity to **advance blockchain education** while expanding its ecosystem. By supporting **educational initiatives** that make web3 accessible through engaging activities, ENS DAO becomes a **champion of blockchain education** and adoption.
-
-**Progressive funding ensures educational accountability** and allows ENS DAO to see **blockchain education results** before full commitment.
-
-Invitamos a la comunidad ENS DAO a apoyar esta **iniciativa educativa** y esperamos **educar a 800 Latin Lovers** sobre tecnología blockchain a través del poder de actividades culturales atractivas.
+### Month 10-12: Completion and Scaling
+- **48 events** total (12 additional)
+- **12,000 participants** educated
+- **6,000 USDC** funding unlock
 
 ---
 
-## Appendices
+## 7. Indicators by Level
 
-### Appendix A: Educational Event Schedule
-### Appendix B: Instructor Profiles
-### Appendix C: Educational Venue Specifications
-### Appendix D: Educational Materials
-### Appendix E: Technical Requirements
-### Appendix F: Community Engagement Plan
-### Appendix G: POAP Educational Recognition Details
+### GOAL Level Indicators
+- **% of Latin Lovers** who understand basic blockchain concepts: 90%
+- **Number of new ENS users** in Serbia and Balkans: 12,000
+- **Community engagement** in ENS ecosystem: Active participation
+
+### PURPOSE Level Indicators
+- **Educational model** established and validated
+- **Cultural-educational approach** proven effective
+- **Scalable methodology** developed for replication
+
+### COMPONENTS Level Indicators
+- **Educational infrastructure** operational
+- **Personnel** trained and effective
+- **Technology integration** successful
+- **Marketing** reaching target audience
+
+### ACTIVITIES Level Indicators
+- **Events** completed as scheduled
+- **Participants** educated and engaged
+- **Subdomains** claimed successfully
+- **POAPs** minted for recognition
 
 ---
 
-**Contact Information:**
-- **Organization**: Livadance DOO
-- **Location**: Belgrade, Serbia
-- **Email**: [Contact email to be provided]
-- **ENS Domain**: [To be secured]
-- **Website**: [To be developed]
+## 8. Budget & Educational Resource Allocation
 
-**Educational Mission:**
-**Advancing ENS Adoption and Blockchain Education Through Cultural Engagement**
+### Total Budget: 15,000 USDC
 
-**Submission Instructions:**
-This proposal should be submitted to the ENS DAO forum at [discuss.ens.domains](https://discuss.ens.domains) for temperature check, followed by formal proposal submission if community support is received.
+### Progressive Funding Structure
+| Educational Milestone | Events | Participants | Funding Unlock |
+|----------------------|--------|--------------|----------------|
+| **Month 3** | 12 events | 3,000 Latin Lovers educated | 3,000 USDC |
+| **Month 6** | 24 events | 6,000 Latin Lovers educated | 3,000 USDC |
+| **Month 9** | 36 events | 9,000 Latin Lovers educated | 3,000 USDC |
+| **Month 12** | 48 events | 12,000 Latin Lovers educated | 6,000 USDC |
+
+### Budget Categories
+- **Instructor Payments**: $70/event (lead + 2 instructors)
+- **Transportation & Logistics**: Regional travel and event setup
+- **Marketing & Outreach**: Campaigns to attract Latin Lovers
+- **POAP Gas Fees**: Educational recognition tokens
+- **Souvenirs & Materials**: Reflective materials for participants
+- **Administrative & Contingency**: Project management and emergency fund
+
+---
+
+## 9. Educational Impact Assessment & KPIs
+
+### Primary Educational Metrics
+- **12,000 Latin Lovers** educated in blockchain technology
+- **90% understanding rate** of basic blockchain concepts
+- **85% wallet creation success** rate
+- **48 educational workshops** completed
+
+### ENS Adoption Metrics
+- **12,000+ ENS subdomains** claimed
+- **10,200 active wallets** with ENS integration
+- **Community engagement** in ENS ecosystem
+- **Educational content** promoting ENS technology
+
+### Community Building Metrics
+- **Active learning communities** established
+- **Cultural-educational model** validated
+- **Scalable methodology** developed
+- **Regional network** formed
+
+---
+
+## 10. Risk Management
+
+### Educational Risks
+- **Low participation** in educational workshops
+- **Technical difficulties** during hands-on learning
+- **Cultural barriers** to blockchain education
+
+### Mitigation Strategies
+- **Engaging cultural activities** to attract participants
+- **Technical support** and backup systems
+- **Cultural sensitivity** in educational approach
+
+---
+
+## 11. Conclusion
+
+**LAT.ETH Educational Initiative** represents a unique opportunity to advance ENS adoption through blockchain education, using engaging cultural activities to make web3 technology accessible to Latin Lovers in Serbia and the Balkans. This project combines education with culture, creating a sustainable and scalable model for regional and international expansion.
+
+### Key Success Factors
+- **Educational focus** on blockchain technology learning
+- **Cultural engagement** as gateway to learning
+- **Hands-on experience** with ENS technology
+- **Community building** through shared experiences
+- **Scalable model** for replication
+
+### Expected Outcomes
+- **12,000 Latin Lovers** educated in blockchain and ENS
+- **12,000+ ENS subdomains** created
+- **10,200 wallets** successfully created
+- **90% understanding** of blockchain concepts
+- **Demonstrable model** for replication across the Balkans
+
+**Ready to advance ENS adoption through education?** 🚀
+
+[View Budget Details](budgets/detailed-budget.md) | [See Interactive Visuals](visuals/) | [Check Project Overview](docs/project-overview.md)
