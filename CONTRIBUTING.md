@@ -1,71 +1,81 @@
-# Contribuyendo a la Iniciativa Educativa LAT.ETH
+# Contributing to LAT.ETH Educational Initiative
 
-## 🌍 **Welcome to Our Cultural Mission**
+Thank you for your interest in contributing to the LAT.ETH Educational Initiative! This project aims to advance ENS adoption through blockchain education, using engaging cultural activities to make web3 technology accessible to Latin Lovers in Serbia and the Balkans.
 
-¡Gracias por tu interés en contribuir a la **Iniciativa Educativa LAT.ETH**! Este proyecto tiene como objetivo evangelizar ENS a los Latin Lovers a través de los Balcanes mediante el baile latino, preservando el idioma español y la identidad cultural a través de la tecnología blockchain.
+## How to Contribute
 
-## 🎯 **How You Can Contribute**
+### Educational Content
+- **Blockchain Education**: Help develop educational materials and content
+- **Cultural Integration**: Contribute to dance and cultural activity planning
+- **Technology Guides**: Create tutorials and guides for ENS and web3 technology
+- **Community Building**: Help build and engage learning communities
 
-### **Cultural Contributions**
-- **Latin Dance Expertise**: Help improve our dance workshop structures
-- **Cultural Insights**: Share knowledge about Latino communities in the Balkans
-- **Language Support**: Help with Spanish language materials and translations
-- **Community Building**: Connect us with Latino communities in your region
+### Technical Development
+- **Website Development**: Improve the LAT.ETH landing page and interactive features
+- **Visual Diagrams**: Create Mermaid diagrams and visualizations
+- **Documentation**: Help translate and improve project documentation
+- **Tools and Resources**: Develop educational tools and resources
 
-### **Technical Contributions**
-- **Documentation**: Improve our proposal documents and guides
-- **Visual Aids**: Create better charts, diagrams, or presentations
-- **Website**: Enhance the LAT.ETH landing page
-- **Code**: Improve any scripts or tools
+### Community Engagement
+- **Event Organization**: Help organize educational workshops and events
+- **Marketing and Outreach**: Contribute to community engagement campaigns
+- **Feedback and Testing**: Provide feedback on educational content and activities
+- **Regional Expansion**: Help expand the project to other regions
 
-### **ENS Ecosystem Contributions**
-- **ENS Integration**: Suggest better ways to onboard users to ENS
-- **POAP Strategy**: Help improve our cultural recognition tokens
-- **Web3 Education**: Enhance our blockchain education materials
+## Getting Started
 
-## 📝 **Contribution Guidelines**
+1. **Fork the Repository**: Create your own fork of the project
+2. **Create a Branch**: Make your changes in a new branch
+3. **Make Changes**: Implement your contributions
+4. **Test Thoroughly**: Ensure all changes work correctly
+5. **Submit a Pull Request**: Create a PR with a clear description
 
-### **Before You Start**
-1. **Check existing issues** to see if your idea is already being worked on
-2. **Read our documentation** to understand the project's mission and goals
-3. **Join our discussions** to align with our cultural defense mission
+## Guidelines
 
-### **Making Changes**
-1. **Fork the repository**
-2. **Create a feature branch** with a descriptive name
-3. **Make your changes** following our cultural mission
-4. **Test your changes** to ensure they work as expected
-5. **Submit a pull request** with a clear description
+### Code Style
+- Follow existing code patterns and conventions
+- Use clear and descriptive variable names
+- Add comments for complex logic
+- Ensure all code is properly formatted
 
-### **Pull Request Guidelines**
-- **Clear title** describing the change
-- **Detailed description** of what was changed and why
-- **Cultural context** explaining how it supports our mission
-- **Screenshots** if applicable (for visual changes)
+### Documentation
+- Write clear and concise documentation
+- Use proper markdown formatting
+- Include examples where helpful
+- Keep documentation up to date
 
-## 🌟 **Cultural Mission Alignment**
+### Educational Content
+- Ensure accuracy of all educational materials
+- Use clear and accessible language
+- Include practical examples and hands-on activities
+- Test content with target audience
 
-All contributions should align with our core mission:
-- **Defending Spanish language** through blockchain technology
-- **Preserving Latino identity** in the digital age
-- **Evangelizing ENS** to underrepresented communities
-- **Building cultural bridges** across the Balkans
+## Project Structure
 
-## 📞 **Getting Help**
+```
+lat.eth/
+├── docs/                    # Main proposal documents
+├── budgets/                 # Financial breakdowns
+├── visuals/                 # Interactive HTML visualizations
+├── templates/               # Event materials and guides
+├── index.html              # LAT.ETH landing page
+├── temperature-check-post.md # Ready for ENS DAO forum
+└── README.md               # Project overview
+```
 
-- **Questions**: Open an issue with the "question" label
-- **Suggestions**: Open an issue with the "enhancement" label
-- **Bugs**: Open an issue with the "bug" label
-- **Cultural Feedback**: Open an issue with the "cultural" label
+## Contact
 
-## 🎉 **Recognition**
+- **Project Lead**: imrulo.eth
+- **GitHub**: [github.com/imrulo/lat.eth](https://github.com/imrulo/lat.eth)
+- **Issues**: Use GitHub Issues for bug reports and feature requests
+- **Discussions**: Use GitHub Discussions for general questions and ideas
 
-Contributors will be recognized through:
-- **POAP tokens** for significant contributions
-- **LAT.ETH subdomains** for major contributors
-- **Cultural recognition** in our documentation
-- **Community acknowledgment** in our events
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Thank you for helping us defend Latino culture through blockchain technology! 🌍💃**
+**Ready to contribute to blockchain education?** 🚀
+
+[View Main Proposal](docs/main-proposal.md) | [Check Budget Details](budgets/detailed-budget.md) | [See Interactive Visuals](visuals/)
