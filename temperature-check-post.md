@@ -1,4 +1,4 @@
-# Temperature Check: LAT.ETH Educational Initiative - 800 Latin Lovers Through Cultural Engagement in Serbia
+# Temperature Check: LAT.ETH Educational Initiative - 12,000 Latin Lovers Through Cultural Engagement in Serbia and Balkans
 
 ## 🎓 **Misión Educativa: Avanzando en la Adopción de ENS a través de la Educación Blockchain**
 

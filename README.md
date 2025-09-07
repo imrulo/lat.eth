@@ -17,7 +17,7 @@
 - **[Interactive Visuals](visuals/)** - Charts and flowcharts
 
 ## Resumen del Proyecto
-**LAT.ETH Educational Initiative** (liderado por imrulo.eth) solicita financiación del ENS DAO para organizar **20 talleres educativos** en Serbia durante 5 meses, combinando educación blockchain con actividades culturales atractivas específicamente diseñadas para **avanzar en la adopción de ENS a través del aprendizaje**. Este proyecto piloto en Serbia establecerá un modelo educativo escalable para expansión a Croacia, Bosnia, Montenegro, Albania, Macedonia del Norte y Kosovo.
+**LAT.ETH Educational Initiative** (liderado por imrulo.eth) solicita financiación del ENS DAO para organizar **48 talleres educativos** en Serbia y países balcánicos durante 12 meses, combinando educación blockchain con actividades culturales atractivas específicamente diseñadas para **avanzar en la adopción de ENS a través del aprendizaje**. Este proyecto piloto establecerá un modelo educativo escalable para expansión regional e internacional.
 
 ## Misión Educativa
 Este no es solo otro proyecto de onboarding de ENS. Esta es una **iniciativa educativa** que utiliza actividades culturales atractivas para:
@@ -50,13 +50,13 @@ lat.eth/
 6. **Submit to ENS DAO**: Follow the guide in `/docs/submission-guide.md`
 
 ## Detalles Clave del Proyecto
-- **Objetivo**: 800 Latin Lovers educados en 20 eventos en Serbia (piloto)
-- **Ubicación**: Belgrado, Serbia (región piloto para expansión balcánica)
+- **Objetivo**: 12,000 Latin Lovers educados en 48 eventos
+- **Ubicación**: Serbia (Belgrado, Novi Sad, Niš) + países balcánicos
 - **Presupuesto**: 15,000 USDC (sistema de desbloqueo progresivo)
-- **Cronograma**: 5 meses (4 eventos por mes)
-- **Enfoque**: **Avanzando en la adopción de ENS a través de la educación blockchain** comenzando con Serbia
+- **Cronograma**: 12 meses (4 eventos por mes)
+- **Enfoque**: **Avanzando en la adopción de ENS a través de la educación blockchain**
 - **Innovación**: Integración POAP para reconocimiento educativo y construcción de comunidad
-- **Expansión**: Modelo educativo escalable para Croacia, Bosnia, Montenegro, Albania, Macedonia del Norte, Kosovo
+- **Expansión**: Modelo educativo escalable para expansión regional e internacional
 
 ## Por qué LAT.ETH Importa: Puerta de Entrada Educativa
 
@@ -85,15 +85,14 @@ This project aligns with ENS DAO's Public Goods Working Group goals through **ed
 - Scalable educational model for other regions worldwide
 
 ## Estructura de Financiación Progresiva
-**Sistema de desbloqueo basado en hitos asegura responsabilidad educativa (Piloto Serbia):**
+**Sistema de desbloqueo basado en hitos asegura responsabilidad educativa:**
 
 | Hito Educativo | Eventos | Participantes | Desbloqueo de Financiación |
 |----------------|---------|---------------|----------------------------|
-| **Mes 1** | 4 eventos | 160 Latin Lovers educados | 3,000 USDC |
-| **Mes 2** | 8 eventos | 320 Latin Lovers educados | 3,000 USDC |
-| **Mes 3** | 12 eventos | 480 Latin Lovers educados | 3,000 USDC |
-| **Mes 4** | 16 eventos | 640 Latin Lovers educados | 3,000 USDC |
-| **Mes 5** | 20 eventos | 800 Latin Lovers educados | 3,000 USDC |
+| **Mes 3** | 12 eventos | 3,000 Latin Lovers educados | 3,000 USDC |
+| **Mes 6** | 24 eventos | 6,000 Latin Lovers educados | 3,000 USDC |
+| **Mes 9** | 36 eventos | 9,000 Latin Lovers educados | 3,000 USDC |
+| **Mes 12** | 48 eventos | 12,000 Latin Lovers educados | 6,000 USDC |
 
 ## Actividades Educativas
 - **Salsa, reggaetón, bachata, merengue** - actividades culturales atractivas para atraer a los Latin Lovers

@@ -4,7 +4,7 @@
 **Enviado por:** Livadance DOO, Serbia  
 **Programa de Grant:** ENS DAO Small Grants  
 **Cantidad Solicitada:** 15,000 USDC  
-**Duración del Proyecto:** 5 meses  
+**Duración del Proyecto:** 12 meses  
 **Marco:** Logical Framework Matrix  
 **Fecha de Envío:** [Por completar]
 

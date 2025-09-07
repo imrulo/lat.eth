@@ -10,9 +10,9 @@ Este documento proporciona una visión integral de la propuesta de grant ENS de 
 **Nombre del Proyecto**: Iniciativa Educativa LAT.ETH  
 **Organización**: Livadance DOO, Serbia  
 **Solicitud de Grant**: 15,000 USDC  
-**Duración**: 5 meses (20 semanas)  
+**Duración**: 12 meses (48 semanas)  
 **Marco**: Logical Framework Matrix  
-**Impacto Objetivo**: 800 nuevos usuarios ENS, 800+ reclamaciones de subdominios  
+**Impacto Objetivo**: 12,000 nuevos usuarios ENS, 12,000+ reclamaciones de subdominios  
 
 **Innovación**: Primera combinación de talleres de baile latino con onboarding del ecosistema ENS, creando un camino cultural único hacia la adopción blockchain en Serbia, estructurado a través de la Matriz de Marco Lógico para máximo impacto y responsabilidad.
 

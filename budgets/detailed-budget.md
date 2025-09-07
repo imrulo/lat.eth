@@ -2,8 +2,8 @@
 ## Propuesta de Grant ENS Livadance - Iniciativa Educativa LAT.ETH
 
 **Cantidad Total Solicitada:** 15,000 USDC  
-**Duración del Proyecto:** 5 meses  
-**Total de Eventos:** 20 talleres  
+**Duración del Proyecto:** 12 meses  
+**Total de Eventos:** 48 talleres  
 **Marco:** Logical Framework Matrix  
 **Conversión de Moneda:** 1 USDC ≈ 0.92 EUR (aproximado)
 

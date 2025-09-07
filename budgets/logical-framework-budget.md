@@ -3,7 +3,7 @@
 
 **Enfoque:** Matriz de Marco Lógico para gestión de fondos  
 **Proyecto:** Iniciativa Educativa LAT.ETH  
-**Duración:** 5 meses  
+**Duración:** 12 meses  
 **Presupuesto Total:** 15,000 USDC  
 
 ---
