@@ -185,7 +185,7 @@ The **LAT.ETH Educational Initiative** is a groundbreaking blockchain education 
 
 **Ready to advance Web3 education through cultural engagement?**
 
-- **Contact**: imrulo.eth (Rulán Ferrales)
+- **Contact**: imrulo.eth (Ruslán Ferrales)
 - **Organization**: Livadance DOO, Serbia
 - **Project**: LAT.ETH Educational Initiative
 - **Mission**: Advancing ENS adoption through blockchain education
