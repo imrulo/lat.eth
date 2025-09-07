@@ -1,46 +1,46 @@
-# Project Overview - Logical Framework
-## Livadance ENS Grant Proposal - LAT.ETH Cultural Defense Initiative
+# Resumen del Proyecto - Marco Lógico
+## Propuesta de Grant ENS Livadance - Iniciativa Educativa LAT.ETH
 
-This document provides a comprehensive overview of the Livadance ENS grant proposal structured using the **Logical Framework Matrix**, summarizing all key components and providing quick access to detailed information.
-
----
-
-## Executive Summary
-
-**Project Name**: LAT.ETH Cultural Defense Initiative  
-**Organization**: Livadance DOO, Serbia  
-**Grant Request**: 15,000 USDC  
-**Duration**: 5 months (20 weeks)  
-**Framework**: Logical Framework Matrix  
-**Target Impact**: 1,000 new ENS users, 1,000+ subdomain claims  
-
-**Innovation**: First-ever combination of Latin dance workshops with ENS ecosystem onboarding, creating a unique cultural pathway to blockchain adoption in Serbia, structured through the Logical Framework Matrix for maximum impact and accountability.
-
-## Logical Framework Structure
-
-This project is organized following the **Logical Framework Matrix** methodology in four hierarchical levels:
-
-1. **GOAL (Development Objective):** Defend and preserve Latino identity through blockchain
-2. **PURPOSE (Project Objective):** Create sustainable network of Latino digital identities
-3. **COMPONENTS (Products/Results):** Infrastructure, personnel, technology and marketing
-4. **ACTIVITIES (Specific Tasks):** Detailed breakdown of all activities
+Este documento proporciona una visión integral de la propuesta de grant ENS de Livadance estructurada usando la **Matriz de Marco Lógico**, resumiendo todos los componentes clave y proporcionando acceso rápido a información detallada.
 
 ---
 
-## Project Concept
+## Resumen Ejecutivo
 
-### What We're Doing
-Livadance DOO will organize 4-6 interactive Latin dance workshops in Belgrade and Novi Sad, Serbia, with integrated ENS ecosystem onboarding. Each 3-hour workshop combines:
+**Nombre del Proyecto**: Iniciativa Educativa LAT.ETH  
+**Organización**: Livadance DOO, Serbia  
+**Solicitud de Grant**: 15,000 USDC  
+**Duración**: 5 meses (20 semanas)  
+**Marco**: Logical Framework Matrix  
+**Impacto Objetivo**: 800 nuevos usuarios ENS, 800+ reclamaciones de subdominios  
 
-1. **Hour 1**: Latin dance instruction (salsa, mambo, cha-cha-cha)
-2. **Hour 2**: ENS and blockchain introduction
-3. **Hour 3**: Hands-on ENS onboarding and subdomain creation
+**Innovación**: Primera combinación de talleres de baile latino con onboarding del ecosistema ENS, creando un camino cultural único hacia la adopción blockchain en Serbia, estructurado a través de la Matriz de Marco Lógico para máximo impacto y responsabilidad.
 
-### Why This Approach Works
-- **Cultural Engagement**: Dance creates a comfortable, non-intimidating environment
-- **Memorable Experience**: Physical activity + technology creates lasting impressions
-- **Community Building**: Shared cultural experience fosters ongoing engagement
-- **Accessibility**: Reduces technical barriers through guided, hands-on learning
+## Estructura del Marco Lógico
+
+Este proyecto está organizado siguiendo la metodología de la **Matriz de Marco Lógico** en cuatro niveles jerárquicos:
+
+1. **OBJETIVO (Objetivo de Desarrollo):** Avanzar en la adopción de ENS y educación blockchain en Serbia y los Balcanes
+2. **PROPÓSITO (Objetivo del Proyecto):** Crear un modelo educativo sostenible para onboarding ENS usando compromiso cultural
+3. **COMPONENTES (Productos/Resultados):** Infraestructura, personal, tecnología y marketing
+4. **ACTIVIDADES (Tareas Específicas):** Desglose detallado de todas las actividades
+
+---
+
+## Concepto del Proyecto
+
+### Lo que Estamos Haciendo
+Livadance DOO organizará 20 talleres interactivos de baile latino en Belgrado y Novi Sad, Serbia, con onboarding integrado del ecosistema ENS. Cada taller de 3 horas combina:
+
+1. **Hora 1**: Instrucción de baile latino (salsa, reggaetón, bachata, merengue)
+2. **Hora 2**: Introducción a ENS y blockchain
+3. **Hora 3**: Onboarding ENS práctico y creación de subdominios
+
+### Por qué Este Enfoque Funciona
+- **Compromiso Cultural**: El baile crea un ambiente cómodo y no intimidante
+- **Experiencia Memorable**: Actividad física + tecnología crea impresiones duraderas
+- **Construcción de Comunidad**: Experiencia cultural compartida fomenta el compromiso continuo
+- **Accesibilidad**: Reduce barreras técnicas a través de aprendizaje guiado y práctico
 
 ---
 
@@ -72,18 +72,19 @@ Livadance DOO will organize 4-6 interactive Latin dance workshops in Belgrade an
 
 ---
 
-## Target Audience
+## Audiencia Objetivo
 
-### Primary Participants
-- **Latin American Expatriates**: Spanish-speaking community in Serbia
-- **Spanish Language Learners**: Instituto Cervantes students and affiliates
-- **Cultural Enthusiasts**: Local dance and cultural community members
-- **Technology Curious**: People interested in blockchain but intimidated by complexity
+### Participantes Primarios
+- **Latin Lovers Residentes**: Comunidad de amantes de la cultura latina en Serbia
+- **Latin Lovers Locales**: Personas serbias atraídas por la música, baile y energía latina
+- **Latin Lovers Extranjeros**: Comunidad internacional interesada en la cultura latina
+- **Entusiastas Culturales**: Miembros de la comunidad local de baile y cultura
+- **Curiosos Tecnológicos**: Personas interesadas en blockchain pero intimidadas por la complejidad
 
-### Geographic Focus
-- **Primary**: Belgrade (4 events)
-- **Secondary**: Novi Sad (2 events)
-- **Future**: Expansion to other Serbian cities and neighboring countries
+### Enfoque Geográfico
+- **Primaria**: Belgrado (16 eventos)
+- **Secundaria**: Novi Sad (4 eventos)
+- **Futuro**: Expansión a otras ciudades serbias y países vecinos
 
 ---
 

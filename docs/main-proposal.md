@@ -1,12 +1,12 @@
 # LAT.ETH Educational Initiative - ENS Grant Proposal
-## Advancing ENS Adoption Through Educational Dance Events
+## Avanzando en la Adopción de ENS a través de Eventos de Baile Educativos
 
-**Submitted by:** Livadance DOO, Serbia  
-**Grant Program:** ENS DAO Small Grants  
-**Requested Amount:** 15,000 USDC  
-**Project Duration:** 5 months  
-**Framework:** Logical Framework Matrix  
-**Submission Date:** [To be filled]
+**Enviado por:** Livadance DOO, Serbia  
+**Programa de Grant:** ENS DAO Small Grants  
+**Cantidad Solicitada:** 15,000 USDC  
+**Duración del Proyecto:** 5 meses  
+**Marco:** Logical Framework Matrix  
+**Fecha de Envío:** [Por completar]
 
 ## Logical Framework Structure
 
@@ -19,99 +19,99 @@ This project is structured following the **Logical Framework Matrix** methodolog
 
 ---
 
-## Executive Summary
+## Resumen Ejecutivo
 
-Livadance DOO proposes to organize **20 educational workshops** in Serbia over 5 months, combining **blockchain education with Latin dance events** as an engagement tool to introduce participants to the ENS ecosystem. This initiative uses the universal appeal of Latin dance (salsa, reggaetón, bachata, merengue) as a **cultural hook to attract participants** to educational sessions about Ethereum, blockchain technology, ENS domains, and decentralized wallets. The primary objective is **educational**: teaching participants about web3 technology, with dance serving as an engaging entry point.
+Livadance DOO propone organizar **20 talleres educativos** en Serbia durante 5 meses, combinando **educación blockchain con eventos de baile latino** como herramienta de compromiso para introducir a los Latin Lovers al ecosistema ENS. Esta iniciativa utiliza el atractivo universal del baile latino (salsa, reggaetón, bachata, merengue) como **gancho cultural para atraer a los Latin Lovers** a sesiones educativas sobre Ethereum, tecnología blockchain, dominios ENS y wallets descentralizados. El objetivo principal es **educativo**: enseñar a los Latin Lovers sobre tecnología web3, con el baile sirviendo como punto de entrada atractivo.
 
-**Key Educational Impact:**
-- **1000 new ENS users** educated about blockchain technology
-- **1000+ ENS subdomains** created under LAT.ETH (e.g., maria.lat.eth, carlos.lat.eth)
-- **POAP recognition tokens** celebrating educational participation
-- **Progressive funding unlock** based on educational milestone achievements
-- **Blockchain education** delivered through engaging cultural activities
+**Impacto Educativo Clave:**
+- **800 nuevos usuarios ENS** educados sobre tecnología blockchain
+- **800+ subdominios ENS** creados bajo LAT.ETH (ej., maria.lat.eth, carlos.lat.eth)
+- **Tokens de reconocimiento POAP** celebrando la participación educativa
+- **Desbloqueo de financiación progresivo** basado en logros de hitos educativos
+- **Educación blockchain** entregada a través de actividades culturales atractivas
 
-**Why LAT.ETH as Educational Tool:**
-LAT.ETH serves as an **educational gateway** that makes blockchain technology accessible and memorable. When someone claims `maria.lat.eth`, they're not just getting a web3 identity - they're **learning about blockchain technology** through a hands-on, engaging experience that combines education with cultural activities.
+**Por qué LAT.ETH como Herramienta Educativa:**
+LAT.ETH sirve como una **puerta de entrada educativa** que hace la tecnología blockchain accesible y memorable. Cuando alguien reclama `maria.lat.eth`, no solo está obteniendo una identidad web3 - está **aprendiendo sobre tecnología blockchain** a través de una experiencia práctica y atractiva que combina educación con actividades culturales.
 
 ---
 
-## 1. Project Background & Educational Mission
+## 1. Antecedentes del Proyecto y Misión Educativa
 
-### About Livadance DOO
-Livadance DOO is a registered entity in Serbia specializing in educational and cultural events, with expertise in Latin dance instruction and community engagement. Our mission is to **advance blockchain education** while leveraging cultural activities to make learning engaging and accessible.
+### Acerca de Livadance DOO
+Livadance DOO es una entidad registrada en Serbia especializada en eventos educativos y culturales, con experiencia en instrucción de baile latino y compromiso comunitario. Nuestra misión es **avanzar en la educación blockchain** mientras aprovechamos las actividades culturales para hacer el aprendizaje atractivo y accesible.
 
-### Why This Project Exists: Educational Innovation Through Cultural Engagement
-This is not just another ENS onboarding project. This is an **educational initiative** that uses cultural activities to:
-- **Teach blockchain technology** in an accessible, engaging way
-- **Advance ENS adoption** through hands-on learning experiences
-- **Connect participants** to web3 technology through familiar cultural activities
-- **Create educational spaces** for blockchain learning
-- **Make web3 technology accessible** to broader audiences
+### Por qué Existe Este Proyecto: Innovación Educativa a través del Compromiso Cultural
+Este no es solo otro proyecto de onboarding de ENS. Esta es una **iniciativa educativa** que utiliza actividades culturales para:
+- **Enseñar tecnología blockchain** de manera accesible y atractiva
+- **Avanzar en la adopción de ENS** a través de experiencias de aprendizaje prácticas
+- **Conectar a los Latin Lovers** con la tecnología web3 a través de actividades culturales familiares
+- **Crear espacios educativos** para el aprendizaje blockchain
+- **Hacer la tecnología web3 accesible** a audiencias más amplias
 
-### Why Serbia as Pilot Location?
-Serbia represents an ideal location for this **educational blockchain initiative** due to:
-- **Legal Framework**: 2021 Law on Digital Assets supports blockchain innovation
-- **Growing Tech Scene**: Increasing interest in blockchain and web3 technologies
-- **Educational Infrastructure**: Universities and cultural institutions open to innovation
-- **Cultural Diversity**: Strong international community interested in learning
-- **EU Alignment**: Strategic position for scaling to neighboring Balkan countries
-- **Replicable Model**: Perfect size for testing and refining the educational approach
+### ¿Por qué Serbia como Ubicación Piloto?
+Serbia representa una ubicación ideal para esta **iniciativa educativa blockchain** debido a:
+- **Marco Legal**: La Ley de Activos Digitales de 2021 apoya la innovación blockchain
+- **Escena Tecnológica en Crecimiento**: Interés creciente en tecnologías blockchain y web3
+- **Infraestructura Educativa**: Universidades e instituciones culturales abiertas a la innovación
+- **Diversidad Cultural**: Fuerte comunidad internacional interesada en aprender
+- **Alineación UE**: Posición estratégica para escalar a países balcánicos vecinos
+- **Modelo Replicable**: Tamaño perfecto para probar y refinar el enfoque educativo
 
 ---
 
 ## 2. Project Objectives & Educational Mission - Logical Framework
 
-### GOAL LEVEL: Development Objective
-**Advance ENS adoption and blockchain education in Serbia and the Balkans**
+### NIVEL OBJETIVO: Objetivo de Desarrollo
+**Avanzar en la adopción de ENS y educación blockchain en Serbia y los Balcanes**
 
-| Component | Indicator | Target | Source of Verification |
-|-----------|-----------|--------|----------------------|
-| **Educational Impact** | % participants who understand blockchain basics | 90% | Pre/post event assessments |
-| **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | Blockchain registry + POAPs |
-| **Community Impact** | Active web3 communities established | 5 communities | Discord metrics + events |
+| Componente | Indicador | Meta | Fuente de Verificación |
+|------------|-----------|------|----------------------|
+| **Impacto Educativo** | % de Latin Lovers que entienden conceptos básicos de blockchain | 90% | Evaluaciones pre/post evento |
+| **Adopción ENS** | Nuevos usuarios con subdominios LAT.ETH | 800 usuarios | Registro blockchain + POAPs |
+| **Impacto Comunitario** | Comunidades web3 activas establecidas | 5 comunidades | Métricas Discord + eventos |
 
-### PURPOSE LEVEL: Project Objective
-**Create a sustainable educational model for ENS onboarding using cultural engagement**
+### NIVEL PROPÓSITO: Objetivo del Proyecto
+**Crear un modelo educativo sostenible para onboarding ENS usando compromiso cultural**
 
-| Component | Indicator | Target | Source of Verification |
-|-----------|-----------|--------|----------------------|
-| **Educational Events** | Dance workshops with blockchain education | 20 events | Event registry + attendance |
-| **Technical Onboarding** | Success rate in wallet creation | 85% | Technical metrics + support |
-| **Blockchain Education** | Basic ENS understanding | 80% | Knowledge assessments |
+| Componente | Indicador | Meta | Fuente de Verificación |
+|------------|-----------|------|----------------------|
+| **Eventos Educativos** | Talleres de baile con educación blockchain | 20 eventos | Registro de eventos + asistencia |
+| **Onboarding Técnico** | Tasa de éxito en creación de wallets | 85% | Métricas técnicas + soporte |
+| **Educación Blockchain** | Comprensión básica de ENS | 80% | Evaluaciones de conocimiento |
 
-### COMPONENTS LEVEL: Products/Results
-**Educational infrastructure, specialized personnel, ENS technology and marketing**
+### NIVEL COMPONENTES: Productos/Resultados
+**Infraestructura educativa, personal especializado, tecnología ENS y marketing**
 
-| Component | Indicator | Target | Source of Verification |
-|-----------|-----------|--------|----------------------|
-| **Educational Infrastructure** | Operational venues and equipment | 100% | Contracts and verifications |
-| **Specialized Personnel** | Hired and trained team | 100% | Contracts and certifications |
-| **ENS Technology** | Operational blockchain systems | 100% | Technical tests |
-| **Educational Marketing** | Produced campaigns and materials | 100% | Materials and metrics |
+| Componente | Indicador | Meta | Fuente de Verificación |
+|------------|-----------|------|----------------------|
+| **Infraestructura Educativa** | Venues operativos y equipamiento | 100% | Contratos y verificaciones |
+| **Personal Especializado** | Equipo contratado y entrenado | 100% | Contratos y certificaciones |
+| **Tecnología ENS** | Sistemas blockchain operativos | 100% | Pruebas técnicas |
+| **Marketing Educativo** | Campañas y materiales producidos | 100% | Materiales y métricas |
 
-### Why LAT.ETH as Educational Gateway
-**LAT.ETH serves as an educational tool that:**
-- **Makes blockchain accessible**: Easy-to-understand domain structure
-- **Provides hands-on learning**: Direct interaction with ENS technology
-- **Creates memorable experiences**: Cultural activities make learning stick
-- **Builds practical skills**: Real-world application of web3 concepts
-- **Offers free education**: No cost barriers to learning blockchain
+### Por qué LAT.ETH como Puerta de Entrada Educativa
+**LAT.ETH sirve como una herramienta educativa que:**
+- **Hace blockchain accesible**: Estructura de dominio fácil de entender
+- **Proporciona aprendizaje práctico**: Interacción directa con la tecnología ENS
+- **Crea experiencias memorables**: Las actividades culturales hacen que el aprendizaje perdure
+- **Construye habilidades prácticas**: Aplicación del mundo real de conceptos web3
+- **Ofrece educación gratuita**: Sin barreras de costo para aprender blockchain
 
-**When someone claims `maria.lat.eth`:**
-- They're **learning about blockchain technology** through hands-on experience
-- They're **understanding ENS domains** and their practical applications
-- They're **gaining web3 skills** in an engaging, supportive environment
-- They're **creating a permanent digital identity** (no expiration date)
-- They're **accessing free blockchain education** with cultural engagement
+**Cuando alguien reclama `maria.lat.eth`:**
+- Está **aprendiendo sobre tecnología blockchain** a través de experiencia práctica
+- Está **entendiendo los dominios ENS** y sus aplicaciones prácticas
+- Está **adquiriendo habilidades web3** en un ambiente atractivo y de apoyo
+- Está **creando una identidad digital permanente** (sin fecha de expiración)
+- Está **accediendo a educación blockchain gratuita** con compromiso cultural
 
-### Alignment with ENS DAO Goals
-This project directly supports ENS DAO's Public Goods Working Group objectives through **educational advancement**:
+### Alineación con los Objetivos del ENS DAO
+Este proyecto apoya directamente los objetivos del Public Goods Working Group del ENS DAO a través del **avance educativo**:
 
-- **User Onboarding**: Bringing 1000 new users into the ENS ecosystem through education
-- **Global Accessibility**: Expanding ENS adoption to underrepresented regions (Balkans)
-- **Educational Initiatives**: Providing hands-on learning experiences with cultural engagement
-- **Ecosystem Growth**: Building sustainable ENS communities through education
-- **Innovation**: Creating replicable educational models for other regions
+- **Onboarding de Usuarios**: Llevando 800 nuevos usuarios al ecosistema ENS a través de la educación
+- **Accesibilidad Global**: Expandiendo la adopción de ENS a regiones subrepresentadas (Balcanes)
+- **Iniciativas Educativas**: Proporcionando experiencias de aprendizaje prácticas con compromiso cultural
+- **Crecimiento del Ecosistema**: Construyendo comunidades ENS sostenibles a través de la educación
+- **Innovación**: Creando modelos educativos replicables para otras regiones
 
 ---
 
@@ -167,29 +167,29 @@ Each workshop will follow this 3-hour format designed to **teach blockchain tech
 
 #### Schedule by Logical Framework Levels
 
-| Month | GOAL Level | PURPOSE Level | COMPONENTS Level | Unlock |
-|-------|------------|---------------|------------------|--------|
-| **Month 1** | Educational infrastructure | Event preparation | Personnel and venues | 3,000 USDC |
-| **Month 2** | 200 educated users | 4 events completed | Operational systems | 3,000 USDC |
-| **Month 3** | 400 educated users | 8 events completed | Active marketing | 3,000 USDC |
-| **Month 4** | 600 educated users | 12 events completed | Process optimization | 3,000 USDC |
-| **Month 5** | 1000 educated users | 20 events completed | Final evaluation | 3,000 USDC |
+| Mes | Nivel OBJETIVO | Nivel PROPÓSITO | Nivel COMPONENTES | Desbloqueo |
+|-----|----------------|-----------------|-------------------|------------|
+| **Mes 1** | Infraestructura educativa | Preparación de eventos | Personal y venues | 3,000 USDC |
+| **Mes 2** | 160 Latin Lovers educados | 4 eventos completados | Sistemas operativos | 3,000 USDC |
+| **Mes 3** | 320 Latin Lovers educados | 8 eventos completados | Marketing activo | 3,000 USDC |
+| **Mes 4** | 480 Latin Lovers educados | 12 eventos completados | Optimización de procesos | 3,000 USDC |
+| **Mes 5** | 800 Latin Lovers educados | 20 eventos completados | Evaluación final | 3,000 USDC |
 
-#### Indicators by Level
+#### Indicadores por Nivel
 
-| Level | Main Indicator | Total Target | Verification |
-|-------|----------------|--------------|--------------|
-| **GOAL** | Educated blockchain users | 1,000 | Assessments + POAPs |
-| **PURPOSE** | Completed educational events | 20 | Event registry |
-| **COMPONENTS** | Operational infrastructure | 100% | Contracts + verifications |
-| **ACTIVITIES** | Completed tasks | 100% | Progress reports |
+| Nivel | Indicador Principal | Meta Total | Verificación |
+|-------|-------------------|------------|--------------|
+| **OBJETIVO** | Latin Lovers educados en blockchain | 800 | Evaluaciones + POAPs |
+| **PROPÓSITO** | Eventos educativos completados | 20 | Registro de eventos |
+| **COMPONENTES** | Infraestructura operativa | 100% | Contratos + verificaciones |
+| **ACTIVIDADES** | Tareas completadas | 100% | Reportes de progreso |
 
-**Total: 20 events, 1000 educated users, 15,000 USDC progressive unlock**
+**Total: 20 eventos, 800 Latin Lovers educados, 15,000 USDC desbloqueo progresivo**
 
-### Target Locations: Educational Expansion
-- **Primary**: Belgrade (16 events) - Universities, cultural centers, and educational institutions
-- **Secondary**: Novi Sad (4 events) - University and educational institutions
-- **Future Expansion**: Other Serbian cities and neighboring Balkan countries
+### Ubicaciones Objetivo: Expansión Educativa
+- **Primaria**: Belgrado (16 eventos) - Universidades, centros culturales e instituciones educativas
+- **Secundaria**: Novi Sad (4 eventos) - Universidad e instituciones educativas
+- **Expansión Futura**: Otras ciudades serbias y países balcánicos vecinos
 
 ---
 
@@ -222,16 +222,16 @@ Each subdomain serves as:
 
 ## 5. Budget & Educational Resource Allocation
 
-### Progressive Funding Structure
-**Total Request: 15,000 USDC (Educational Milestone Unlock)**
+### Estructura de Financiación Progresiva
+**Solicitud Total: 15,000 USDC (Desbloqueo de Hitos Educativos)**
 
-| Educational Milestone | Participants | Funding Unlock | Cumulative |
-|----------------------|--------------|----------------|------------|
-| **Month 1** | 200 educated users | 3,000 USDC | 3,000 USDC |
-| **Month 2** | 400 educated users | 3,000 USDC | 6,000 USDC |
-| **Month 3** | 600 educated users | 3,000 USDC | 9,000 USDC |
-| **Month 4** | 800 educated users | 3,000 USDC | 12,000 USDC |
-| **Month 5** | 1000 educated users | 3,000 USDC | 15,000 USDC |
+| Hito Educativo | Participantes | Desbloqueo de Financiación | Acumulado |
+|----------------|---------------|----------------------------|-----------|
+| **Mes 1** | 160 Latin Lovers educados | 3,000 USDC | 3,000 USDC |
+| **Mes 2** | 320 Latin Lovers educados | 3,000 USDC | 6,000 USDC |
+| **Mes 3** | 480 Latin Lovers educados | 3,000 USDC | 9,000 USDC |
+| **Mes 4** | 640 Latin Lovers educados | 3,000 USDC | 12,000 USDC |
+| **Mes 5** | 800 Latin Lovers educados | 3,000 USDC | 15,000 USDC |
 
 ### Detailed Budget Breakdown
 
@@ -254,8 +254,8 @@ Each subdomain serves as:
 
 ### Success Metrics: Educational Achievement
 - **Quantitative KPIs**:
-  - 1000 total participants educated about blockchain technology
-  - 1000+ ENS subdomains claimed under LAT.ETH
+  - 800 Latin Lovers educados sobre tecnología blockchain
+  - 800+ subdominios ENS reclamados bajo LAT.ETH
   - 80% participant retention in web3 learning community
   - 20 successful educational events completed
   - 2+ cities reached with blockchain education
@@ -341,7 +341,7 @@ This project offers ENS DAO an opportunity to **advance blockchain education** w
 
 **Progressive funding ensures educational accountability** and allows ENS DAO to see **blockchain education results** before full commitment.
 
-We invite the ENS DAO community to support this **educational initiative** and look forward to **educating 1000 new users** about blockchain technology through the power of engaging cultural activities.
+Invitamos a la comunidad ENS DAO a apoyar esta **iniciativa educativa** y esperamos **educar a 800 Latin Lovers** sobre tecnología blockchain a través del poder de actividades culturales atractivas.
 
 ---
 

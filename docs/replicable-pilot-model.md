@@ -1,11 +1,11 @@
-# Replicable Pilot Model - LAT.ETH Educational Initiative
-## Serbia Pilot with Balkan Expansion Strategy
+# Modelo Piloto Replicable - Iniciativa Educativa LAT.ETH
+## Piloto Serbia con Estrategia de Expansión Balcánica
 
-**Document Type:** Replicable Pilot Model  
-**Project:** LAT.ETH Educational Initiative  
-**Pilot Location:** Serbia  
-**Expansion Target:** 6 Balkan Countries  
-**Framework:** Educational Model with Cultural Engagement  
+**Tipo de Documento:** Modelo Piloto Replicable  
+**Proyecto:** Iniciativa Educativa LAT.ETH  
+**Ubicación Piloto:** Serbia  
+**Objetivo de Expansión:** 6 Países Balcánicos  
+**Marco:** Modelo Educativo con Compromiso Cultural  
 
 ---
 
@@ -123,10 +123,10 @@ This document outlines the **replicable pilot model** for the LAT.ETH Educationa
 
 ### Educational Impact Metrics
 
-| Metric | Serbia Pilot | Balkan Expansion | International Target |
-|--------|--------------|------------------|---------------------|
-| **Participants Educated** | 1,000 users | 6,000 users | 25,000+ users |
-| **ENS Subdomains Created** | 1,000+ | 6,000+ | 25,000+ |
+| Métrica | Piloto Serbia | Expansión Balcánica | Objetivo Internacional |
+|---------|---------------|---------------------|----------------------|
+| **Latin Lovers Educados** | 800 usuarios | 4,800 usuarios | 20,000+ usuarios |
+| **Subdominios ENS Creados** | 800+ | 4,800+ | 20,000+ |
 | **Blockchain Understanding** | 90% | 90% | 90% |
 | **Wallet Creation Success** | 85% | 85% | 85% |
 | **Community Retention** | 80% | 80% | 80% |

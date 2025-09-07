@@ -1,7 +1,7 @@
-# Project Flow Diagram - LAT.ETH Cultural Defense Initiative
+# Diagrama de Flujo del Proyecto - Iniciativa Educativa LAT.ETH
 
-## Overview
-This document contains professional Mermaid diagrams that visualize the complete LAT.ETH Cultural Defense Initiative project structure, flow, and impact.
+## Resumen
+Este documento contiene diagramas Mermaid profesionales que visualizan la estructura, flujo e impacto completos de la Iniciativa Educativa LAT.ETH.
 
 ## 1. Project Structure Overview
 
@@ -11,7 +11,7 @@ graph TD
     A --> C[PURPOSE Level<br/>Digital Network<br/>4,500 USDC - 30%]
     A --> D[COMPONENTS Level<br/>Infrastructure<br/>6,000 USDC - 40%]
     
-    B --> B1[1,000 Latino Identities<br/>Preserved]
+    B --> B1[800 Latin Lovers<br/>Educados]
     B --> B2[90% Cultural<br/>Strengthening]
     B --> B3[5 Active Communities<br/>in Web3]
     

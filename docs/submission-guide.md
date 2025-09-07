@@ -1,21 +1,21 @@
-# ENS DAO Grant Submission Guide
-## LAT.ETH Educational Initiative
+# Guía de Envío de Grant ENS DAO
+## Iniciativa Educativa LAT.ETH
 
-**Project:** LAT.ETH Educational Initiative  
-**Target:** ENS DAO Small Grants Program  
-**Amount:** 15,000 USDC  
+**Proyecto:** Iniciativa Educativa LAT.ETH  
+**Objetivo:** Programa de Pequeños Grants ENS DAO  
+**Cantidad:** 15,000 USDC  
 
 ---
 
-## Executive Summary
+## Resumen Ejecutivo
 
-This guide provides instructions for submitting the LAT.ETH Educational Initiative to the ENS DAO Small Grants program. The project advances ENS adoption through blockchain education using engaging cultural activities.
+Esta guía proporciona instrucciones para enviar la Iniciativa Educativa LAT.ETH al programa de Pequeños Grants de ENS DAO. El proyecto avanza en la adopción de ENS a través de educación blockchain utilizando actividades culturales atractivas.
 
-**Key Points:**
-- **Educational Focus**: Primary objective is blockchain education
-- **Cultural Engagement**: Dance events as tools to attract participants
-- **Replicable Model**: Serbia pilot with Balkan expansion
-- **Progressive Funding**: Milestone-based unlock system
+**Puntos Clave:**
+- **Enfoque Educativo**: Objetivo principal es la educación blockchain
+- **Compromiso Cultural**: Eventos de baile como herramientas para atraer participantes
+- **Modelo Replicable**: Piloto en Serbia con expansión balcánica
+- **Financiación Progresiva**: Sistema de desbloqueo basado en hitos
 
 ---
 
@@ -58,17 +58,17 @@ This guide provides instructions for submitting the LAT.ETH Educational Initiati
 
 ## Success Metrics
 
-### Educational Impact
-- 1000 participants educated
-- 90% understanding rate
-- 85% wallet creation success
-- 80% community retention
+### Impacto Educativo
+- 800 Latin Lovers educados
+- 90% tasa de comprensión
+- 85% éxito en creación de wallets
+- 80% retención comunitaria
 
-### ENS Adoption
-- 1000+ subdomains created
-- 1000+ POAPs distributed
-- 5 active communities
-- 20 successful events
+### Adopción ENS
+- 800+ subdominios creados
+- 800+ POAPs distribuidos
+- 5 comunidades activas
+- 20 eventos exitosos
 
 ---
 

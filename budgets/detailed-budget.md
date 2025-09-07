@@ -1,11 +1,11 @@
-# Detailed Budget Breakdown - Logical Framework
-## Livadance ENS Grant Proposal - LAT.ETH Cultural Defense Initiative
+# Desglose Detallado del Presupuesto - Marco Lógico
+## Propuesta de Grant ENS Livadance - Iniciativa Educativa LAT.ETH
 
-**Total Requested Amount:** 15,000 USDC  
-**Project Duration:** 5 months  
-**Total Events:** 20 workshops  
-**Framework:** Logical Framework Matrix  
-**Currency Conversion:** 1 USDC ≈ 0.92 EUR (approximate)
+**Cantidad Total Solicitada:** 15,000 USDC  
+**Duración del Proyecto:** 5 meses  
+**Total de Eventos:** 20 talleres  
+**Marco:** Logical Framework Matrix  
+**Conversión de Moneda:** 1 USDC ≈ 0.92 EUR (aproximado)
 
 ## Logical Framework Structure
 
@@ -58,14 +58,14 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ### 1. Event Logistics (4,500 USDC - 30%)
 
-### Venue Rental
-| Month | Events | Cost per Event (EUR) | Total (EUR) | Total (USDC) | Justification |
-|-------|--------|----------------------|-------------|--------------|---------------|
-| **Month 1** | 4 events | 200 | 800 | 870 | Community halls, cultural centers |
-| **Month 2** | 4 events | 200 | 800 | 870 | Consistent venue quality |
-| **Month 3** | 4 events | 200 | 800 | 870 | Established partnerships |
-| **Month 4** | 4 events | 200 | 800 | 870 | Multi-city expansion |
-| **Month 5** | 4 events | 200 | 800 | 870 | Final events and showcase |
+### Alquiler de Venues
+| Mes | Eventos | Costo por Evento (EUR) | Total (EUR) | Total (USDC) | Justificación |
+|-----|---------|------------------------|-------------|--------------|---------------|
+| **Mes 1** | 4 eventos | 200 | 800 | 870 | Salones comunitarios, centros culturales |
+| **Mes 2** | 4 eventos | 200 | 800 | 870 | Calidad consistente de venues |
+| **Mes 3** | 4 eventos | 200 | 800 | 870 | Asociaciones establecidas |
+| **Mes 4** | 4 eventos | 200 | 800 | 870 | Expansión multi-ciudad |
+| **Mes 5** | 4 eventos | 200 | 800 | 870 | Eventos finales y showcase |
 | **Subtotal** | **20 venues** | **4,000 EUR** | **4,350 USDC** | |
 
 ### Equipment & Materials
@@ -308,13 +308,13 @@ This budget is organized following the Logical Framework Matrix methodology, whi
 
 ### Milestone-Based Unlock System
 
-| Milestone | Events Completed | Participants | Funding Unlock | Cumulative |
-|-----------|------------------|--------------|----------------|------------|
-| **Month 1** | 4 events | 200 users | 3,000 USDC | 3,000 USDC |
-| **Month 2** | 8 events | 400 users | 3,000 USDC | 6,000 USDC |
-| **Month 3** | 12 events | 600 users | 3,000 USDC | 9,000 USDC |
-| **Month 4** | 16 events | 800 users | 3,000 USDC | 12,000 USDC |
-| **Month 5** | 20 events | 1000 users | 3,000 USDC | 15,000 USDC |
+| Hito | Eventos Completados | Participantes | Desbloqueo de Financiación | Acumulado |
+|------|---------------------|---------------|----------------------------|-----------|
+| **Mes 1** | 4 eventos | 160 Latin Lovers | 3,000 USDC | 3,000 USDC |
+| **Mes 2** | 8 eventos | 320 Latin Lovers | 3,000 USDC | 6,000 USDC |
+| **Mes 3** | 12 eventos | 480 Latin Lovers | 3,000 USDC | 9,000 USDC |
+| **Mes 4** | 16 eventos | 640 Latin Lovers | 3,000 USDC | 12,000 USDC |
+| **Mes 5** | 20 eventos | 800 Latin Lovers | 3,000 USDC | 15,000 USDC |
 
 ### Benefits of Progressive Funding
 - **Accountability**: Funding tied to measurable milestones

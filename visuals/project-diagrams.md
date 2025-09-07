@@ -1,15 +1,15 @@
-# Project Diagrams - LAT.ETH Educational Initiative
-## Mermaid Diagrams for Event Flow, Participant Journey, Budget Allocation, and Milestones
+# Diagramas del Proyecto - Iniciativa Educativa LAT.ETH
+## Diagramas Mermaid para Flujo de Eventos, Viaje del Participante, Asignación de Presupuesto y Hitos
 
-**Document Type:** Visual Project Documentation  
-**Project:** LAT.ETH Educational Initiative  
-**Framework:** Educational Model with Cultural Engagement  
+**Tipo de Documento:** Documentación Visual del Proyecto  
+**Proyecto:** Iniciativa Educativa LAT.ETH  
+**Marco:** Modelo Educativo con Compromiso Cultural  
 
 ---
 
-## 1. Event Flow Diagram
+## 1. Diagrama de Flujo de Eventos
 
-This diagram shows the 3-hour educational workshop structure:
+Este diagrama muestra la estructura del taller educativo de 3 horas:
 
 ```mermaid
 graph TD
@@ -36,9 +36,9 @@ graph TD
 
 ---
 
-## 2. Participant Journey Diagram
+## 2. Diagrama del Viaje del Participante
 
-This diagram shows the complete participant journey from awareness to continued engagement:
+Este diagrama muestra el viaje completo del participante desde la conciencia hasta el compromiso continuo:
 
 ```mermaid
 journey
@@ -65,9 +65,9 @@ journey
 
 ---
 
-## 3. Budget Allocation Diagram
+## 3. Diagrama de Asignación de Presupuesto
 
-This diagram shows the budget distribution across the Logical Framework levels:
+Este diagrama muestra la distribución del presupuesto a través de los niveles del Marco Lógico:
 
 ```mermaid
 pie title Budget Allocation by Logical Framework Level
@@ -78,9 +78,9 @@ pie title Budget Allocation by Logical Framework Level
 
 ---
 
-## 4. Detailed Budget Breakdown
+## 4. Desglose Detallado del Presupuesto
 
-This diagram shows the detailed budget allocation across all categories:
+Este diagrama muestra la asignación detallada del presupuesto a través de todas las categorías:
 
 ```mermaid
 pie title Detailed Budget Breakdown (15,000 USDC)
@@ -98,65 +98,65 @@ pie title Detailed Budget Breakdown (15,000 USDC)
 
 ---
 
-## 5. Progressive Funding Milestones
+## 5. Hitos de Financiación Progresiva
 
-This diagram shows the progressive funding unlock system:
+Este diagrama muestra el sistema de desbloqueo de financiación progresiva:
 
 ```mermaid
 gantt
-    title Progressive Funding Milestones
+    title Hitos de Financiación Progresiva
     dateFormat  YYYY-MM-DD
-    section Month 1
-    Foundation & Setup    :milestone, m1, 2024-01-01, 0d
-    section Month 2
-    200 Educated Users    :milestone, m2, 2024-02-01, 0d
-    section Month 3
-    400 Educated Users    :milestone, m3, 2024-03-01, 0d
-    section Month 4
-    600 Educated Users    :milestone, m4, 2024-04-01, 0d
-    section Month 5
-    1000 Educated Users   :milestone, m5, 2024-05-01, 0d
+    section Mes 1
+    Fundación y Configuración    :milestone, m1, 2024-01-01, 0d
+    section Mes 2
+    160 Latin Lovers Educados    :milestone, m2, 2024-02-01, 0d
+    section Mes 3
+    320 Latin Lovers Educados    :milestone, m3, 2024-03-01, 0d
+    section Mes 4
+    480 Latin Lovers Educados    :milestone, m4, 2024-04-01, 0d
+    section Mes 5
+    800 Latin Lovers Educados   :milestone, m5, 2024-05-01, 0d
 ```
 
 ---
 
-## 6. Balkan Expansion Strategy
+## 6. Estrategia de Expansión Balcánica
 
-This diagram shows the expansion timeline across Balkan countries:
+Este diagrama muestra el cronograma de expansión a través de los países balcánicos:
 
 ```mermaid
 gantt
-    title Balkan Expansion Timeline
+    title Cronograma de Expansión Balcánica
     dateFormat  YYYY-MM-DD
-    section Serbia Pilot
-    Foundation & Setup    :done, serbia1, 2024-01-01, 2024-01-31
-    Implementation        :done, serbia2, 2024-02-01, 2024-04-30
-    Evaluation            :done, serbia3, 2024-05-01, 2024-05-31
-    section Croatia
-    Assessment & Setup    :croatia1, 2024-06-01, 2024-07-31
-    Implementation        :croatia2, 2024-08-01, 2024-10-31
+    section Piloto Serbia
+    Fundación y Configuración    :done, serbia1, 2024-01-01, 2024-01-31
+    Implementación        :done, serbia2, 2024-02-01, 2024-04-30
+    Evaluación            :done, serbia3, 2024-05-01, 2024-05-31
+    section Croacia
+    Evaluación y Configuración    :croatia1, 2024-06-01, 2024-07-31
+    Implementación        :croatia2, 2024-08-01, 2024-10-31
     section Bosnia
-    Assessment & Setup    :bosnia1, 2024-07-01, 2024-08-31
-    Implementation        :bosnia2, 2024-09-01, 2024-11-30
+    Evaluación y Configuración    :bosnia1, 2024-07-01, 2024-08-31
+    Implementación        :bosnia2, 2024-09-01, 2024-11-30
     section Montenegro
-    Assessment & Setup    :montenegro1, 2024-08-01, 2024-09-30
-    Implementation        :montenegro2, 2024-10-01, 2024-12-31
+    Evaluación y Configuración    :montenegro1, 2024-08-01, 2024-09-30
+    Implementación        :montenegro2, 2024-10-01, 2024-12-31
     section Albania
-    Assessment & Setup    :albania1, 2024-09-01, 2024-10-31
-    Implementation        :albania2, 2024-11-01, 2025-01-31
-    section North Macedonia
-    Assessment & Setup    :macedonia1, 2024-10-01, 2024-11-30
-    Implementation        :macedonia2, 2024-12-01, 2025-02-28
+    Evaluación y Configuración    :albania1, 2024-09-01, 2024-10-31
+    Implementación        :albania2, 2024-11-01, 2025-01-31
+    section Macedonia del Norte
+    Evaluación y Configuración    :macedonia1, 2024-10-01, 2024-11-30
+    Implementación        :macedonia2, 2024-12-01, 2025-02-28
     section Kosovo
-    Assessment & Setup    :kosovo1, 2024-11-01, 2024-12-31
-    Implementation        :kosovo2, 2025-01-01, 2025-03-31
+    Evaluación y Configuración    :kosovo1, 2024-11-01, 2024-12-31
+    Implementación        :kosovo2, 2025-01-01, 2025-03-31
 ```
 
 ---
 
-## 7. Educational Impact Flow
+## 7. Flujo de Impacto Educativo
 
-This diagram shows how educational activities lead to measurable outcomes:
+Este diagrama muestra cómo las actividades educativas llevan a resultados medibles:
 
 ```mermaid
 graph LR
@@ -169,15 +169,15 @@ graph LR
     G --> H[Continued Learning]
     H --> I[ENS Adoption]
     
-    A --> J[1000 Participants]
+    A --> J[800 Latin Lovers]
     B --> K[90% Understanding Rate]
     C --> L[80% ENS Knowledge]
     D --> M[85% Wallet Success]
-    E --> N[1000+ Subdomains]
-    F --> O[1000+ POAPs]
+    E --> N[800+ Subdomains]
+    F --> O[800+ POAPs]
     G --> P[5 Active Communities]
     H --> Q[80% Retention]
-    I --> R[1000 New ENS Users]
+    I --> R[800 New ENS Users]
     
     style A fill:#00ffff
     style I fill:#00ff00
@@ -254,21 +254,21 @@ graph TD
 
 ---
 
-## 10. Success Metrics Dashboard
+## 10. Dashboard de Métricas de Éxito
 
-This diagram shows the key performance indicators and their relationships:
+Este diagrama muestra los indicadores clave de rendimiento y sus relaciones:
 
 ```mermaid
 graph LR
-    A[Educational Success] --> B[1000 Participants]
+    A[Educational Success] --> B[800 Latin Lovers]
     A --> C[90% Understanding Rate]
     A --> D[85% Wallet Success]
     A --> E[80% ENS Knowledge]
     
     F[Community Impact] --> G[5 Active Communities]
     F --> H[80% Retention Rate]
-    F --> I[1000+ Subdomains]
-    F --> J[1000+ POAPs]
+    F --> I[800+ Subdomains]
+    F --> J[800+ POAPs]
     
     K[Technical Achievement] --> L[20 Events Completed]
     K --> M[100% Infrastructure]
@@ -282,26 +282,26 @@ graph LR
 
 ---
 
-## 11. Long-term Vision and Scaling
+## 11. Visión a Largo Plazo y Escalamiento
 
-This diagram shows the progression from pilot to international scale:
+Este diagrama muestra la progresión del piloto a escala internacional:
 
 ```mermaid
 graph TD
     A[Serbia Pilot] --> B[Balkan Expansion]
     B --> C[International Scale]
     
-    A --> A1[1,000 Users]
+    A --> A1[800 Latin Lovers]
     A --> A2[20 Events]
     A --> A3[5 Months]
     A --> A4[15,000 USDC]
     
-    B --> B1[6,000 Users]
+    B --> B1[4,800 Latin Lovers]
     B --> B2[120 Events]
     B --> B3[12 Months]
     B --> B4[90,000 USDC]
     
-    C --> C1[25,000+ Users]
+    C --> C1[20,000+ Latin Lovers]
     C --> C2[500+ Events]
     C --> C3[24+ Months]
     C --> C4[375,000+ USDC]
@@ -313,9 +313,9 @@ graph TD
 
 ---
 
-## 12. ENS DAO Alignment
+## 12. Alineación con ENS DAO
 
-This diagram shows how the project aligns with ENS DAO objectives:
+Este diagrama muestra cómo el proyecto se alinea con los objetivos del ENS DAO:
 
 ```mermaid
 graph LR
@@ -325,11 +325,11 @@ graph LR
     A --> E[Ecosystem Growth]
     A --> F[Innovation]
     
-    B --> B1[1000 New Users]
-    C --> C1[Balkan Region Expansion]
-    D --> D1[Blockchain Education]
-    E --> E1[Web3 Communities]
-    F --> F1[Cultural Engagement Model]
+    B --> B1[800 Latin Lovers]
+    C --> C1[Expansión Región Balcánica]
+    D --> D1[Educación Blockchain]
+    E --> E1[Comunidades Web3]
+    F --> F1[Modelo de Compromiso Cultural]
     
     style A fill:#00ffff
     style B1 fill:#00ff00
@@ -341,20 +341,20 @@ graph LR
 
 ---
 
-## Conclusion
+## Conclusión
 
-These Mermaid diagrams provide a comprehensive visual representation of the LAT.ETH Educational Initiative, showing:
+Estos diagramas Mermaid proporcionan una representación visual integral de la Iniciativa Educativa LAT.ETH, mostrando:
 
-1. **Event Flow**: Clear 3-hour workshop structure
-2. **Participant Journey**: Complete educational experience
-3. **Budget Allocation**: Transparent fund distribution
-4. **Progressive Milestones**: Milestone-based funding system
-5. **Expansion Strategy**: Balkan and international scaling
-6. **Educational Impact**: Measurable learning outcomes
-7. **Risk Management**: Comprehensive mitigation strategies
-8. **Team Structure**: Clear organizational responsibilities
-9. **Success Metrics**: Key performance indicators
-10. **Long-term Vision**: Scaling from pilot to international
-11. **ENS DAO Alignment**: Clear objective alignment
+1. **Flujo de Eventos**: Estructura clara de talleres de 3 horas
+2. **Viaje del Participante**: Experiencia educativa completa
+3. **Asignación de Presupuesto**: Distribución transparente de fondos
+4. **Hitos Progresivos**: Sistema de financiación basado en hitos
+5. **Estrategia de Expansión**: Escalamiento balcánico e internacional
+6. **Impacto Educativo**: Resultados de aprendizaje medibles
+7. **Gestión de Riesgos**: Estrategias de mitigación integrales
+8. **Estructura del Equipo**: Responsabilidades organizacionales claras
+9. **Métricas de Éxito**: Indicadores clave de rendimiento
+10. **Visión a Largo Plazo**: Escalamiento del piloto a internacional
+11. **Alineación ENS DAO**: Alineación clara de objetivos
 
-These visual representations make the project more accessible and demonstrate the professional, structured approach to blockchain education through cultural engagement.
+Estas representaciones visuales hacen el proyecto más accesible y demuestran el enfoque profesional y estructurado para la educación blockchain a través del compromiso cultural.

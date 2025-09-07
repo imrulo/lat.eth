@@ -1,21 +1,28 @@
-# Logical Framework Implementation - Update Guide
-## Livadance ENS Grant Proposal - LAT.ETH Educational Initiative
+# Implementación del Marco Lógico - Guía de Actualización
+## Propuesta de Grant ENS Livadance - Iniciativa Educativa LAT.ETH
 
-**Update Date:** [Current Date]  
-**Version:** 2.0 - Logical Framework  
-**Responsible:** Project Management Team  
+**Fecha de Actualización:** [Fecha Actual]  
+**Versión:** 3.0 - Marco Lógico con Latin Lovers  
+**Responsable:** Equipo de Gestión de Proyecto  
 
 ---
 
-## Summary of Implemented Changes
+## Resumen de Cambios Implementados
 
-### Structural Transformation
-The project has been updated from a traditional budget structure to a **Logical Framework Matrix** that organizes funds into four hierarchical levels focused on **educational objectives**:
+### Transformación Estructural
+El proyecto ha sido actualizado de una estructura de presupuesto tradicional a una **Matriz de Marco Lógico** que organiza los fondos en cuatro niveles jerárquicos enfocados en **objetivos educativos**:
 
-1. **GOAL (Development Objective)** - 30% of budget (4,500 USDC) - Educational Impact
-2. **PURPOSE (Project Objective)** - 30% of budget (4,500 USDC) - Educational Model
-3. **COMPONENTS (Products/Results)** - 40% of budget (6,000 USDC) - Educational Infrastructure
-4. **ACTIVITIES (Specific Tasks)** - Detailed educational implementation breakdown
+1. **OBJETIVO (Objetivo de Desarrollo)** - 30% del presupuesto (4,500 USDC) - Impacto Educativo
+2. **PROPÓSITO (Objetivo del Proyecto)** - 30% del presupuesto (4,500 USDC) - Modelo Educativo
+3. **COMPONENTES (Productos/Resultados)** - 40% del presupuesto (6,000 USDC) - Infraestructura Educativa
+4. **ACTIVIDADES (Tareas Específicas)** - Desglose detallado de implementación educativa
+
+### Actualización a Latin Lovers
+El proyecto ha sido transformado de un enfoque exclusivo en "Latinos" a un enfoque inclusivo basado en "Latin Lovers":
+- **Público Objetivo**: Latin Lovers (amantes de la cultura latina, independientemente del origen)
+- **Números Realistas**: 800 Latin Lovers educados (vs. 1,000 anterior)
+- **Lenguaje**: Completamente en español
+- **Mensaje**: Educación blockchain a través de la energía de los Latin Lovers
 
 ---
 
@@ -50,15 +57,15 @@ The project has been updated from a traditional budget structure to a **Logical 
 
 ## Implemented Logical Framework Structure
 
-### GOAL LEVEL: Educational Impact (4,500 USDC - 30%)
+### NIVEL OBJETIVO: Impacto Educativo (4,500 USDC - 30%)
 
-**Objective:** Advance ENS adoption and blockchain education in Serbia and the Balkans
+**Objetivo:** Avanzar en la adopción de ENS y educación blockchain en Serbia y los Balcanes
 
-| Component | Indicator | Target | Funds | Verification |
-|-----------|-----------|--------|-------|--------------|
-| **Educational Impact** | % participants understanding blockchain basics | 90% | 2,250 USDC | Pre/post assessments |
-| **ENS Adoption** | New users with LAT.ETH subdomains | 1,000 users | 3,000 USDC | Blockchain registry |
-| **Community Impact** | Active web3 learning communities | 5 communities | 1,500 USDC | Discord metrics |
+| Componente | Indicador | Meta | Fondos | Verificación |
+|------------|-----------|------|--------|--------------|
+| **Impacto Educativo** | % de Latin Lovers que entienden conceptos básicos de blockchain | 90% | 2,250 USDC | Evaluaciones pre/post |
+| **Adopción ENS** | Nuevos usuarios con subdominios LAT.ETH | 800 usuarios | 3,000 USDC | Registro blockchain |
+| **Impacto Comunitario** | Comunidades web3 de aprendizaje activas | 5 comunidades | 1,500 USDC | Métricas Discord |
 
 ### PURPOSE LEVEL: Educational Model (4,500 USDC - 30%)
 

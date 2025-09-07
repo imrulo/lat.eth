@@ -1,13 +1,13 @@
-# POAP Integration Strategy
-## Livadance ENS Grant Proposal
+# Estrategia de Integración POAP
+## Propuesta de Grant ENS Livadance
 
-This document outlines the comprehensive POAP (Proof of Attendance Protocol) integration strategy for the Livadance Latin Dance ENS Onboarding project.
+Este documento describe la estrategia integral de integración POAP (Proof of Attendance Protocol) para el proyecto de Onboarding ENS de Baile Latino Livadance.
 
 ---
 
-## Executive Summary
+## Resumen Ejecutivo
 
-The Livadance project will integrate POAP tokens as a core component of the ENS onboarding experience, creating a unique recognition system that encourages ongoing engagement and community building. Each participant will receive multiple POAPs throughout their journey, creating a verifiable record of their participation and achievements.
+El proyecto Livadance integrará tokens POAP como componente central de la experiencia de onboarding ENS, creando un sistema único de reconocimiento que fomenta el compromiso continuo y la construcción de comunidad. Cada participante recibirá múltiples POAPs a lo largo de su viaje, creando un registro verificable de su participación y logros.
 
 ---
 
@@ -35,13 +35,13 @@ The Livadance project will integrate POAP tokens as a core component of the ENS 
 #### Monthly Event POAPs
 Each month, participants will receive a unique POAP for attending workshops:
 
-| Month | POAP Design | Rarity | Distribution |
-|-------|-------------|--------|--------------|
-| **Month 1** | "Dance Pioneer" | Common | 200 participants |
-| **Month 2** | "Salsa Explorer" | Common | 400 participants |
-| **Month 3** | "Mambo Master" | Uncommon | 600 participants |
-| **Month 4** | "Cha-Cha Champion" | Uncommon | 800 participants |
-| **Month 5** | "ENS Dance Legend" | Rare | 1000 participants |
+| Mes | Diseño POAP | Rareza | Distribución |
+|-----|-------------|--------|--------------|
+| **Mes 1** | "Pionero del Baile" | Común | 160 participantes |
+| **Mes 2** | "Explorador de Salsa" | Común | 320 participantes |
+| **Mes 3** | "Maestro de Mambo" | Poco Común | 480 participantes |
+| **Mes 4** | "Campeón de Cha-Cha" | Poco Común | 640 participantes |
+| **Mes 5** | "Leyenda del Baile ENS" | Raro | 800 participantes |
 
 #### Individual Event POAPs
 Each of the 20 events will have a unique POAP design:

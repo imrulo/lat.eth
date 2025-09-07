@@ -1,8 +1,8 @@
-# Contributing to LAT.ETH Cultural Defense Initiative
+# Contribuyendo a la Iniciativa Educativa LAT.ETH
 
 ## 🌍 **Welcome to Our Cultural Mission**
 
-Thank you for your interest in contributing to the **LAT.ETH Cultural Defense Initiative**! This project aims to evangelize ENS to Latinos across the Balkans through Latin dance, preserving Spanish language and Latino identity through blockchain technology.
+¡Gracias por tu interés en contribuir a la **Iniciativa Educativa LAT.ETH**! Este proyecto tiene como objetivo evangelizar ENS a los Latin Lovers a través de los Balcanes mediante el baile latino, preservando el idioma español y la identidad cultural a través de la tecnología blockchain.
 
 ## 🎯 **How You Can Contribute**
 

@@ -1,7 +1,7 @@
-# Comprehensive Risk Assessment
-## Livadance ENS Grant Proposal
+# Evaluación Integral de Riesgos
+## Propuesta de Grant ENS Livadance
 
-This document provides a thorough analysis of potential risks associated with the Latin Dance ENS Onboarding project and detailed mitigation strategies for each identified risk.
+Este documento proporciona un análisis exhaustivo de los riesgos potenciales asociados con el proyecto de Onboarding ENS de Baile Latino y estrategias detalladas de mitigación para cada riesgo identificado.
 
 ---
 

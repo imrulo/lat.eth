@@ -1,26 +1,26 @@
-# Quick Start Guide
-## LAT.ETH Cultural Defense Initiative - ENS Grant Proposal
+# Guía de Inicio Rápido
+## Iniciativa Educativa LAT.ETH - Propuesta de Grant ENS
 
-**Need to submit quickly? Start here!**
+**¿Necesitas enviar rápidamente? ¡Comienza aquí!**
 
 ---
 
-## 🚀 Immediate Actions Required
+## 🚀 Acciones Inmediatas Requeridas
 
-### 1. Review the Main Proposal
-- **File**: `/docs/main-proposal.md`
-- **Time**: 10-15 minutes
-- **Contains**: Complete LAT.ETH cultural defense grant proposal ready for submission
+### 1. Revisar la Propuesta Principal
+- **Archivo**: `/docs/main-proposal.md`
+- **Tiempo**: 10-15 minutos
+- **Contiene**: Propuesta completa de grant educativo LAT.ETH lista para envío
 
-### 2. Check the Budget
-- **File**: `/budgets/detailed-budget.md`
-- **Time**: 5 minutes
-- **Contains**: Detailed 15,000 USDC breakdown for cultural preservation
+### 2. Verificar el Presupuesto
+- **Archivo**: `/budgets/detailed-budget.md`
+- **Tiempo**: 5 minutos
+- **Contiene**: Desglose detallado de 15,000 USDC para educación blockchain
 
-### 3. Understand the Timeline
-- **File**: `/visuals/project-timeline.md`
-- **Time**: 5 minutes
-- **Contains**: 5-month cultural preservation schedule with milestones
+### 3. Entender el Cronograma
+- **Archivo**: `/visuals/project-timeline.md`
+- **Tiempo**: 5 minutos
+- **Contiene**: Cronograma de 5 meses de educación con hitos
 
 ---
 
@@ -44,21 +44,21 @@
 
 ## 🎯 Key Project Highlights
 
-### What Makes This Special
-- **Cultural Defense Mission**: Defending Spanish language and Latino identity
-- **Ambitious Scale**: 20 events over 5 months
-- **Massive Impact**: 1000 new ENS users preserving Latino heritage
-- **Progressive Funding**: Cultural milestone-based unlock system
-- **POAP Integration**: Cultural recognition tokens for participation
-- **LAT.ETH Identity**: Cultural, historical, and identity domain for Latino community
+### Lo que Hace Esto Especial
+- **Misión Educativa**: Educación blockchain a través de la energía de los Latin Lovers
+- **Escala Realista**: 20 eventos durante 5 meses
+- **Impacto Significativo**: 800 Latin Lovers educados en blockchain
+- **Financiación Progresiva**: Sistema de desbloqueo basado en hitos educativos
+- **Integración POAP**: Tokens de reconocimiento educativo por participación
+- **Identidad LAT.ETH**: Dominio educativo y cultural para la comunidad Latin Lovers
 
-### Cultural Mission
-This is not just another ENS onboarding project. This is a **cultural defense initiative** that uses blockchain technology to:
-- **Preserve Spanish language** in the digital age
-- **Strengthen Latino identity** through web3 technology
-- **Connect Spanish speakers** to their cultural heritage
-- **Create digital spaces** for Latino cultural expression
-- **Defend cultural identity** against digital homogenization
+### Misión Educativa
+Este no es solo otro proyecto de onboarding ENS. Esta es una **iniciativa educativa** que utiliza la tecnología blockchain para:
+- **Educar en blockchain** a través de la cultura latina
+- **Conectar a los Latin Lovers** con la tecnología web3
+- **Crear espacios digitales** para el aprendizaje y la expresión cultural
+- **Fomentar la adopción de ENS** mediante actividades atractivas
+- **Construir comunidades web3** sostenibles y educativas
 
 ### ENS DAO Alignment
 - **Perfect Fit**: Public Goods Working Group goals
@@ -72,13 +72,13 @@ This is not just another ENS onboarding project. This is a **cultural defense in
 
 ### Total Request: 15,000 USDC (Cultural Milestone Unlock)
 
-| Cultural Milestone | Events | Participants | Funding Unlock |
-|-------------------|--------|--------------|----------------|
-| **Month 1** | 4 events | 200 Latino identities | 3,000 USDC |
-| **Month 2** | 8 events | 400 Latino identities | 3,000 USDC |
-| **Month 3** | 12 events | 600 Latino identities | 3,000 USDC |
-| **Month 4** | 16 events | 800 Latino identities | 3,000 USDC |
-| **Month 5** | 20 events | 1000 Latino identities | 3,000 USDC |
+| Hito Educativo | Eventos | Participantes | Desbloqueo de Fondos |
+|----------------|---------|---------------|---------------------|
+| **Mes 1** | 4 eventos | 160 Latin Lovers educados | 3,000 USDC |
+| **Mes 2** | 8 eventos | 320 Latin Lovers educados | 3,000 USDC |
+| **Mes 3** | 12 eventos | 480 Latin Lovers educados | 3,000 USDC |
+| **Mes 4** | 16 eventos | 640 Latin Lovers educados | 3,000 USDC |
+| **Mes 5** | 20 eventos | 800 Latin Lovers educados | 3,000 USDC |
 
 **Benefits of Progressive Funding:**
 - ENS DAO sees cultural preservation results before full commitment
